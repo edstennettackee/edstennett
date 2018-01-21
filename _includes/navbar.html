@@ -1,0 +1,27 @@
+<header class="site-header">
+    
+    <!-- Logo and title -->
+<div>
+	<div class="row">
+		<a href="{{ site.baseurl }}/">
+			<img class="avatar img-fluid" src="{{ site.baseurl }}/{{ site.theme_settings.avatar }}" alt="Ed Stennett logo"/>
+		</a>
+        <nav class="clear">
+            <a id="pull" class="toggle" href="#">
+                <i class="fa fa-bars fa-lg">
+                <p class="sr-only">Menu</p>
+                </i>
+            </a>
+    
+    <!-- Menu -->
+    <ul>
+        {% assign pages_list = site.pages %}
+        {% assign group = 'navigation' %}
+        {% include pages_list.html %}
+    </ul>
+        
+	</nav>
+	</div>
+</div>
+    
+</header>

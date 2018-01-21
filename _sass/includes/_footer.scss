@@ -1,0 +1,69 @@
+.contact-footer {
+    background: $fivehundred;
+    padding: 100px 0;
+}
+
+.footer-btn {
+    margin-left: 0;
+    margin-top: 2.5em;
+}
+
+.site-footer:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: -50px;
+    overflow: visible;
+    width: 100%;
+    height: 80px;
+    background: $brand-color;
+    -webkit-transform: skewY(-1.5deg);
+    -moz-transform: skewY(-1.5deg);
+    -ms-transform: skewY(-1.5deg);
+    -o-transform: skewY(-1.5deg);
+    transform: skewY(-1.5deg);
+    -webkit-backface-visibility: hidden;
+    @media only screen and (max-width: 1000px) {
+        height: 70px;
+        top: -40px;
+    }
+    @media only screen and (max-width: 590px) {
+        height: 50px;
+    }
+}
+
+.site-footer {
+    @extend %padding-regular;
+    display: inline-block;
+    width: 100%;
+    background: $brand-color;
+    position: relative;
+    margin-top: 25px;
+
+    .footer-icons {
+        ul {
+            list-style: none;
+            margin-left: -10px;
+            margin-top: -5px;
+            li {
+                display: inline;
+            }
+        }
+    }
+}
+
+.footer-icon {
+    display: block;
+    margin-top: -10px;
+}
+
+.footer-text-caption {
+    font-size: 0.6em;
+    text-align: left;
+}
+
+.footer-item {
+    font-size: 0.6em;
+    display: block;
+    margin-bottom: 0.4em; 
+}

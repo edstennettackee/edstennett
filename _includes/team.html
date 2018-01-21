@@ -1,0 +1,11 @@
+<div class="row">
+    <div class="row-flex">
+        {% for item in site.team %}
+        <div class="col-4">
+            <img data-src="{{ site.baseurl }}/{{ item.img }}" alt="{{ item.name }} photo" class="img-fluid img-block lazy" />
+            <h4>{{ item.name }}</h4>
+            <p>{{ item.role }}</p>
+        </div>
+        {% endfor %}
+    </div>
+</div>

@@ -1,0 +1,17 @@
+<!-- Portfolio Grid Section -->
+<section class="container-portfolio">
+    <div class="row">
+        {% for item in site.projects %}
+        <div class="col-12 portfolio-item">
+            <a href="{{ site.baseurl }}{{ item.url }}" class="portfolio-link" data-keyboard="true">
+                <div class="caption" title="{{ item.title }}">
+                    <img data-src="{{ site.baseurl }}/{{ item.logo }}" class="img-fluid lazy no-padding portfolio-logo" alt="{{ item.client }} logo">
+                    <h2 class="portfolio-title">{{ item.title }}</h2>
+                    <p class="portfolio-details">{{ item.type }}</p>
+                </div>
+                <img data-src="{{ site.baseurl }}/{{ item.img }}" class="img-fluid portfolio-img lazy no-padding" alt="{{ item.title }} banner image">
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+</section>

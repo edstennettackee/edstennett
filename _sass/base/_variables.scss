@@ -1,0 +1,64 @@
+// Typography
+$font-family-main: 'Fira Sans', Helvetica, Arial, sans-serif;
+$font-family-headings: 'Playfair Display', serif;
+$font-family-mono: 'Roboto Mono', monospace;
+$font-size: 1.25em;
+
+// Padding
+$padding-large: 10%;
+$padding-small: 5%;
+$padding-x-small: 3%;
+$padding-x-x-small: 1%;
+
+// Brand colours
+$white: #fff;
+$brand-color: #16222A;
+$brand-color-300: #5C646A;
+
+// Teal - uses Google material colour terminology (500,700,900)
+
+$fifty: #E0F7F8;
+$onehundred: #B3EBED;
+$fivehundred: #639BAB;
+$sevenhundred: #00ACB4;
+$eighthundred: #00858C;
+
+
+$background-color: #fff;
+$border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
+
+
+// Greys
+$body-primary: #454B54;
+$body-secondary: #676C74;
+$background: #efefef; // remove
+$background-secondary: #F5F6F7;
+
+
+// Typography colours
+$text-color: #999999;
+$selection-color: #80DDE1; // visible when highlighting text
+$blockquote-color: #EEF7FA; // $background-color;
+
+// Tags color
+$tags-color: #b0b0b0;
+
+//Search color
+$link-shadow: transparentize($brand-color, .6);//rgba(26, 188, 156, 0.6);
+$text-shadow: #3f3f3f;
+$search-color: #999;
+
+// Header colours
+$header-link-color: #383838;
+
+// Feature image for articles
+$feature-image-text-color: #fff;
+$feature-image-size: cover; // options include "cover", "contain", "auto"
+
+// Header description box
+$header-desc-background-color: #507492;
+$header-desc-text-color: #FFF;
+
+// Mobile display
+$break: 768px;
+$sm-break: 450px;

@@ -1,0 +1,13 @@
+{
+  "name": "Seenit",
+  "short_name": "Seenit 😎",
+  "description": "Transforming the way brands and organisations connect with their communities",
+  "start_url": "/?homescreen=1",
+  "background_color": "#00BBC2",
+  "theme_color": "#00ACB4",
+  "icons": [{
+    "src": "{{ site.baseurl }}/assets/apple-touch-icon-180x180.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  }]
+}

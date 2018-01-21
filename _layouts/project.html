@@ -1,0 +1,40 @@
+---
+layout: fullscreen
+---
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <p><a href="{{ site.baseurl }}/projects">Project</a> / {{ page.title }}</p>
+            </div>
+        </div>
+    </div>
+    <div id="main" class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="intro">
+                    <h2 id="{{ page.title | cgi_escape }}" class="title">{{ page.title }}</h2>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                {{ content }}
+            </div>
+        </div>
+    </div>
+</article>
+<!-- Disqus -->
+<!--
+{% if site.theme_settings.disqus_shortname %}
+<div class="comments">
+  {% include disqus.html %}
+</div>
+{% endif %}
+-->
+
+<!-- Post navigation -->
+{% if site.theme_settings.post_navigation %} {% include post_nav.html %} {% endif %}

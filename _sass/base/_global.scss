@@ -1,0 +1,197 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+figure {
+  margin: 0;
+}
+// For correct line number width in Github Gists
+.gist table tbody tr td {
+  box-sizing: content-box;
+}
+html {
+  background: $background-color;
+}
+
+// Typography
+::selection {
+  background: $selection-color;
+}
+::-moz-selection {
+  background: $selection-color;
+}
+body {
+  color: $body-primary;
+  font-family: $font-family-main;
+  font-size: $font-size;
+  word-wrap: break-word;
+}
+section {
+  padding: 100px 0;
+  @media only screen and (max-width: 45em) {
+    padding: 20px 0;
+    }
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-headings;
+  line-height: 1.2;
+  margin: 0.67em 0;
+  color: $brand-color;
+  a {
+    font-weight: 700;
+  }
+}
+h1 {
+  font-size: 2.250em;
+  font-weight: 400;
+}
+h2 {
+  font-size: 1.6em;
+  font-weight: 900;
+}
+h3 {
+  font-size: 1.2em;
+  font-weight: 700;
+}
+h4 {
+  font-size: 1.05em;
+  font-weight: 700;
+}
+h5 {
+  font-size: 0.8em;
+  font-weight: 700;
+}
+p {
+  font-size: 0.8em;
+  color: $body-primary;
+  font-weight: 300;
+}
+span {
+}
+blockquote {
+    border-left: 2px solid $sevenhundred;
+    margin: 1em 1em;
+    padding: 0.75em 1em;
+}
+blockquote p:last-child,
+footer p:last-child {
+  margin-bottom: 0;
+}
+table {
+  table-layout:fixed;
+  width:100%;
+  word-wrap:break-word;
+  @media (max-width: 1100px) {
+    overflow-x: scroll;
+    display: inline-block;
+  }
+}
+td,
+th {
+  padding: 0.5em 1em;
+  border: 1px solid $border-color;
+  text-align: left;
+}
+table,
+dl,
+code,
+kbd,
+pre,
+samp {
+  margin: 1em 0;
+}
+code {
+    font-family: $font-family-mono;
+    font-size: 0.9em;
+}
+dt {
+  font-weight: bold;
+}
+dd {
+    margin-left: 2em;
+}
+p, ol, ul, dl, .math-display {
+  line-height: 1.5;
+  margin-bottom: 1.5em;
+}
+// KaTeX math display
+.math-display {
+  display: inline-block;
+  width: 100%;
+}
+// Lists within lists
+li > ul, li > ol {
+    margin-bottom: 0;
+    margin-left: 1.5em;
+}
+ol, ul {
+  list-style-position: inside;
+}
+hr {
+    border: 0;
+    border-top: 2px solid rgba(0,0,0,0.1);
+    border-bottom: 3px solid #fff;
+    margin: 0.6em 0;
+    width: 1em;
+}
+a {
+  color: $fivehundred;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  font-weight: 700;
+}
+
+a:hover {
+  color: $sevenhundred;
+  text-decoration: none;
+}
+
+/* ---- Responsive ---- */
+
+iframe {
+    max-width: 100%;
+    padding: 5% 10%;
+}
+
+img, embed, object, video {
+  max-width: 100%;
+  padding: 0 10%;
+}
+img[align=left] {
+  margin-right: 3%;
+}
+img[align=right] {
+  margin-left: 3%;
+}
+
+@media screen and (max-width: $sm-break) {
+    h1 {
+      font-size: 2em;
+    }
+    h2 {
+      font-size: 1.5em;
+    }
+    h3 {
+      font-size: 1em;
+    }
+    h4 {
+      font-size: 0.75em;
+    }
+    p, li {
+      font-size: 0.75em;
+    }
+}
+
+// Screenreader
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    border: 0;
+}

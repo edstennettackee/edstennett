@@ -1,0 +1,162 @@
+article,
+.comments {
+    @extend %padding-regular;
+    float: left;
+    width: 100%;
+}
+
+article {
+    header {
+        margin-bottom: 6%;
+        text-align: center;
+    }
+    a:hover {
+        @extend .body-link;
+    }
+    .footnotes {
+        font-size: 0.9em;
+    }
+    ul {
+        font-size: 0.8em;
+    }
+    ol {
+        font-size: 0.8em;
+        padding-left: 1em;
+    }
+}
+
+footer {
+    width: 100%;
+    
+    .meta {
+        color: rgba($text-color, .5);
+        letter-spacing: 0.1em;
+        display: inline;
+        text-transform: uppercase;
+    }
+    a.button {
+        margin-left: 1em;
+    }
+}
+
+header {
+    h1 {
+        margin: 0;
+    }
+}
+
+.meta {
+    color: rgba($text-color, .5);
+    font-size: 0.6em;
+    letter-spacing: 0.1em;
+    margin: 0;
+}
+
+.excerpt {
+    font-size: 0.7em;
+    padding-top: 1em;
+}
+
+.blog-post {
+    margin-bottom: 8em !important;
+}
+
+.blog-img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    padding: 0;
+    transform: scale(1);
+    transition: all 0.5s ease-in-out;
+}
+
+.blog-img:hover {
+    transform: scale(1.04);
+    box-shadow: 4px 4px 12px rgba(0,0,0,0.24);
+}
+
+.blog-author-img-croppper {
+    width: 72px;
+    height: 72px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 100%;
+    margin: auto;
+    margin-bottom: 1em;
+}
+
+.blog-author-img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+    object-fit: cover;
+    padding: 0;
+}
+
+.blog-feature-img {
+    margin-bottom: 2em;
+}
+
+
+/* --- Feature image --- */
+.feature-image {
+    padding: 0%;
+    .post-link {
+        color: $feature-image-text-color;
+    }
+    header {
+        color: $feature-image-text-color;
+        background-size: $feature-image-size;
+        margin-bottom: 0;
+        padding: $padding-large/2.5 $padding-large;
+        .meta {
+            color: rgba($feature-image-text-color, .7);
+        }
+    }
+    .post-content {
+        @extend %padding-regular;
+        padding-bottom: 0;
+    }
+    footer {
+        @extend %padding-regular;
+        padding-top: 0;
+    }
+}
+
+// Responsive scrolling
+.feature-image header {
+    @media screen and (max-width: $break) {
+        padding: $padding-small $padding-small;
+    }
+}
+
+/* --- Post navigation --- */
+#post-nav {
+    width: 100%;
+    border-bottom: 1px solid $border-color;
+    display: flex;
+    float: left;
+
+    a,
+    .page-title {
+        display: inline-block;
+    }
+
+    .page-title {
+        font-size: 1.2em;
+        margin-bottom: 1em;
+        width: 100%;
+    }
+
+    a {
+        padding: 2em 3em;
+        border: 1px solid rgba(255, 255, 255, 0);
+        text-align: center;
+        width: 50%;
+    }
+
+    i {
+        vertical-align: middle;
+    }
+}

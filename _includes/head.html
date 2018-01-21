@@ -1,0 +1,116 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+    <meta HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
+
+    <!-- JQuery (used for bootstrap and jekyll search) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <!-- Lazy load (used for optimised loading) -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.6/jquery.lazy.min.js"></script>
+
+    <!-- Main JS (navbar.js and katex_init.js)-->
+    <script defer=true src="{{ site.baseurl }}/assets/js/main.min.js"></script>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css"/>
+    
+    <!--Favicon and apple touch icons-->
+    <link rel="shortcut icon" href="{{ site.baseurl }}/{{ site.theme_settings.favicon }}" type="image/x-icon">
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ site.baseurl }}/assets/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ site.baseurl }}/assets/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ site.baseurl }}/assets/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/apple-touch-icon-180x180.png" />
+
+    <!-- Canonical -->
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ site.url }}/{{ site.baseurl }}//feed.xml" />
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/font-awesome.min.css" media="none" onload="if(media!='all')media='all'"><noscript><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/font-awesome.min.css"></noscript>
+    
+    <!-- Manifest -->
+    <link rel="manifest" href="{{ site.baseurl }}/manifest.json" />
+    
+    <!-- Google Fonts -->
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,600|Playfair+Display');
+    </style>
+    
+    <!-- KaTeX 0.8.3 -->
+    {% if site.theme_settings.katex %}
+    <!--<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.8.3/katex.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.8.3/katex.min.js"></script> -->
+    <link  rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/katex.min.css">
+    <script async src="{{ site.baseurl }}/assets/js/katex.min.js">
+    </script>
+    {% endif %}
+
+    <!-- Google Analytics -->
+    {% if site.theme_settings.google_analytics %}
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', '{{ site.theme_settings.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+    </script>
+    {% endif %}
+    
+    <!-- seo tags -->
+    {% seo %}
+    <!-- Manual seo tags -->
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}">
+    <meta property="og:locale" content="en_GB">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:image" content="{{ site.url }}/assets/img/s-logo-footer.png" />
+    <meta property="og:site_name" content="Seenit.io">
+    <meta property="article:published_time" content="{{ page.date }}" />
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:site" content="@edstennett" />
+    <meta name="twitter:creator" content="@edstennett">
+    <meta name="twitter:card" content="summary">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" media="none" onload="if(media!='all')media='all'"><noscript><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css"></noscript>
+    <script async src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <script>
+        window.addEventListener("load", function() {
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#E0F7F8",
+                        "text": "#16222A"
+                    },
+                    "button": {
+                        "background": "#00BBC2",
+                        "text": "#ffffff"
+                    }
+                },
+                "showLink": false,
+                "position": "bottom-right"
+            })
+        });
+    </script>
+    <style type="text/css">
+    {% capture include_to_scssify %}
+      {% include critical.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
+  </style>
+</head>

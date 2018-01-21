@@ -1,0 +1,55 @@
+# SITE CONFIGURATION
+baseurl: "/edstennett-blog"
+url: "https://edstennettackee.github.io"
+permalink: pretty
+
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  avatar: assets/img/logo.svg
+  favicon: assets/favicon.ico
+  description: "London based designer, Ed Stennett, specialising in UI, UX and web design." # used by search engines
+
+  # Footer text
+  footer_text: >
+   Made in London. Copyright &copy; Ed Stennett
+
+  # Icons
+  linkedin: "https://www.linkedin.com/in/edward-stennett-99807789/"
+  twitter: "edstennett" 
+
+  # Scripts / Features 
+  google_analytics: # UA-48755800-5
+  portfolio: true
+  search: false
+  tags: false
+  
+  
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_email: "Email"
+  str_next_post: "Next"
+  str_previous_post: "Previous"
+  str_next_page: "Next"
+  str_previous_page: "Prev"
+  str_continue_reading: "Continue reading"
+  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+
+  # Post navigation
+  post_navigation: true
+
+
+# PORTFOLIO
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins: [jekyll-paginate, jekyll-seo-tag, octopress-autoprefixer]
+exclude: ["Gemfile", "Gemfile.lock", "edstennett.gemspec", "*.gem", "LICENSE", "README.md"]

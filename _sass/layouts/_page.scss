@@ -1,0 +1,308 @@
+// CSS for pages across the site
+
+.about-image-position {
+    margin-top: 2em;
+    @media only screen and (max-width: 1000px) {
+        margin-top: 0;
+    }
+}
+
+.product-capture-image {
+    margin-bottom: -1em;
+    z-index: 1;
+    width: 80%;
+    margin: auto;
+    margin-top: 2em;
+    @media only screen and (max-width: 800px) {
+        width: 100%;
+    }
+}
+
+.product-capture-position {
+    margin-bottom: -0.2em !important;
+}
+
+.product-studio-image {
+    z-index: 2;
+}
+
+//Contact
+
+.contact-link {
+    font-size: 0.8em;
+}
+
+// map
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+// People
+
+.left-img {
+    padding-top: 100px;
+    @media only screen and (max-width: 45em) {
+        padding-top: 0;
+    }
+}
+
+.img-block {
+    padding: 0;
+}
+
+// Privacy policy
+
+
+//SVG animations
+
+
+// Thank you page
+
+@keyframes rocket {
+  0%   {transform: translateY(0)}
+  25%  {transform: translateY(-15px)}
+  75%  {transform: translateY(15px)}
+  100% {transform: translateY(0)}
+}
+
+
+.rocket {
+  animation: rocket 5s ease-in-out infinite;
+}
+
+// 404 page
+
+@keyframes bucket {
+  0%   {transform: translateY(0)}
+  55%  {transform: translateY(50px)}
+  75%  {transform: translateY(48px)}
+  100% {transform: translateY(0)}
+}
+
+
+.bucket {
+  animation: bucket 10s ease-in-out infinite;
+}
+
+@keyframes rhino-left {
+  0%   {transform: scale(1,1)}
+  50%  {transform: scale(1.05,1.05)}   
+  100% {transform: scale(1,1)}
+}
+
+.rhino-left {
+  animation: rhino-left 6s ease-in-out infinite;
+  transform-origin: center;
+}
+
+@keyframes rhino-right {
+  0%   {transform: scale(1,1)}
+  50%  {transform: scale(1.05,1.05)}   
+  100% {transform: scale(1,1)}
+}
+
+.rhino-right {
+  animation: rhino-right 8s ease-in-out infinite;
+  transform-origin: center;
+}
+
+@keyframes floating-man {
+  0%   {transform: translateY(0)}
+  25%  {transform: translateY(-15px)}
+  75%  {transform: translateY(15px)}
+  100% {transform: translateY(0)}
+}
+
+
+.floating-man {
+  animation: floating-man 10s ease-in-out infinite;
+}
+
+@keyframes folder-3 {
+  0%   {transform: scale(1,1)}
+  50%  {transform: scale(1.1,1.1)}
+  100% {transform: scale(1,1)}
+}
+
+.folder-3 {
+  animation: folder-3 3s ease-in-out infinite;
+  transform-origin: center;
+}
+
+
+@keyframes dots1 {
+  0%   {opacity: 0.3}
+  10%  {opacity: 0.6}
+  20%  {opacity: 1}    
+  30%  {opacity: 0.3}
+  40% {opacity: 0.6}
+  50%   {opacity: 1}
+  60%  {opacity: 1}
+  70%  {opacity: 0.6}    
+  80%  {opacity: 0.3}
+  90% {opacity: 0.3}
+  90% {opacity: 0.3}
+  100% {opacity: 0.3}
+}
+
+.dots1 {
+  animation: dots1 3s ease-in-out infinite;
+}
+
+@keyframes dots2 {
+  0%   {opacity: 0.6}
+  10%  {opacity: 0.3}
+  20%  {opacity: 0.3}    
+  30%  {opacity: 0.3}
+  40% {opacity: 0.3}
+  50%   {opacity: 0.3}
+  60%  {opacity: 0.3}
+  70%  {opacity: 0.3}    
+  80%  {opacity: 0.3}
+  90% {opacity: 0.6}
+  90% {opacity: 1}
+  100% {opacity: 1}
+}
+
+.dots2 {
+  animation: dots2 3s ease-in-out infinite;
+}
+
+@keyframes dots3 {
+  0%   {opacity: 0.3}
+  10%  {opacity: 0.6}
+  20%  {opacity: 1}    
+  30%  {opacity: 1}
+  40% {opacity: 0.3}
+  50%   {opacity: 0.3}
+  60%  {opacity: 0.3}
+  70%  {opacity: 0.3}    
+  80%  {opacity: 0.3}
+  90% {opacity: 0.3}
+  90% {opacity: 0.3}
+  100% {opacity: 0.3}
+}
+
+.dots3 {
+  animation: dots3 3s ease-in-out infinite;
+}
+
+@keyframes bulb-top {
+  0%   {opacity: 1}
+  50%   {opacity: 0.3}
+  100% {opacity: 1}
+}
+
+.bulb-top {
+  animation: bulb-top 2s ease-in-out infinite;
+}
+
+@keyframes block {
+  0%   {transform: scale(1.1,1.1)}
+  50%  {transform: scale(1.2,1.2)}
+  100% {transform: scale(1.1,1.1)}
+}
+
+.block {
+  animation: block 3s ease-in-out infinite;
+  transform-origin: center;
+}
+
+@keyframes hearts {
+  0%   {transform: translateY(0px)}
+  50%  {transform: translateY(-20px)}
+  100% {transform: translateY(0px)}
+}
+
+.hearts {
+  animation: hearts 3s ease-in-out infinite;
+}
+
+@keyframes leaves {
+  0%   {transform: translateY(-20px)}
+  50%  {transform: translateY(20px)}
+  100% {transform: translateY(-20px)}
+}
+
+.leaves {
+  animation: leaves 6s ease-in-out infinite;
+}
+
+@keyframes s-logo {
+  0%   {transform: scale(0.8,0.8)}
+  50%  {transform: scale(1.25,1.25)}
+  100% {transform: scale(0.8,0.8)}
+}
+
+.s-logo {
+  animation: s-logo 3s ease-in-out infinite;
+  transform-origin: center;
+}
+
+@keyframes screen {
+  0%   {opacity: 0}
+  25%   {opacity: 1}
+  75%   {opacity: 1}
+  100% {opacity: 0}
+}
+
+.screen {
+  animation: screen 3s ease-in-out infinite;
+}
+
+@keyframes folder-1 {
+  0%   {transform: scale(1,1)}
+  50%  {transform: scale(1.1,1.1)}
+  100% {transform: scale(1,1)}
+}
+
+.folder-1 {
+  animation: folder-1 3s ease-in-out infinite;
+  transform-origin: center;
+}
+
+@keyframes folder-2 {
+  0%   {transform: scale(1,1)}
+  50%  {transform: scale(1.1,1.1)}
+  100% {transform: scale(1,1)}
+}
+
+.folder-2 {
+  animation: folder-2 3s ease-in-out infinite;
+  transform-origin: center;
+}
+
+@keyframes folder-3 {
+  0%   {transform: scale(1,1)}
+  50%  {transform: scale(1.1,1.1)}
+  100% {transform: scale(1,1)}
+}
+
+.folder-3 {
+  animation: folder-3 3s ease-in-out infinite;
+  transform-origin: center;
+}
+
+@keyframes top-line {
+  0%   {opacity: 0.3}
+  25%   {opacity: 1}
+  75%   {opacity: 1}
+  100% {opacity: 0.3}
+}
+
+.top-line {
+  animation: top-line 3s ease-in-out infinite;
+}
+
+@keyframes lines {
+  0%   {opacity: 0}
+  25%   {opacity: 1}
+  75%   {opacity: 1}
+  100% {opacity: 0}
+}
+
+.lines {
+  animation: lines 3s ease-in-out infinite;
+}
