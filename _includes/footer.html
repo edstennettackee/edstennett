@@ -1,74 +1,19 @@
 {% if site.theme_settings.footer_text %}
 
 <footer>
-    <div class="contact-footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-4">
-                <img data-src="{{ site.baseurl }}/assets/img/s-logo-footer.png" class="img-fluid lazy" alt="s-logo with women smiling"/>
-            </div>
-            <div class="col-8">
-                <h3 class="text-white">Stop, collaborate &amp; film.</h3>
-                <p class="text-white">Drop us a message to  discuss your next project.</p>
-                <a href="{{ site.baseurl }}/contact"><button class="btn raised-alt" type="button"><span>Let's talk</span></button></a>
-                </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="footer-icons text-center">
+                <p><a href="mailto:{{ site.theme_settings.email_address }}" title="{{ site.theme_settings.str_email }}">edward.stennett@ackeecreative.com</a>      |      <a href="https://twitter.com/{{ site.theme_settings.twitter }}" title="{{ site.theme_settings.str_follow_on }} Twitter">twitter</a>      |      <a href="{{ site.theme_settings.linkedin }}" title="{{ site.theme_settings.str_follow_on }} LinkedIn">linkedin</a>
+                </p>
             </div>
         </div>
     </div>
-    <div class="site-footer">
-        <div>
-            <div class="row">
-                <div class="col-3">
-                    <div class="footer-icons">
-                        <h5 class="text-secondary">Office</h5>
-                        <hr/>
-                        <p class="footer-item text-secondary">Building 4, 4 Old Street Yard</p>
-                        <p class="footer-item text-secondary">32 Featherstone Street, London</p>
-                        <p class="footer-item text-secondary">EC1Y 8AE</p>
-                        <p class="footer-item text-secondary">hello@seenit.io</p>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="footer-icons">
-                        <h5 class="text-secondary">Seenit</h5>
-                        <hr/>
-                        <a href="{{ site.baseurl }}/about" class="text-secondary footer-item">About</a>
-                        <a href="{{ site.baseurl }}/how-it-works" class="text-secondary footer-item">How it works</a>
-                        <a href="{{ site.baseurl }}/projects" class="text-secondary footer-item">Projects</a>
-                        <a href="{{ site.baseurl }}/people" class="text-secondary footer-item">People</a>
-                        <a href="{{ site.baseurl }}/blog" class="text-secondary footer-item">Blog</a>
-                        <a href="{{ site.baseurl }}/blog" class="text-secondary footer-item">Contact</a>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="footer-icons">
-                        <h5 class="text-secondary">Studio</h5>
-                        <hr/>
-                        <a href="{{ site.baseurl }}/contact" class="text-secondary footer-item">Request a call</a>
-                        <a href="https://studio.seenit.io/auth/login" class="text-secondary footer-item">Login</a>
-                        <a href="{{ site.baseurl }}/privacy-policy/" class="text-secondary footer-item">Privacy policy</a>
-                        <a href="https://www.youtube.com/watch?v=yvbdim6ldKc&list=PLdFvZc9OY5oN_fuTFKMy9t4XIKKGED9Yp" class="text-secondary footer-item">Academy</a>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="footer-icons">
-                        <h5 class="text-secondary">Connect</h5>
-                        <hr/>
-                        <ul>
-                            {% include icons.html %}
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <p class="footer-text-caption">{{ site.theme_settings.footer_text }} {% assign thisyear = site.time | date: "%Y" %} {% if site.first_published %} {% capture diff %}{{ site.first_published | minus:thisyear }}{% endcapture %} {% if diff contains '-' %}{{ site.first_published }},{% endif %} {% endif %} {{ thisyear }} {% if site.owner %}{{ site.owner }}{% else %}{% endif %}.</p>
-        <div class="row text-center">
-            <div class="col-12">
-                <img data-src="{{ site.baseurl }}/assets/img/s-logo-icon.svg" alt="Seenit icon logo" class="img-fluid lazy"/>
-            </div>
+    <p class="footer-text-caption">{{ site.theme_settings.footer_text }} {% assign thisyear = site.time | date: "%Y" %} {% if site.first_published %} {% capture diff %}{{ site.first_published | minus:thisyear }}{% endcapture %} {% if diff contains '-' %}{{ site.first_published }},{% endif %} {% endif %} {{ thisyear }} {% if site.owner %}{{ site.owner }}{% else %}{% endif %}.</p>
+    <div class="row text-center">
+        <div class="col-12">
+            <img data-src="{{ site.baseurl }}/assets/img/s-logo-icon.svg" alt="Seenit icon logo" class="img-fluid lazy" />
         </div>
     </div>
 </footer>
 {% endif %}
-
-
