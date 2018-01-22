@@ -52,11 +52,200 @@
     padding: 0;
 }
 
-// Privacy policy
-
-
 //SVG animations
 
+// Visual design
+
+@keyframes plant-left {
+  0%   {transform: rotate(0deg)}
+  25%  {transform: rotate(7deg)}
+  25%  {transform: rotate(0deg)}
+  25%  {transform: rotate(-7deg)}
+  100% {transform: rotate(0deg)}
+}
+
+.plant-left {
+  animation: plant-left 8s ease-in-out infinite;
+  transform-origin: bottom;
+}
+
+@keyframes plant-right {
+  0%   {transform: rotate(-7deg)}
+  25%  {transform: rotate(0deg)}
+  25%  {transform: rotate(7deg)}
+  25%  {transform: rotate(0deg)}
+  100% {transform: rotate(-7deg)}
+}
+
+.plant-right {
+  animation: plant-right 8s ease-in-out infinite;
+  transform-origin: bottom;
+}
+
+@keyframes scribble {
+  0%   {opacity: 0}
+  40%   {opacity: 1}
+  60%   {opacity: 1}
+  100% {opacity: 0}
+}
+
+.scribble {
+  animation: scribble 8s ease-in-out infinite;
+}
+
+// UI design
+
+@keyframes top-navigation {
+  0%   {opacity: 0}
+  25%   {opacity: 1}
+  100% {opacity: 1}
+}
+
+.top-navigation {
+  animation: top-navigation 8s ease-in-out infinite;
+}
+
+@keyframes screen-bg {
+  0%   {opacity: 0}
+  25%   {opacity: 0}
+  50%   {opacity: 1}
+  100% {opacity: 1}
+}
+
+.screen-bg {
+  animation: screen-bg 8s ease-in-out infinite;
+}
+
+@keyframes screen-items {
+  0%   {opacity: 0}
+  50%  {opacity: 0}
+  60%  {opacity: 1}
+  100% {opacity: 1}
+}
+
+.screen-items {
+  animation: screen-items 8s ease-in-out infinite;
+}
+
+@keyframes line-1 {
+  0%   {opacity: 0}
+  9%   {opacity: 1}
+  100% {opacity: 1}
+}
+
+.line-1 {
+  animation: line-1 3s ease-in-out infinite;
+}
+
+@keyframes line-2 {
+  0%   {opacity: 0}
+  9%   {opacity: 0}
+  18%   {opacity: 1}
+  100% {opacity: 1}
+}
+
+.line-2 {
+  animation: line-2 3s ease-in-out infinite;
+}
+
+@keyframes line-3 {
+  0%   {opacity: 0}
+  18%   {opacity: 0}
+  27%   {opacity: 1}
+  100% {opacity: 1}
+}
+
+.line-3 {
+  animation: line-3 3s ease-in-out infinite;
+}
+
+@keyframes line-4 {
+  0%   {opacity: 0}
+  27%   {opacity: 0}
+  36%   {opacity: 1}
+  100% {opacity: 1}
+}
+
+.line-4 {
+  animation: line-4 3s ease-in-out infinite;
+}
+
+@keyframes line-5 {
+  0%   {opacity: 0}
+  36%   {opacity: 0}
+  45%   {opacity: 1}
+  100% {opacity: 1}
+}
+
+.line-5 {
+  animation: line-5 3s ease-in-out infinite;
+}
+
+@keyframes line-6 {
+  0%   {opacity: 0}
+  45%   {opacity: 0}
+  54%   {opacity: 1}
+  100% {opacity: 1}
+}
+
+.line-6 {
+  animation: line-6 3s ease-in-out infinite;
+}
+
+@keyframes line-7 {
+  0%   {opacity: 0}
+  54%   {opacity: 0}
+  63%   {opacity: 1}
+  100% {opacity: 1}
+}
+
+.line-7 {
+  animation: line-7 3s ease-in-out infinite;
+}
+
+@keyframes line-8 {
+  0%   {opacity: 0}
+  63%   {opacity: 0}
+  72%   {opacity: 1}
+  100% {opacity: 1}
+}
+
+.line-8 {
+  animation: line-8 3s ease-in-out infinite;
+}
+
+@keyframes line-9 {
+  0%   {opacity: 0}
+  72%   {opacity: 0}
+  81%   {opacity: 1}
+  100% {opacity: 1}
+}
+
+.line-9 {
+  animation: line-9 3s ease-in-out infinite;
+}
+
+@keyframes line-10 {
+  0%   {opacity: 0}
+  81%   {opacity: 0}
+  90%   {opacity: 1}
+  100% {opacity: 1}
+}
+
+.line-10 {
+  animation: line-10 3s ease-in-out infinite;
+}
+
+@keyframes line-11 {
+  0%   {opacity: 0}
+  90%   {opacity: 0}
+  99%   {opacity: 1}
+  100% {opacity: 1}
+}
+
+.line-11 {
+  animation: line-11 3s ease-in-out infinite;
+}
 
 // Thank you page
 
@@ -84,225 +273,4 @@
 
 .bucket {
   animation: bucket 10s ease-in-out infinite;
-}
-
-@keyframes rhino-left {
-  0%   {transform: scale(1,1)}
-  50%  {transform: scale(1.05,1.05)}   
-  100% {transform: scale(1,1)}
-}
-
-.rhino-left {
-  animation: rhino-left 6s ease-in-out infinite;
-  transform-origin: center;
-}
-
-@keyframes rhino-right {
-  0%   {transform: scale(1,1)}
-  50%  {transform: scale(1.05,1.05)}   
-  100% {transform: scale(1,1)}
-}
-
-.rhino-right {
-  animation: rhino-right 8s ease-in-out infinite;
-  transform-origin: center;
-}
-
-@keyframes floating-man {
-  0%   {transform: translateY(0)}
-  25%  {transform: translateY(-15px)}
-  75%  {transform: translateY(15px)}
-  100% {transform: translateY(0)}
-}
-
-
-.floating-man {
-  animation: floating-man 10s ease-in-out infinite;
-}
-
-@keyframes folder-3 {
-  0%   {transform: scale(1,1)}
-  50%  {transform: scale(1.1,1.1)}
-  100% {transform: scale(1,1)}
-}
-
-.folder-3 {
-  animation: folder-3 3s ease-in-out infinite;
-  transform-origin: center;
-}
-
-
-@keyframes dots1 {
-  0%   {opacity: 0.3}
-  10%  {opacity: 0.6}
-  20%  {opacity: 1}    
-  30%  {opacity: 0.3}
-  40% {opacity: 0.6}
-  50%   {opacity: 1}
-  60%  {opacity: 1}
-  70%  {opacity: 0.6}    
-  80%  {opacity: 0.3}
-  90% {opacity: 0.3}
-  90% {opacity: 0.3}
-  100% {opacity: 0.3}
-}
-
-.dots1 {
-  animation: dots1 3s ease-in-out infinite;
-}
-
-@keyframes dots2 {
-  0%   {opacity: 0.6}
-  10%  {opacity: 0.3}
-  20%  {opacity: 0.3}    
-  30%  {opacity: 0.3}
-  40% {opacity: 0.3}
-  50%   {opacity: 0.3}
-  60%  {opacity: 0.3}
-  70%  {opacity: 0.3}    
-  80%  {opacity: 0.3}
-  90% {opacity: 0.6}
-  90% {opacity: 1}
-  100% {opacity: 1}
-}
-
-.dots2 {
-  animation: dots2 3s ease-in-out infinite;
-}
-
-@keyframes dots3 {
-  0%   {opacity: 0.3}
-  10%  {opacity: 0.6}
-  20%  {opacity: 1}    
-  30%  {opacity: 1}
-  40% {opacity: 0.3}
-  50%   {opacity: 0.3}
-  60%  {opacity: 0.3}
-  70%  {opacity: 0.3}    
-  80%  {opacity: 0.3}
-  90% {opacity: 0.3}
-  90% {opacity: 0.3}
-  100% {opacity: 0.3}
-}
-
-.dots3 {
-  animation: dots3 3s ease-in-out infinite;
-}
-
-@keyframes bulb-top {
-  0%   {opacity: 1}
-  50%   {opacity: 0.3}
-  100% {opacity: 1}
-}
-
-.bulb-top {
-  animation: bulb-top 2s ease-in-out infinite;
-}
-
-@keyframes block {
-  0%   {transform: scale(1.1,1.1)}
-  50%  {transform: scale(1.2,1.2)}
-  100% {transform: scale(1.1,1.1)}
-}
-
-.block {
-  animation: block 3s ease-in-out infinite;
-  transform-origin: center;
-}
-
-@keyframes hearts {
-  0%   {transform: translateY(0px)}
-  50%  {transform: translateY(-20px)}
-  100% {transform: translateY(0px)}
-}
-
-.hearts {
-  animation: hearts 3s ease-in-out infinite;
-}
-
-@keyframes leaves {
-  0%   {transform: translateY(-20px)}
-  50%  {transform: translateY(20px)}
-  100% {transform: translateY(-20px)}
-}
-
-.leaves {
-  animation: leaves 6s ease-in-out infinite;
-}
-
-@keyframes s-logo {
-  0%   {transform: scale(0.8,0.8)}
-  50%  {transform: scale(1.25,1.25)}
-  100% {transform: scale(0.8,0.8)}
-}
-
-.s-logo {
-  animation: s-logo 3s ease-in-out infinite;
-  transform-origin: center;
-}
-
-@keyframes screen {
-  0%   {opacity: 0}
-  25%   {opacity: 1}
-  75%   {opacity: 1}
-  100% {opacity: 0}
-}
-
-.screen {
-  animation: screen 3s ease-in-out infinite;
-}
-
-@keyframes folder-1 {
-  0%   {transform: scale(1,1)}
-  50%  {transform: scale(1.1,1.1)}
-  100% {transform: scale(1,1)}
-}
-
-.folder-1 {
-  animation: folder-1 3s ease-in-out infinite;
-  transform-origin: center;
-}
-
-@keyframes folder-2 {
-  0%   {transform: scale(1,1)}
-  50%  {transform: scale(1.1,1.1)}
-  100% {transform: scale(1,1)}
-}
-
-.folder-2 {
-  animation: folder-2 3s ease-in-out infinite;
-  transform-origin: center;
-}
-
-@keyframes folder-3 {
-  0%   {transform: scale(1,1)}
-  50%  {transform: scale(1.1,1.1)}
-  100% {transform: scale(1,1)}
-}
-
-.folder-3 {
-  animation: folder-3 3s ease-in-out infinite;
-  transform-origin: center;
-}
-
-@keyframes top-line {
-  0%   {opacity: 0.3}
-  25%   {opacity: 1}
-  75%   {opacity: 1}
-  100% {opacity: 0.3}
-}
-
-.top-line {
-  animation: top-line 3s ease-in-out infinite;
-}
-
-@keyframes lines {
-  0%   {opacity: 0}
-  25%   {opacity: 1}
-  75%   {opacity: 1}
-  100% {opacity: 0}
-}
-
-.lines {
-  animation: lines 3s ease-in-out infinite;
 }

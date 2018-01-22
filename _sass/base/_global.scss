@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-headings;
   line-height: 1.2;
   margin: 0.67em 0;
-  color: $brand-color;
+  color: $body-primary;
   a {
     font-weight: 700;
   }
@@ -64,8 +64,12 @@ h5 {
 }
 p {
   font-size: 0.8em;
-  color: $body-primary;
+  color: $body-secondary;
   font-weight: 300;
+}
+.subhead {
+  font-size: 1em;
+  font-weight: 600;
 }
 span {
 }
