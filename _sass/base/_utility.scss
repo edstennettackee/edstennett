@@ -323,6 +323,7 @@ video::-webkit-media-controls-start-playback-button {
 }
 
 .post-link {
+    color: $fivehundred;
     &:hover {
         text-decoration: none;
         color: lighten($fivehundred, 10%);

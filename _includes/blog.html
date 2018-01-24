@@ -3,24 +3,22 @@
         <div class="row">
             <div class="row-flex">
             {% for post in site.posts %}
-            <div class="col-4 text-center blog-post moreBox" style="display: none;">
-                {% if post.thumbnail %}
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img data-src="{{ site.baseurl }}/{{ post.thumbnail }}" class="img-fluid blog-img lazy" alt="{{ post.title }}"></a>
-                {% endif %}
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h4   class="text-center link-heading">{{ post.title }}</h4></a>
+            <div class="col-12 blog-post moreBox" style="display: none;">
+                <a href="{{ post.url | prepend: site.baseurl }}"><h4 class="post-link">{{ post.title }}</h4></a>
                 <p class="meta">{{ post.date | date: "%B %-d, %Y" }}   |   {{ post.aurthor }}</p>
                 <div class="excerpt">
-                    {{ post.content | strip_html | truncate: "70" }}
+                    {{ post.content | strip_html | truncate: "120" }}
                 </div>
             </div>
             {% endfor %}
-            <div class="items-center">
+            <div class="items-center" style="display: none;">
                 <a href="#" id="loadMore"><button class="btn flat items-center" type="button"><span>Load more</span></button></a>
             </div>
         </div>
     </div>
     </div>
 </section>
+
 
 <script>
 $( document ).ready(function () {
@@ -30,7 +28,7 @@ $( document ).ready(function () {
 		}		
 		$("#loadMore").on('click', function (e) {
 			e.preventDefault();
-			$(".moreBox:hidden").slice(0, 12).slideDown();
+			$(".moreBox:hidden").slice(2, 12).slideDown();
 			if ($(".moreBox:hidden").length == 0) {
 				$("#loadMore").fadeOut('slow');
 			}
