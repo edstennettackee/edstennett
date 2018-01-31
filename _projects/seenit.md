@@ -1,13 +1,13 @@
 ---
 layout: project
-title: Backed by Messi
-img: assets/img/portfolio/adidas-banner.jpg
-logo: assets/img/portfolio/adidas-logo.png
+title: Seenit
+desc: Develop current brand, website design, and build.
+img: assets/img/portfolio/seenit.jpg
 date: April, 08 2014
 tags:
-- Adidas
-type: Created with fans
-client: adidas
+- cgm
+type: Brand   |  Web
+client: cgm
 ---
 
 ![image]({{ site.baseurl }}/{{ page.img }})
