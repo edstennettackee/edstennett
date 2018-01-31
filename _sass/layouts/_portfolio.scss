@@ -3,61 +3,29 @@
     width: 100%;
     right: 0;
     margin: 0 0 15px;
-    border-radius: 8px;
     transform: scale(1);
     transition: all 0.3s ease-in-out;
-    box-shadow: rgba(0,0,0,0.12) 0 1.6rem 4.75rem;
     margin-bottom: 3em !important;
     @media(min-width: 767px) {
             margin: 0 0 30px;
     }
 }
 
-.portfolio-title {
-    max-width: 18.2rem;
-    display: block;
-    line-height: 1.3;
-    padding-left: 1.6em;
-    padding: 1.6rem 0;
-    position: relative;
-    transition: -webkit-transform 0.25s;
-    transition: transform 0.25s;
-    transition: transform 0.25s,-webkit-transform 0.25s;
-    color: $white;
-    left: 1em;
-    top: 3.5em;
-}
-
-.portfolio-logo {
-    margin: 0 auto 0 0;
-    position: absolute;
-    top: 1.5rem;
-    left: 1.5rem;
-    width: 80px;
-}
-
-.portfolio-details {
-    bottom: 1.6rem;
-    display: block;
-    left: 1.6rem;
-    margin: 0;
-    position: absolute;
-    width: 50%;
-    font-size: 0.6em;
-    color: $white;
-    font-weight: 500;
-}
-
-.portfolio-item:hover {
-    box-shadow: rgba(0,0,0,0.24) 0 2.8rem 5s.75rem;
-    position: relative;
-    transform: scale(1.05);
-}
-
 .caption {
     position: absolute;
     z-index: 2;
-    height: 100%;
+    width: 100%;
+    height:100%;
+    top:0; 
+    left:0;
+    background:rgba(0,0,0,0.6);
+    opacity: 0;
+    transition: all 1s;
+    display: flex;
+}
+
+.caption:hover {
+    opacity: 1;
 }
 
 .portfolio-img {
@@ -65,16 +33,25 @@
     height: 100%;
     width: 100%;
     object-fit: cover;
-    border-radius: 4px;
 }
 
-/* --- Responsive --- */
-
-@media screen and (max-width: $sm-break) {
-    .portfolio {
-        .caption-content {
-            font-size: 7px;
-        }
-    }
+.portfolio-flex {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 3em;
 }
-                        
+
+.portfolio-type {
+    color: $white;
+}
+
+.portfolio-title {
+    color: $white;
+}
+
+.portfolio-description {
+    padding-top: 1em;
+    font-size: 0.6em;
+    color: $white;
+}
