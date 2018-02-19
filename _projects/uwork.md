@@ -10,6 +10,7 @@ type: Brand   |  UI  |   Web
 client: uwork
 intro: uWork is the biggest personal project I have taken on. As a start up with big aspirations, it gave me invaluable start up experience working with other designers and developers. Working as the chief design officer in my spare evenings and weekends, I responsible for creating and maintaining the brand, UI and UX design and print design for the company.
 link: https://uwork.co.uk
+visible: 1
 ---
 
 <section>

@@ -8,6 +8,7 @@ tags:
 - cgm
 type: UI  |   UX
 client: seenit
+visible: 0
 ---
 
 ![image]({{ site.baseurl }}/{{ page.img }})

@@ -2,6 +2,7 @@
 <section class="container">
     <div class="row">
         {% for item in site.projects %}
+        {% if item.visible== 1  %}
         <a href="{{ site.baseurl }}{{ item.url }}" class="portfolio-link" data-keyboard="true">
             <div class="col-12 portfolio-item">
                 <div class="caption" title="{{ item.title }}">
@@ -14,6 +15,7 @@
                 <img data-src="{{ site.baseurl }}/{{ item.img }}" class="img-fluid portfolio-img lazy no-padding" alt="{{ item.title }} banner image">
             </div>
         </a>
+        {% endif %}
         {% endfor %}
     </div>
 </section>

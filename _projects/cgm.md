@@ -10,6 +10,7 @@ type: Brand   |  UI  |   Web
 client: cgm
 intro: I was approached by CGM, a medium sized solicitors firm in Southampton, to updated their brand and launch a new site over the course of a year.
 link: https://c-g-m.co.uk
+visible: 1
 ---
 
 <section>

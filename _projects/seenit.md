@@ -8,6 +8,7 @@ tags:
 - cgm
 type: Brand   |  Web
 client: cgm
+visible: 0
 ---
 
 ![image]({{ site.baseurl }}/{{ page.img }})

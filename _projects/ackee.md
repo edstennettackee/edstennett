@@ -10,6 +10,7 @@ type: Brand
 client: ackee
 intro: ackee is a portfolio site for me, Ed Stennett. It has been designed to showcase my recent projects in a simple, yet beautiful way. Rather than use a template or Wordpress theme, I chose to design and handcode the site from scratch. This gave me complete design control and allowed me to apply the unique ackee identity throughout.
 link: http://ackeecreative.com
+visible: 1
 ---
 
 <section>
