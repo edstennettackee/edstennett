@@ -57,9 +57,11 @@
                 transition: color 0.5s ease-in-out;
             }
             &#pull {
-                i {
+                p {
                     margin-top: 13px;
                     float: right;
+                    color: $fivehundred;
+                    font-weight: 700;
                 }
 
             }
