@@ -56,32 +56,6 @@
 
 // Visual design
 
-@keyframes plant-left {
-  0%   {transform: rotate(0deg)}
-  25%  {transform: rotate(7deg)}
-  25%  {transform: rotate(0deg)}
-  25%  {transform: rotate(-7deg)}
-  100% {transform: rotate(0deg)}
-}
-
-.plant-left {
-  animation: plant-left 8s ease-in-out infinite;
-  transform-origin: bottom;
-}
-
-@keyframes plant-right {
-  0%   {transform: rotate(-7deg)}
-  25%  {transform: rotate(0deg)}
-  25%  {transform: rotate(7deg)}
-  25%  {transform: rotate(0deg)}
-  100% {transform: rotate(-7deg)}
-}
-
-.plant-right {
-  animation: plant-right 8s ease-in-out infinite;
-  transform-origin: bottom;
-}
-
 @keyframes scribble {
   0%   {opacity: 0}
   40%   {opacity: 1}
