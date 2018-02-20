@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "edstennett.com/"
+baseurl: "/"
 permalink: pretty
 
 # THEME-SPECIFIC CONFIGURATION
