@@ -1,0 +1,6 @@
+# SITE CONFIGURATION FOR LOCAL WORK
+# RUN jekyll serve --config _config.yml,_debug.yml
+name: Ed Stennett [DEBUG MODE]
+debug: true
+url: "http://127.0.0.1:4000"
+baseurl: "/edstennett"

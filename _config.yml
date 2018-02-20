@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/edstennett"
+baseurl: "/"
 url: "https://edstennettackee.github.io"
 permalink: pretty
 
