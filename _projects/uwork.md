@@ -55,7 +55,7 @@ visible: 1
         <div class="row">
             <div class="col-6">
                 <h3>Putting the user at the centre.</h3>
-                <p>As a task site aimed at students, the UI and UX for the site and app is critical to uWork's success. Using adobe's new XD applicaiton, a fully designed wireframe is in the process of being created in addition to a supporting UI kit.</p>
+                <p>As a task site aimed at students, the UI and UX for the site and app is critical to uWork's success. Using adobe's new XD application, a fully designed wireframe is in the process of being created in addition to a supporting UI kit.</p>
             </div>
         </div>
     </div>

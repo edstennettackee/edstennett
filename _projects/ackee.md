@@ -8,8 +8,7 @@ tags:
 - ackee
 type: Brand
 client: ackee
-intro: ackee is a portfolio site for me, Ed Stennett. It has been designed to showcase my recent projects in a simple, yet beautiful way. Rather than use a template or Wordpress theme, I chose to design and handcode the site from scratch. This gave me complete design control and allowed me to apply the unique ackee identity throughout.
-link: http://ackeecreative.com
+intro: ackee is was a portfolio site for me. It has been designed to showcase my recent projects in a simple, yet beautiful way. Rather than use a template or Wordpress theme, I chose to design and hand-code the site from scratch. This gave me complete design control and allowed me to apply the unique ackee identity throughout.
 visible: 1
 ---
 
@@ -31,7 +30,7 @@ visible: 1
         <div class="row">
             <div class="col-6">
                 <h3>Early concept.</h3>
-                <p>Rather than create an 'Ed Stennett' identity, I wanted to do something different, so I came up with ackee. The pallette is simple yet unique with objective being to create a brand that sits in the background and let's the work it's showcasing speak for itself.</p>
+                <p>Rather than create an 'Ed Stennett' identity, I wanted to do something different, so I came up with ackee. The palette is simple yet unique with objective being to create a brand that sits in the background and let's the work it's showcasing speak for itself.</p>
             </div>
         </div>
     </div>
@@ -55,7 +54,7 @@ visible: 1
         <div class="row">
             <div class="col-6">
                 <h3>My first experience with code.</h3>
-                <p>This was the first site I have made properly without having to rely on css frameworks like bootstrap or online templates to start me off. The site was handcoded with aim to be as lightweight as possible. It gave me an oppurtunity to play around with gulp and npm and the main focus was to keep file sizes down. It was also the first site I've done that uses an ITCSS structure. With a final main.css file size of 41KB, I feel I've stuck to the initial objective well.</p>
+                <p>This was the first site I have made properly without having to rely on css frameworks like bootstrap or online templates to start me off. The site was hand-coded with aim to be as lightweight as possible. It gave me an opportunity to play around with gulp and npm and the main focus was to keep file sizes down. It was also the first site I've done that uses an ITCSS structure.</p>
             </div>
         </div>
     </div>
@@ -79,7 +78,7 @@ visible: 1
         <div class="row">
             <div class="col-6">
                 <h3>Animation and UX.</h3>
-                <p>Beautiful UI design is big part of everything I do, and even though this is a 'static' site, very subtle parallax effects through out gives a user a desire to scroll through the page. I looked to spend time at the end, fine tuning the details to make it a truly postitive user experience.</p>
+                <p>Beautiful UI design is big part of everything I do, and even though this is a 'static' site, very subtle parallax effects through out gives a user a desire to scroll through the page. I looked to spend time at the end, fine tuning the details to make it a truly positive user experience.</p>
             </div>
         </div>
     </div>

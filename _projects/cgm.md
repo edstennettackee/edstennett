@@ -79,7 +79,7 @@ visible: 1
         <div class="row">
             <div class="col-6">
                 <h3>Built with jekyll.</h3>
-                <p>The site will be handcoded from scratch, using predominatley HTML, CSS and Javascript and will use Jekyll to generate the static site. Once built, a static site CMS that works with Jekyll will be added to the site.</p>
+                <p>The site will be hand-coded from scratch, using predominately HTML, CSS and Javascript and will use Jekyll to generate the static site. Once built, a static site CMS that works with Jekyll will be added to the site.</p>
             </div>
         </div>
     </div>
