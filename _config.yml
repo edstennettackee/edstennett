@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/"
-url: "https://edstennettackee.github.io"
+url: "edstennett.com"
 permalink: pretty
 
 # THEME-SPECIFIC CONFIGURATION
