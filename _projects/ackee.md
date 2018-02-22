@@ -8,8 +8,9 @@ tags:
 - ackee
 type: Brand
 client: ackee
-intro: ackee is was a portfolio site for me. It has been designed to showcase my recent projects in a simple, yet beautiful way. Rather than use a template or Wordpress theme, I chose to design and hand-code the site from scratch. This gave me complete design control and allowed me to apply the unique ackee identity throughout.
+intro: ackee was a portfolio site for me. It was designed to showcase my recent projects in a simple, yet beautiful way. Rather than use a template or Wordpress theme, I chose to design and hand-code the site from scratch. This gave me complete control and allowed me to apply the unique ackee identity throughout.
 visible: 1
+link: http://ackeecreative.com
 ---
 
 <section>
@@ -30,7 +31,7 @@ visible: 1
         <div class="row">
             <div class="col-6">
                 <h3>Early concept.</h3>
-                <p>Rather than create an 'Ed Stennett' identity, I wanted to do something different, so I came up with ackee. The palette is simple yet unique with objective being to create a brand that sits in the background and let's the work it's showcasing speak for itself.</p>
+                <p>Rather than create an 'Ed Stennett' identity, I wanted to do something different, so I came up with ackee. The brand uses a palette that is simple yet unique with the objective being to create a visual identity that sits in the background and let's the work it's showcasing speak for itself.</p>
             </div>
         </div>
     </div>
