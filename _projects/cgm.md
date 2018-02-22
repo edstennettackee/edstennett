@@ -31,7 +31,7 @@ visible: 1
         <div class="row">
             <div class="col-6">
                 <h3>First steps.</h3>
-                <p>The brief was to keep the logo more or less the same, but wanted to create a set of brand guidelines that would allow them to create a consistent and coherent identity.</p>
+                <p>The brief was to keep the logo more or less the same, but they wanted to create a set of brand guidelines that would allow them to create a consistent and coherent identity.</p>
             </div>
         </div>
     </div>
@@ -55,7 +55,7 @@ visible: 1
         <div class="row">
             <div class="col-6">
                 <h3>Getting started with design.</h3>
-                <p>Using a combination of photoshop and experience design, the site is the progress at the final build phase.</p>
+                <p>Using a combination of Photoshop and Experience Design, I began the design of the site. I took a mobile first design approach, ensuring content scaled, regardless of the viewport size.</p>
             </div>
         </div>
     </div>
@@ -79,7 +79,7 @@ visible: 1
         <div class="row">
             <div class="col-6">
                 <h3>Built with jekyll.</h3>
-                <p>The site will be hand-coded from scratch, using predominately HTML, CSS and Javascript and will use Jekyll to generate the static site. Once built, a static site CMS that works with Jekyll will be added to the site.</p>
+                <p>The site was hand-coded from scratch, using predominately HTML, CSS and Javascript and uses Jekyll to generate the static site.</p>
             </div>
         </div>
     </div>

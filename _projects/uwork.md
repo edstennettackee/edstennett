@@ -8,7 +8,7 @@ tags:
 - uwork
 type: Brand   |  UI  |   Web
 client: uwork
-intro: uWork is the biggest personal project I have taken on. As a start up with big aspirations, it gave me invaluable start up experience working with other designers and developers. Working as the chief design officer in my spare evenings and weekends, I responsible for creating and maintaining the brand, UI and UX design and print design for the company.
+intro: uWork is the biggest personal project I have taken on. As a start up with big aspirations, it gave me invaluable start up experience working with other designers and developers. Working in my spare evenings and weekends, I responsible for creating and maintaining the brand, UI and UX design, and print design for the company.
 link: https://uwork.co.uk
 visible: 1
 ---
@@ -55,7 +55,7 @@ visible: 1
         <div class="row">
             <div class="col-6">
                 <h3>Putting the user at the centre.</h3>
-                <p>As a task site aimed at students, the UI and UX for the site and app is critical to uWork's success. Using adobe's new XD application, a fully designed wireframe is in the process of being created in addition to a supporting UI kit.</p>
+                <p>As a task site aimed at students, the UI and UX for the site and app is critical to uWork's success. Using a combination of Adobe's new XD application and Sketch, a fully designed wireframe was created in addition to a supporting UI kit.</p>
             </div>
         </div>
     </div>
@@ -79,7 +79,7 @@ visible: 1
         <div class="row">
             <div class="col-6">
                 <h3>Built with react.</h3>
-                <p>A big focus on the uWork project is creating beautiful code, with emphasis on the A11Y Project, a community-driven effort to make web accessibility easier.</p>
+                <p>A big focus on the uWork project is creating beautiful code, using BEM to structure the CSS and a heavy emphasis on the A11Y Project, a community-driven effort to make web accessibility easier. The site launched in February 2018.</p>
             </div>
         </div>
     </div>
