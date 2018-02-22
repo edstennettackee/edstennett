@@ -23,7 +23,9 @@ At the time Facebook had 175 million active users. To date, Facebook has just su
 
 Several years before this, eBay had a similar problem as they looked to follow in the footsteps of Google and clean up their image, going from a sunset yellow background to white.
 
-![ebay yellow]({{site.baseurl}}/assets/img/blog/22-02-18-ebay.jpg)
+<div align="center">
+    <img src="{{site.baseurl}}/assets/img/blog/22-02-18-ebay.jpg" class="img-fluid" alt="ebay yellow" />
+</div>
 
 Overnight, the yellow was gone and was replaced by a white background. The result; eBay received thousands upon thousands of complaints, hate letters, support tickets, emails and phone calls against the change. For what was perceived by eBay as a very simple, low risk change, turned out to be nightmare. The yellow background returned and peace was restored.
 
