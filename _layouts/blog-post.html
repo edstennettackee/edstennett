@@ -11,16 +11,16 @@ layout: fullscreen
     </div>
     <div id="main" class="container">
         <div class="row">
-            <div class="col-12">
+            <div class="col-6">
                 <div class="intro">
-                    <h2 id="{{ page.title | cgi_escape }}" >{{ page.title }}</h2>
+                    <h1 id="{{ page.title | cgi_escape }}" >{{ page.title }}</h1>
                     {% if page.img %}
                     <div class="blog-author-img-croppper">
                     <img data-src="{{ site.baseurl }}/{{ page.img }}" alt="{{ page.name }} photo" class="blog-author-img lazy"/>
                     </div>
                     {% endif %}
                     <p class="meta">
-                        {{ page.date | date: "%B %-d, %Y" }}   |   {{ page.aurthor }}
+                        {{ page.date | date: "%B %-d, %Y" }}   |   {{ page.author }}
                     </p>
                 </div>
             </div>

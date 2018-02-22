@@ -3,7 +3,7 @@ layout: blog-post
 title: Hello, world
 tags:
 - Updates
-aurthor: Ed Stennett
+author: Ed Stennett
 date:   2018-02-18 16:16:01 +0000
 ---
 
