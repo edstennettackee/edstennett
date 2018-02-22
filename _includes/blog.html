@@ -4,10 +4,10 @@
             <div class="row-flex">
             {% for post in site.posts %}
             <div class="col-12 blog-post moreBox" style="display: none;">
-                <a href="{{ post.url | prepend: site.baseurl }}"><h4 class="post-link">{{ post.title }}</h4></a>
-                <p class="meta">{{ post.date | date: "%B %-d, %Y" }}   |   {{ post.aurthor }}</p>
+                <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="post-link">{{ post.title }}</h3></a>
+                <p class="meta">{{ post.date | date: "%B %-d, %Y" }}   |   {{ post.author }}</p>
                 <div class="excerpt">
-                    {{ post.content | strip_html | truncate: "120" }}
+                    {{ post.content | strip_html | truncate: "160" }}
                 </div>
             </div>
             {% endfor %}
