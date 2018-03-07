@@ -7,7 +7,7 @@ author: Ed Stennett
 date:   2018-03-05 12:30:00 +0000
 ---
 
-#### Over the last week, I've been lucky enough to work on an enourmously exciting rebrand project that gave me an opportunity to get my hands into an area of design I haven't touched for over a year: (re)branding.
+#### Over the last week, I've been lucky enough to work on an enormously exciting rebrand project that gave me an opportunity to get my hands into an area of design I haven't touched for over a year: (re)branding.
 
 Given the rebrand is still ongoing, I am unable to talk in too much detail about the project, but I can give an insight to the logo design process and how I used the designer's favourite irrational number; the Golden Ratio.
 
@@ -35,7 +35,7 @@ It will be these numbers that form the basis for the Logo design.
 
 ## The name
 
-Weeks of research, video calls, meetings, workshops, and deliberation led to eventually deciding on a name; Tusk. The processes involved that led to coming up with the name and the whole rebrand itself are for another post, but, for now, we have a name and now the attention turned to the logo mark. We waned to base the logo mark on a Narwhal, a medium-sized toothed whale that possesses a large "tusk" from a protruding canine tooth. And so, it was over to me to begin the logo design process inorder to create the logo mark we had already begun affectionately calling Nelly.
+Weeks of research, video calls, meetings, workshops, and deliberation led to eventually deciding on a name; Tusk. The processes involved that led to coming up with the name and the whole rebrand itself are for another post, but, for now, we have a name and now the attention turned to the logo mark. We waned to base the logo mark on a Narwhal, a medium-sized toothed whale that possesses a large "tusk" from a protruding canine tooth. And so, it was over to me to begin the logo design process in-order to create the logo mark we had already begun affectionately calling Nelly.
 
 ## Designing
 
@@ -69,7 +69,7 @@ The edges were a little sharp, so I used the anchor point tool to smooth them ou
     <img src="{{site.baseurl}}/assets/img/blog/05-03-18-fibonacci-smooth.png" class="post-img" alt="Fibonacci smooth" />
 </div>
 
-With the logo mark complete, it was time to get to work on the word mark and complete the logo. I wanted a geometric sans serif typeface to form the basis of the word mark. I used Nexa Bold, a simple but beautiful font. With a bit of fiddling here and there, I got the word mark just right. You can see the difference between the unaltered type and the final verison below. Note the hook on the `t`, the root of the `u`, and the stem of the `k`.
+With the logo mark complete, it was time to get to work on the word mark and complete the logo. I wanted a geometric sans serif typeface to form the basis of the word mark. I used Nexa Bold, a simple but beautiful font. With a bit of fiddling here and there, I got the word mark just right. You can see the difference between the unaltered type and the final version below. Note the hook on the `t`, the root of the `u`, and the stem of the `k`.
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/img/blog/05-03-18-fibonacci-type.png" class="post-img" alt="Fibonacci type" />
