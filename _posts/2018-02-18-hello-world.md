@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: Hello, world
+title: Hello, world.
 tags:
 - Updates
 author: Ed Stennett
