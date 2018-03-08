@@ -18,7 +18,6 @@ theme_settings:
   twitter: "edstennett" 
 
   # Scripts / Features 
-  google_analytics: # UA-48755800-5
   portfolio: true
   search: false
   tags: false
