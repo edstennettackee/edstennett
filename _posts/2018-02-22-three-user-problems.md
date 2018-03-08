@@ -29,7 +29,7 @@ Several years before this, eBay had a similar problem as they looked to follow i
 
 Overnight, the yellow was gone and was replaced by a white background. The result; eBay received thousands upon thousands of complaints, hate letters, support tickets, emails and phone calls against the change. For what was perceived by eBay as a very simple, low risk change, turned out to be nightmare. The yellow background returned and peace was restored.
 
-Interestingly thought, eBay's engineering team actually worked on an algorithm that, over the course of a year, would lighten the yellow background until it was eventually white.
+Interestingly though, eBay's engineering team actually worked on an algorithm that, over the course of a year, would lighten the yellow background until it was eventually white.
 
 The outcome? No one complained. 
 
@@ -41,7 +41,7 @@ This kind of resistance to change is not specific to tech giants like eBay and F
 
 > “If I had asked people what they wanted, they would have said faster horses.”
 
-Often uttered by those with an air of self-righteousness, it would appear that there is no evidence that Henry Ford ever _actually_ said those words, thought the point still remains. So what do you do with user feedback? There are two opposing schools of thought. One side would argue that you can innovate directly inline with customer feedback, shipping new features based on feedback you have recieved around your product. The other side would counter that true innovation is achieved when you ignore customer input and instead innovate based solely on the companies wider vision. The late Steve Jobs famously felt the latter was the key to success.
+Often uttered by those with an air of self-righteousness, it would appear that there is no evidence that Henry Ford ever _actually_ said those words, though the point still remains. So what do you do with user feedback? There are two opposing schools of thought. One side would argue that you can innovate directly inline with customer's perceived neeeds, shipping new features based on feedback you have recieved around your product. The other side would counter that true innovation is achieved when you ignore customer input and instead innovate based solely on the companies wider vision. The late Steve Jobs famously felt the latter was the key to success.
 
 > It's really hard to design products by focus groups. A lot of times, people don’t know what they want until you show it to them.
 
