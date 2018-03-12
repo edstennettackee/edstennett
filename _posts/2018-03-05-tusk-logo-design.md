@@ -35,11 +35,11 @@ It will be these numbers that form the basis for the Logo design.
 
 ## The name
 
-Weeks of research, video calls, meetings, workshops, and deliberation led to eventually deciding on a name; Tusk. The processes involved that led to coming up with the name and the whole rebrand itself are for another post, but, for now, we have a name and now the attention turned to the logo mark. We waned to base the logo mark on a Narwhal, a medium-sized toothed whale that possesses a large "tusk" from a protruding canine tooth. And so, it was over to me to begin the logo design process in-order to create the logo mark we had already begun affectionately calling Nelly.
+Weeks of research, video calls, meetings, workshops, and deliberation eventually led to deciding on a name; Tusk. The processes involved that enabled us to come up with the name and the whole rebrand itself are for another post, but, we had a name and the attention turned to the logo mark. We wanted to base the logo mark on a Narwhal, a medium-sized toothed whale that possesses a large "tusk" from a protruding canine tooth, as using an animal would help us build a strong and memorable identity later down the line. It was therefore over to me to begin the logo design process to create the logo mark we had already begun affectionately calling Nelly.
 
 ## Designing
 
-I began by sketching various ideas for the logo mark, looking for a shape that I felt worked and would define the brand. As a UI/UX designer, sketching is something that I _can_ do, but certainly isn't my forte, especially when it comes to graphic design. Sketching ideas for a user interface is, in my mind, very different to sketching concepts for logo mark, especially one that involves a geometric representation of a Narwhal. However, after a few of days, I had a sketch that worked.
+I began with my sketchbook, drawing various ideas for the logo mark, looking for a shape that I felt worked and would clearly define the brand. As a UI/UX designer, sketching is something that I _can_ do, but certainly isn't my forte, especially when it comes to graphic design. Sketching ideas for a user interface is, in my mind, very different to sketching concepts for a logo mark, especially one that involves a geometric representation of a Narwhal. However, after a few days, I had a sketch I was happy with.
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/img/blog/05-03-18-sketch.png" class="post-img" alt="sketch" />
@@ -51,7 +51,7 @@ Within Illustrator, I created a series of 8 circles where the radii of each were
     <img src="{{site.baseurl}}/assets/img/blog/05-03-18-fibonacci-radii.png" class="post-img" alt="Fibonacci radii" />
 </div>
 
-Next, I began to arrange the circles in a way that seemed to fit with the original sketch.
+Next, I began to arrange the circles in a way that seemed to fit with the original sketch. If you look closely at the image below, you might be able to make out the outline of Nelly.
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/img/blog/05-03-18-fibonacci-arranged.png" class="post-img" alt="Fibonacci radii arranged" />
@@ -69,7 +69,7 @@ The edges were a little sharp, so I used the anchor point tool to smooth them ou
     <img src="{{site.baseurl}}/assets/img/blog/05-03-18-fibonacci-smooth.png" class="post-img" alt="Fibonacci smooth" />
 </div>
 
-With the logo mark complete, it was time to get to work on the word mark and complete the logo. I wanted a geometric sans serif typeface to form the basis of the word mark. I used Nexa Bold, a simple but beautiful font. With a bit of fiddling here and there, I got the word mark just right. You can see the difference between the unaltered type and the final version below. Note the hook on the `t`, the root of the `u`, and the stem of the `k`.
+With the logo mark complete, it was time to get to work on the word mark and complete the logo. I wanted a geometric sans serif typeface to form the basis of the word mark. I used Nexa Bold, a simple but beautiful font that would form the basis of the word mark. With a bit of fiddling here and there, I got it just right. You can see the difference between the unaltered type and the final version below. Note the hook on the `t`, the root of the `u`, and the stem of the `k`.
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/img/blog/05-03-18-fibonacci-type.png" class="post-img" alt="Fibonacci type" />
@@ -81,7 +81,7 @@ Putting the two together, I arranged the logo type using the same Fibonacci circ
     <img src="{{site.baseurl}}/assets/img/blog/05-03-18-fibonacci-bounds.png" class="post-img" alt="Fibonacci bounds" />
 </div>
 
-And removing all the guides, we have a finished logo! **Introducing Tusk.**
+Finally, removing all the guides, we have a finished logo! **Introducing Tusk.**
 
 <div align="center">
     <img src="{{site.baseurl}}/assets/img/blog/05-03-18-fibonacci-final.png" class="post-img" alt="Fibonacci final" />
