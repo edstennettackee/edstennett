@@ -9,7 +9,7 @@ date:   2018-02-22 12:30:00 +0000
 
 #### "Users are difficult to please, resist change and with competition greater than ever, it's only getting worse."
 
-Do you agree? Though it's a rather sweeping and generalised statement, there is a large element of truth in the quote. Over the next 10 minutes or so, I want to break this down into three common user problems that product teams globally are facing, using examples from the last ~20 years or so.
+Do you agree? Though it's a rather sweeping and generalised statement, there is a large element of truth in the quote. Over the next 10 minutes or so, I want to break this down into three common user problems that product teams globally are facing, using examples from the last ~20 years.
 
 ## 1. Users resist change.
 
