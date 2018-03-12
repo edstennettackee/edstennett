@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: As study in colour - finding the perfect palette for user interfaces.
+title: A study in colour - finding the perfect palette for user interfaces.
 tags:
 - Design
 author: Ed Stennett
