@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "/"
 permalink: pretty
+title: Ed Stennett |  UI Designer
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
