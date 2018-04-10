@@ -14,9 +14,11 @@ layout: fullscreen
             <div class="col-6">
                 <h2 id="{{ page.title | cgi_escape }}" class="title">{{ page.title }}</h2>
                 <p>{{ page.intro }}</p>
+                {% if page.link %}
                 <a href="{{ page.link}}" target="_blank" rel="noopener noreferrer">
                     <button class="btn flat btn-left"><span>Site link</span></button>
                 </a>
+                {% endif %}
             </div>
         </div>
 
