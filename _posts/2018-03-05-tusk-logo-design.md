@@ -5,6 +5,7 @@ tags:
 - Design
 author: Ed Stennett
 date:   2018-03-05 12:30:00 +0000
+thumbnail: assets/img/blog/05-03-18-sketch.png
 ---
 
 #### Over the last week, I've been lucky enough to work on an enormously exciting rebrand project that gave me an opportunity to get my hands into an area of design I haven't touched for over a year: (re)branding.
