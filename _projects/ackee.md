@@ -38,7 +38,7 @@ visible: 1
 
 <section>
     <div class="full-width">
-        <img data-src="{{ site.baseurl}}/assets/img/portfolio/ackee-banner-2.jpg" class="no-padding lazy"/>
+        <img data-src="{{ site.baseurl}}/assets/img/portfolio/ackee-banner-2.jpg" class="no-padding lazy full-width" alt="ackee banner 2" />
     </div>
 </section>
 
@@ -62,7 +62,7 @@ visible: 1
 
 <section>
     <div class="full-width">
-        <img data-src="{{ site.baseurl}}/assets/img/portfolio/ackee-banner-3.jpg" class="no-padding lazy"/>
+        <img data-src="{{ site.baseurl}}/assets/img/portfolio/ackee-banner-3.jpg" class="no-padding lazy full-width" alt="ackee banner 3" />
     </div>
 </section>
 
@@ -86,6 +86,6 @@ visible: 1
 
 <section>
     <div class="full-width">
-        <img data-src="{{ site.baseurl}}/assets/img/portfolio/ackee-banner-4.jpg" class="no-padding lazy"/>
+        <img data-src="{{ site.baseurl}}/assets/img/portfolio/ackee-banner-4.jpg" class="no-padding lazy full-width" alt="ackee banner 4" />
     </div>
 </section>
