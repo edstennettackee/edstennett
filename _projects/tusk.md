@@ -11,6 +11,7 @@ client: Tusk
 intro: Due to unforeseen circumstances, uWork, a brand I had worked on previously, had to be rebranded.
 link: https://tusktasks.io
 visible: 1
+thumbnail: assets/img/portfolio/tusk.jpg
 ---
 
 <section>
