@@ -15,7 +15,7 @@ visible: 1
 
 <section>
     <div class="full-width">
-        <img src="{{ site.baseurl}}/assets/img/portfolio/tusk.jpg" class="no-padding" alt="Tusk banner"/>
+        <img src="{{ site.baseurl}}/assets/img/portfolio/tusk.jpg" class="no-padding full-width" alt="Tusk banner"/>
     </div>
 </section>
 
@@ -30,7 +30,7 @@ visible: 1
     <div class="container">
         <div class="row">
             <div class="col-6">
-                <h3>(Re)Designing the brand.</h3>
+                <h3>(Re)designing the brand.</h3>
                 <p>After launching uWork, we were forced into a rebrand due to pressure from a company with a similar name, working in a similar market. We had to very quickly get the rebrand up and running so we put our heads together and got to work.</p>
             </div>
         </div>
@@ -39,7 +39,7 @@ visible: 1
 
 <section>
     <div class="full-width">
-        <img data-src="{{ site.baseurl}}/assets/img/portfolio/tusk-logos.png" class="no-padding lazy" alt="6 tusk logo with 6 different red and blue background colours."/>
+        <img data-src="{{ site.baseurl}}/assets/img/portfolio/tusk-logos.png" class="no-padding lazy full-width" alt="6 tusk logo with 6 different red and blue background colours."/>
     </div>
 </section>
 
@@ -63,7 +63,7 @@ visible: 1
 
 <section>
     <div class="full-width">
-        <img data-src="{{ site.baseurl}}/assets/img/portfolio/tusk-brand.png" class="no-padding lazy" alt="Tusk brand guidelines" />
+        <img data-src="{{ site.baseurl}}/assets/img/portfolio/tusk-brand.png" class="no-padding lazy full-width" alt="Tusk brand guidelines" />
     </div>
 </section>
 
@@ -87,6 +87,6 @@ visible: 1
 
 <section>
     <div class="full-width">
-        <img data-src="{{ site.baseurl}}/assets/img/portfolio/tusk-baby.png" class="no-padding lazy" alt="Baby in a tusk t shirt" />
+        <img data-src="{{ site.baseurl}}/assets/img/portfolio/tusk-baby.png" class="no-padding lazy full-width" alt="Baby in a tusk t shirt" />
     </div>
 </section>
