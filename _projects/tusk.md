@@ -79,7 +79,7 @@ thumbnail: assets/img/portfolio/tusk.jpg
     <div class="container">
         <div class="row">
             <div class="col-6">
-                <h3>A brand let by mathematics and geometry.</h3>
+                <h3>A brand led by mathematics and geometry.</h3>
                 <p>The logomark was designed using a Fibonacci sequence of circles, arranged to create a Narwhal we call 'Nelly'. We used this same principle across our whole brand, using Fibonacci circles laid in a 12 column grid to create a bold, colourful, geometric brand.</p>
             </div>
         </div>
