@@ -6,7 +6,7 @@ tags:
 author: Ed Stennett
 date:   2018-02-22 12:30:00 +0000
 thumbnail: 22-02-18-hero.jpg
-permalink: /blog/:year/:month/:day/:title:output_ext
+permalink: /blog/:year/:month/:day/:title/
 ---
 
 #### "Users are difficult to please, resist change and with competition greater than ever, it's only getting worse."

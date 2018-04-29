@@ -6,7 +6,7 @@ tags:
 author: Ed Stennett
 date:   2018-04-10 12:30:00 +0000
 thumbnail: assets/img/blog/10-04-18-hero.png
-permalink: /blog/:year/:month/:day/:title:output_ext
+permalink: /blog/:year/:month/:day/:title/
 ---
 
 #### Over the last 6 months I've had the pleasure of working with an amazing team to help release the new Seenit Capture 2.0.
