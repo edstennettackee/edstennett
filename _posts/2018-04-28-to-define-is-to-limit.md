@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: To define is to Limit
+title: To define is to limit
 tags:
 - Design
 author: Ed Stennett
