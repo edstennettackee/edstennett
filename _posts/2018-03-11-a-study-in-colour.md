@@ -6,6 +6,7 @@ tags:
 author: Ed Stennett
 date:   2018-03-11 09:00:00 +0000
 thumbnail: assets/img/blog/09-03-2018-hero.jpg
+permalink: /blog/:year/:month/:day/:title:output_ext
 ---
 
 #### Colour. It's truly fascinating.

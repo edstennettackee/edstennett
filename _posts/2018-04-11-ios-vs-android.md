@@ -6,6 +6,7 @@ tags:
 author: Ed Stennett
 date:   2018-04-11 12:30:00 +0000
 thumbnail: assets/img/blog/hero-03-04-2018.jpg
+permalink: /blog/:year/:month/:day/:title:output_ext
 ---
 
 #### The modern day equivalent of the age old Mac vs PC argument, Android vs iOS divides opinion of some ~2.2 billion smart phone users across the globe. Instead of comparing the pros and cons, I want to instead explore the contrasting design patterns and how they were applied to the brand new Seenit Capture App.
