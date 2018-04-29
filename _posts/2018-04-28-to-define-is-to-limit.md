@@ -6,7 +6,7 @@ tags:
 author: Ed Stennett
 date:   2018-04-28 12:30:00 +0000
 thumbnail: assets/img/blog/28-04-18-design.jpg
-permalink: /blog/:year/:month/:day/:title:output_ext
+permalink: /blog/:year/:month/:day/:title/
 ---
 
 #### To define is to limit. From Oscar Wilde's 'The Picture of Dorian Gray', the quote explores how when something is given a definition, it is confined to the parameters of the definition itself and limited as a result.
