@@ -11,7 +11,7 @@ permalink: /blog/:year/:month/:day/:title/
 
 #### To define is to limit. From Oscar Wilde’s ‘The Picture of Dorian Gray’, the quote explores how when something is given a definition, it is confined to the parameters of the definition itself and limited as a result.
 
-For me, when we chose to define, we we compromise the final output and limit the potential of the design. Design exists in the same way art does; to erase limitations and craft new ideas. Over the next 5 minutes, I will explore two very different examples of how defining design too early can have a truly pernicious effect.
+For me, when we chose to define, we compromise the final output and limit the potential of the design. Design exists in the same way art does; to erase limitations and craft new ideas. Over the next 5 minutes, I will explore two very different examples of how defining design too early can have a truly pernicious effect.
 
 <div class="container">
 <div class="row">
