@@ -4,7 +4,7 @@ title: The new Seenit website is live!
 tags:
 - Design
 author: Ed Stennett
-date:   2018-05-23 08:20:00 +0000
+date:   2018-05-22 08:20:00 +0000
 thumbnail: assets/img/blog/new-website-22-05-2018.jpg
 permalink: /blog/:year/:month/:day/:title/
 ---
@@ -19,7 +19,7 @@ Using a _mobile first_ approach, I opted to completely redesign the site inline 
 <div class="row">
 <div class="col-12"> 
 <div align="center">
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/img/blog/new-website-22-05-2018.jpg" alt="new seenit website">
+	<img src="{{ site.baseurl }}/assets/img/blog/new-website-22-05-2018.jpg" alt="new seenit website">
 </div>
 </div>
 </div>
@@ -33,4 +33,4 @@ Speed and security were a priority and thus I opted to use a static site generat
 
 It's been amazing to work on a project like this in my spare time and I've learned a huge amount along the way. We’re planning to update the site with loads of cool stuff and more stories over the coming months, but if you have any feedback or like the sound of what Seenit does, drop them a line!
 
-[Checkout the site!](https://seenit.io)
+<a href="https://seenit.io" target="_blank" rel="noopener">Checkout the site!</a>
