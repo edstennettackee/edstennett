@@ -1,5 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/"
+url: "https://edstennett.com"
 permalink: pretty
 title: Ed Stennett |  UI Designer
 
@@ -50,5 +51,5 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-plugins: [jekyll-paginate, jekyll-seo-tag, octopress-autoprefixer]
+plugins: [jekyll-paginate, jekyll-seo-tag, octopress-autoprefixer, jekyll-sitemap]
 exclude: ["Gemfile", "Gemfile.lock", "edstennett.gemspec", "*.gem", "LICENSE", "README.md"]
