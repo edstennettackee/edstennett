@@ -5,7 +5,7 @@ tags:
 - Product
 author: Ed Stennett
 date:   2018-02-22 12:30:00 +0000
-thumbnail: 22-02-18-hero.jpg
+thumbnail: assets/img/blog/22-02-18-hero.jpg
 permalink: /blog/:year/:month/:day/:title/
 ---
 
