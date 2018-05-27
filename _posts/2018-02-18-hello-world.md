@@ -5,7 +5,7 @@ tags:
 - Updates
 author: Ed Stennett
 date:   2018-02-18 16:16:01 +0000
-thumbnail: 18-02-2018-hero.jpg
+thumbnail: assets/img/blog/18-02-2018-hero.jpg
 permalink: /blog/:year/:month/:day/:title/
 ---
 
