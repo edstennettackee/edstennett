@@ -55,3 +55,16 @@
     font-size: 0.6em;
     color: $white;
 }
+
+.portfolio-banner {
+    height: 60vh;
+    width: 100%;
+    animation: pulse 1s infinite alternate;
+}
+
+.portfolio-banner-image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    color: transparent;
+}
