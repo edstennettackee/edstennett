@@ -6,7 +6,7 @@ img: assets/img/portfolio/tusk.jpg
 date: April, 10 2018
 tags:
 - Tusk
-type: Rebranding
+type: Re-branding
 client: Tusk
 intro: Due to unforeseen circumstances, uWork, a brand I had worked on previously, had to be rebranded.
 link: https://tusktasks.io
@@ -16,7 +16,7 @@ thumbnail: assets/img/portfolio/tusk.jpg
 
 <section>
     <div class="full-width">
-        <img src="{{ site.baseurl}}/assets/img/portfolio/tusk.jpg" class="no-padding full-width" alt="Tusk banner"/>
+        <img src="{{ site.baseurl}}/assets/img/portfolio/tusk-ironing.jpg" class="no-padding full-width" alt="Tusk banner"/>
     </div>
 </section>
 
@@ -88,6 +88,6 @@ thumbnail: assets/img/portfolio/tusk.jpg
 
 <section>
     <div class="full-width">
-        <img data-src="{{ site.baseurl}}/assets/img/portfolio/tusk-baby.png" class="no-padding lazy full-width" alt="Baby in a tusk t shirt" />
+        <img data-src="{{ site.baseurl}}/assets/img/portfolio/tusk-kitchen.jpg" class="no-padding lazy full-width" alt="Female cleaning in Tusk shirt" />
     </div>
 </section>
