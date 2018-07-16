@@ -1,5 +1,19 @@
 // CSS for pages across the site
 
+
+.about-banner {
+    height: 60vh;
+    width: 100%;
+    animation: pulse 1s infinite alternate;
+}
+
+.about-banner-image {
+    height: 60vh;
+    width: 100%;
+    object-fit: cover;
+    color: transparent;
+}
+
 .about-image-position {
     margin-top: 2em;
     @media only screen and (max-width: 1000px) {
