@@ -15,8 +15,8 @@ thumbnail: assets/img/portfolio/cgm-banner.jpg
 ---
 
 <section>
-    <div class="full-width">
-        <img src="{{ site.baseurl}}/assets/img/portfolio/cgm-banner.jpg" class="no-padding"/>
+    <div class="full-width portfolio-banner">
+        <img src="{{ site.baseurl}}/assets/img/portfolio/cgm-banner.jpg" class="no-padding portfolio-banner-image"/>
     </div>
 </section>
 
@@ -39,8 +39,8 @@ thumbnail: assets/img/portfolio/cgm-banner.jpg
 </section>
 
 <section>
-    <div class="full-width">
-        <img data-src="{{ site.baseurl}}/assets/img/portfolio/cgm-banner-2.jpg" class="no-padding lazy full-width" alt="cgm banner 2" />
+    <div class="full-width portfolio-banner">
+        <img data-src="{{ site.baseurl}}/assets/img/portfolio/cgm-banner-2.jpg" class="no-padding lazy full-width portfolio-banner-image" alt="cgm banner 2" />
     </div>
 </section>
 
@@ -63,8 +63,8 @@ thumbnail: assets/img/portfolio/cgm-banner.jpg
 </section>
 
 <section>
-    <div class="full-width">
-        <img data-src="{{ site.baseurl}}/assets/img/portfolio/cgm-banner-3.jpg" class="no-padding lazy full-width" alt="cgm banner 3" />
+    <div class="full-width portfolio-banner">
+        <img data-src="{{ site.baseurl}}/assets/img/portfolio/cgm-banner-3.jpg" class="no-padding lazy full-width portfolio-banner-image" alt="cgm banner 3" />
     </div>
 </section>
 
@@ -87,7 +87,7 @@ thumbnail: assets/img/portfolio/cgm-banner.jpg
 </section>
 
 <section>
-    <div class="full-width">
-        <img data-src="{{ site.baseurl}}/assets/img/portfolio/cgm-banner-4.jpg" class="no-padding lazy full-width" alt="cgm banner 4" />
+    <div class="full-width portfolio-banner">
+        <img data-src="{{ site.baseurl}}/assets/img/portfolio/cgm-banner-4.jpg" class="no-padding lazy full-width portfolio-banner-image" alt="cgm banner 4" />
     </div>
 </section>
