@@ -201,3 +201,14 @@ img[align=right] {
     clip: rect(0,0,0,0);
     border: 0;
 }
+
+// Loading
+
+@keyframes pulse {
+  0% {
+    background-color: $background;
+  }
+  100% {
+    background-color: $background-secondary;
+  }
+}

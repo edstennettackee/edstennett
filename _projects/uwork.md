@@ -14,8 +14,8 @@ thumbnail: assets/img/portfolio/uwork-banner.jpg
 ---
 
 <section>
-    <div class="full-width">
-        <img src="{{ site.baseurl}}/assets/img/portfolio/uwork-banner.jpg" class="no-padding full-width" alt="uwork banner" />
+    <div class="full-width portfolio-banner">
+        <img src="{{ site.baseurl}}/assets/img/portfolio/uwork-banner.jpg" class="no-padding portfolio-banner-image" alt="uwork banner" />
     </div>
 </section>
 
@@ -38,8 +38,8 @@ thumbnail: assets/img/portfolio/uwork-banner.jpg
 </section>
 
 <section>
-    <div class="full-width">
-        <img data-src="{{ site.baseurl}}/assets/img/portfolio/uwork-banner-2.jpg" class="no-padding lazy full-width" alt="uwork banner 2" />
+    <div class="full-width portfolio-banner">
+        <img data-src="{{ site.baseurl}}/assets/img/portfolio/uwork-banner-2.jpg" class="no-padding lazy portfolio-banner" alt="uwork banner 2" />
     </div>
 </section>
 
@@ -62,8 +62,8 @@ thumbnail: assets/img/portfolio/uwork-banner.jpg
 </section>
 
 <section>
-    <div class="full-width">
-        <img data-src="{{ site.baseurl}}/assets/img/portfolio/uwork-banner-3.jpg" class="no-padding lazy full-width" alt="uwork banner 3" />
+    <div class="full-width portfolio-banner">
+        <img data-src="{{ site.baseurl}}/assets/img/portfolio/uwork-banner-3.jpg" class="no-padding lazy portfolio-banner-image" alt="uwork banner 3" />
     </div>
 </section>
 
@@ -86,7 +86,7 @@ thumbnail: assets/img/portfolio/uwork-banner.jpg
 </section>
 
 <section>
-    <div class="full-width">
-        <img data-src="{{ site.baseurl}}/assets/img/portfolio/uwork-banner-4.jpg" class="no-padding lazy full-width" alt="uwork banner 4" />
+    <div class="full-width portfolio-banner">
+        <img data-src="{{ site.baseurl}}/assets/img/portfolio/uwork-banner-4.jpg" class="no-padding lazy portfolio-banner-image" alt="uwork banner 4" />
     </div>
 </section>
