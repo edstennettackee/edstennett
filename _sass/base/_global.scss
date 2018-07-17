@@ -17,6 +17,7 @@ html {
 // Typography
 ::selection {
   background: $selection-color;
+  color: $white;
 }
 ::-moz-selection {
   background: $selection-color;
@@ -206,7 +207,7 @@ img[align=right] {
 
 @keyframes pulse {
   0% {
-    background-color: $background;
+    background-color: $neutral;
   }
   100% {
     background-color: $background-secondary;
