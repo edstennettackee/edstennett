@@ -51,10 +51,10 @@
             margin-right: 2em;
         }
         a {
-            color: $body-secondary;
+            color: $body-primary;
             font-family: "Playfair Display", serif;
             &:hover {
-                color: $body-primary;
+                color: $body-secondary;
                 transition: color 0.5s ease-in-out;
             }
             &#pull {
@@ -141,7 +141,4 @@
 
 .current {
     border-bottom: 1px solid $fivehundred;
-    @media (max-width: $break) {
-        border-bottom: 1px solid $fivehundred;
-    }
 }
