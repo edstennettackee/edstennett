@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Seenit Website 
+title: Seenit website
 desc: Design and build website from scratch.
 img: assets/img/portfolio/seenit-website.jpg
 date: July, 14 2018
