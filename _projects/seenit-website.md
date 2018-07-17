@@ -11,7 +11,7 @@ client: seenit
 intro: During my spare time I quietly worked in spare time on an all new website, designed and build from the ground up.
 link: https://seenit.io
 visible: 1
-thumbnail: assets/img/portfolio/cgm-banner.jpg
+thumbnail: assets/img/portfolio/seenit-website.jpg
 ---
 
 <section>
