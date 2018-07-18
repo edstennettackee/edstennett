@@ -1,6 +1,7 @@
 <!-- Portfolio Grid Section -->
 <section class="container">
     <div class="row">
+        <!--{% assign projects = site.projects | sort: 'order' %}-->
         {% for item in site.projects %}
         {% if item.visible== 1  %}
         <a href="{{ site.baseurl }}{{ item.url }}" class="portfolio-link" data-keyboard="true">

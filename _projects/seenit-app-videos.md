@@ -3,13 +3,11 @@ layout: project
 title: Seenit app videos
 desc: Animation and design for two marketing videos.
 img: assets/img/portfolio/seenit-video.jpg
-date: July, 14 2018
-tags:
-- seenit
 type: Animation  |   Design
 client: seenit
 intro: In the build up to the launch of the new Seenit capture app, I worked on two animations that would be used for marketing and training purposes.
 visible: 1
+order: 6
 thumbnail: assets/img/portfolio/seenit-video.jpg
 ---
 

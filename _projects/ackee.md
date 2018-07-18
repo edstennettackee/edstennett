@@ -3,13 +3,11 @@ layout: project
 title: Ackee
 desc: Develop current brand, website design, and build.
 img: assets/img/portfolio/ackee.jpg
-date: April, 08 2014
-tags:
-- ackee
 type: Brand
 client: ackee
 intro: ackee was a portfolio site for me. It was designed to showcase my recent projects in a simple, yet beautiful way. Rather than use a template or Wordpress theme, I chose to design and hand-code the site from scratch. This gave me complete control and allowed me to apply the unique ackee identity throughout.
 visible: 1
+order: 8
 thumbnail: assets/img/portfolio/ackee-banner.jpg
 ---
 
