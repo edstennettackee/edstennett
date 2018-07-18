@@ -82,7 +82,7 @@ I wanted to take a put some of the last few months work together in one blog pos
     <div class="full-width portfolio-banner">
         <img src="{{ site.baseurl}}/assets/img/blog/18-07-18-tusk-business-cards.jpg" class="no-padding portfolio-banner-image" alt="tusk business cards"/>
     </div>
-    <h6>A Tusk business cards.</h6>
+    <h6>Tusk business cards.</h6>
 </section>
 
 <div class="container">
