@@ -3,14 +3,12 @@ layout: project
 title: CGM Solicitors
 desc: Develop current brand, website design, and build.
 img: assets/img/portfolio/cgm.jpg
-date: April, 08 2014
-tags:
-- cgm
 type: Brand   |  UI  |   Web
 client: cgm
 intro: I was approached by CGM, a medium sized solicitors firm in Southampton, to updated their brand and launch a new site over the course of a year.
 link: https://c-g-m.co.uk
 visible: 1
+order: 7
 thumbnail: assets/img/portfolio/cgm-banner.jpg
 ---
 

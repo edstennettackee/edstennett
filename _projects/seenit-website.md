@@ -3,14 +3,12 @@ layout: project
 title: Seenit website
 desc: Design and build website from scratch.
 img: assets/img/portfolio/seenit-website.jpg
-date: July, 14 2018
-tags:
-- seenit
 type: UI  |   Web
 client: seenit
 intro: During my spare time I quietly worked in spare time on an all new website, designed and build from the ground up.
 link: https://seenit.io
 visible: 1
+order: 2
 thumbnail: assets/img/portfolio/seenit-website.jpg
 ---
 

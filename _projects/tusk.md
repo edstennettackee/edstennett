@@ -3,14 +3,12 @@ layout: project
 title: Tusk
 desc: Redesigning a current brand.
 img: assets/img/portfolio/tusk.jpg
-date: April, 10 2018
-tags:
-- Tusk
 type: Re-branding
 client: Tusk
 intro: Due to unforeseen circumstances, uWork, a brand I had worked on previously, had to be rebranded.
 link: https://tusktasks.io
 visible: 1
+order: 3
 thumbnail: assets/img/portfolio/tusk.jpg
 ---
 

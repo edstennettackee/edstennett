@@ -3,14 +3,12 @@ layout: project
 title: Seenit app
 desc: Complete re-design of Seenit Capture.
 img: assets/img/portfolio/seenit-app-hero.jpg
-date: July, 14 2018
-tags:
-- seenit
 type: UI  |   UX  |   iOS  |   Android
 client: seenit
 intro: The first major project I worked on with Seenit was the update of the iOS and Android app, Seenit Capture. We used the Double Diamond design process.
 link: https://itunes.apple.com/gb/app/seenit-capture/id806496728?mt=8
 visible: 1
+order: 1
 thumbnail: assets/img/portfolio/seenit-app-hero.jpg
 ---
 
