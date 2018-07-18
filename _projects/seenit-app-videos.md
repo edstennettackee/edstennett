@@ -78,7 +78,7 @@ thumbnail: assets/img/portfolio/seenit-video.jpg
     <div class="container">
         <div class="row">
             <div class="col-6">
-                <h3>More animating</h3>
+                <h3>More animating..!</h3>
                 <p>I followed a similar process for the 'Using the App Video' as before. The big difference was the inclusion of the voice over which meant get a script nailed early on in the process so that I could animate to the voice. Once we had the voice over done, I tidied it up in Audition and then bought it into After Effects so that I could animate to the voice. I finally brought everything together in Premiere Pro. The video has been a success and is used in Sales and Training decks.</p>
             </div>
         </div>
