@@ -8,7 +8,7 @@ tags:
 - uwork
 type: Brand   |  UI  |   Web
 client: uwork
-intro: uWork is the biggest personal project I have taken on. As a start up with big aspirations, it gave me invaluable start up experience working with other designers and developers. Working in my spare evenings and weekends, I responsible for creating and maintaining the brand, UI and UX design, and print design for the company.
+intro: uWork was the biggest personal project I have taken on. As a start up with big aspirations, it gave me invaluable experience working with other designers and developers. Working in my spare evenings and weekends, I was responsible for creating and maintaining the brand, UI and UX design, and print design for the company.
 visible: 1
 thumbnail: assets/img/portfolio/uwork-banner.jpg
 ---
