@@ -82,15 +82,15 @@ I wanted to take a put some of the last few months work together in one blog pos
     <div class="full-width portfolio-banner">
         <img src="{{ site.baseurl}}/assets/img/blog/18-07-18-tusk-business-cards.jpg" class="no-padding portfolio-banner-image" alt="tusk business cards"/>
     </div>
-    <h6>A Tusk pull-up banner.</h6>
+    <h6>A Tusk business cards.</h6>
 </section>
 
 <div class="container">
     <div class="row">
         <div class="col-12">
             <div class="post-img-alt-container">
-        	    <img src="{{ site.baseurl }}/assets/img/blog/18-07-18-tusk-event.jpg" class="post-img-alt" alt="tusk bus event">
-                <h6>Tusk bus shelter.</h6>
+        	    <img src="{{ site.baseurl }}/assets/img/blog/18-07-18-tusk-event.jpg" class="post-img-alt" alt="tusk event">
+                <h6>Tusk pull up banner.</h6>
             </div>
         </div>
     </div>
