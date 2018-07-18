@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Seenit Website 
+title: Seenit website
 desc: Design and build website from scratch.
 img: assets/img/portfolio/seenit-website.jpg
 date: July, 14 2018
@@ -15,12 +15,6 @@ thumbnail: assets/img/portfolio/seenit-website.jpg
 ---
 
 <section>
-    <div class="full-width portfolio-banner">
-        <img src="{{ site.baseurl}}/assets/img/portfolio/seenit-website.jpg" class="no-padding portfolio-banner-image" alt="seenit website process"/>
-    </div>
-</section>
-
-<section>
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -32,7 +26,7 @@ thumbnail: assets/img/portfolio/seenit-website.jpg
         <div class="row">
             <div class="col-6">
                 <h3>First steps.</h3>
-                <p>We'd identified as a company a need to update our website. We were using a reasonably clunky, ubiqitious, and buggy wordpress template. We struggled to find the time to prioritise the website among the other projects we had going on. As a result, I took it upon myself to use time off over Christmas to get some mockups together for a new site.
+                <p>We'd identified as a company a need to update our website. We were using a reasonably clunky, ubiquitous, and buggy Wordpress template. We struggled to find the time to prioritise the website among the other projects we had going on. As a result, I took it upon myself to use time off over Christmas to get some mock-ups together for a new site.
                 </p>
             </div>
         </div>
@@ -80,8 +74,8 @@ thumbnail: assets/img/portfolio/seenit-website.jpg
     <div class="container">
         <div class="row">
             <div class="col-6">
-                <h3>Built to scale</h3>
-                <p>In order with the site to work for the company we needed to make sure there was a content management system in place so that anyone could go in and add job posts, blogs, or edit pages. We opted for CloudCannon, a Cloud based CMS build specifiaclly for Jekyll. From there, a Jenkins build job was set up so we could have a staging site to test prior to merging into master. Once all of that was set up, it was a case of writing the code and hosting the site through Google Static Pages.</p>
+                <h3>Built to scale.</h3>
+                <p>In order with the site to work for the company we needed to make sure there was a content management system in place so that anyone could go in and add job posts, blogs, or edit pages. We opted for CloudCannon, a Cloud based CMS build specifically for Jekyll. From there, a Jenkins build job was set up so we could have a staging site to test prior to merging into master. Once all of that was set up, it was a case of writing the code and hosting the site through Google Static Pages.</p>
             </div>
         </div>
     </div>
