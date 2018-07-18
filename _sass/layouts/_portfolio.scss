@@ -6,6 +6,8 @@
     transform: scale(1);
     transition: all 0.3s ease-in-out;
     margin-bottom: 3em !important;
+    animation: pulse 1s infinite alternate;
+    color: transparent;
     @media(min-width: 767px) {
             margin: 0 0 30px;
     }
