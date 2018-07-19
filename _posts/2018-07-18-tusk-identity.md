@@ -13,6 +13,24 @@ permalink: /blog/:year/:month/:day/:title/
 
 I wanted to take a put some of the last few months work together in one blog post to show case some of the Tusk materials we've been using. There's plenty more to come from Tusk but I hope you like what we've been able to produce so far.
 
+<section>
+    <h3>Photography</h3>
+    <div class="full-width portfolio-banner">
+        <img src="{{ site.baseurl}}/assets/img/blog/18-07-18-tusk-cooking.jpg" class="no-padding portfolio-banner-image" alt="tusk cooking"/>
+    </div>
+    <h6>A Tusker helping in the kitchen.</h6>
+</section>
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="post-img-alt-container">
+        	    <img src="{{ site.baseurl }}/assets/img/blog/18-07-18-tusk-packing.jpg" class="post-img-alt" alt="tusk packing">
+                <h6>A Tusker packing.</h6>
+            </div>
+        </div>
+    </div>
+</div>
 
 <section>
     <h3>Photography</h3>
@@ -95,5 +113,12 @@ I wanted to take a put some of the last few months work together in one blog pos
         </div>
     </div>
 </div>
+
+<section>
+    <div class="full-width portfolio-banner">
+        <img src="{{ site.baseurl}}/assets/img/blog/18-07-18-tusk-banner.jpg" class="no-padding portfolio-banner-image" alt="tusk banner"/>
+    </div>
+    <h6>Tusk banner.</h6>
+</section>
 
 

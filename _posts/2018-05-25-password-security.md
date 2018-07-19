@@ -5,7 +5,7 @@ tags:
 - Design
 author: Ed Stennett
 date:   2018-05-25 08:20:00 +0000
-thumbnail: assets/img/blog/26-05-18-password_strength.png
+thumbnail: assets/img/blog/26-05-18-password-hero.jpg
 permalink: /blog/:year/:month/:day/:title/
 ---
 
