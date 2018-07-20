@@ -58,6 +58,24 @@ I wanted to take a put some of the last few months work together in one blog pos
     <h6>A Tusker helping move house.</h6>
 </section>
 
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="post-img-alt-container">
+        	    <img src="{{ site.baseurl }}/assets/img/blog/18-07-18-tusk-baby.jpg" class="post-img-alt" alt="tusk baby">
+                <h6>A mini Tusker.</h6>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section>
+    <div class="full-width portfolio-banner">
+        <img src="{{ site.baseurl}}/assets/img/blog/18-07-18-tusk-mikey.jpg" class="no-padding portfolio-banner-image" alt="tusk mikey"/>
+    </div>
+    <h6>A Tusker taking out the rubbish.</h6>
+</section>
+
 <section>
     <h3>Print materials</h3>
     <p>A comprehensive set of Identity Guidelines was put together to ensure consistency throughout.</p>

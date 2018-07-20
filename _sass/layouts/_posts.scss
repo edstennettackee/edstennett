@@ -144,6 +144,9 @@ header {
 .post-img-alt-container {
     width: 65%;
     margin: auto;
+    @media (max-width: 768px) {
+        width: 100%;
+    }
 }
 
 .post-img-alt {
