@@ -4,7 +4,7 @@ title: Tusk is coming soon to London
 tags:
 - Design
 author: Ed Stennett
-date:   2018-08-03 08:20:00 +0000
+date:   2018-08-22 08:20:00 +0000
 thumbnail: assets/img/blog/2018-08-22-tusk-london.jpg
 permalink: /blog/:year/:month/:day/:title/
 ---
