@@ -9,7 +9,7 @@ thumbnail: assets/img/blog/2018-08-22-tusk-london.jpg
 permalink: /blog/:year/:month/:day/:title/
 ---
 
-#### Since starting in November 2016, a group of eight people in their spare time built Tusk, a task site with the ambition of empowering students to work around studies, choosing the work they wanted to do.
+### Since starting in November 2016, a group of eight people in their spare time built Tusk, a task site with the ambition of empowering students to work around studies, choosing the work they wanted to do.
 
 Simply put, Tusk is a platform that allows anyone to list a task where a task can be anything. Students in the local area can apply and complete the tasks, earning money whilst not having to commit to full time work.
 
