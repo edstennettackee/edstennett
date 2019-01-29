@@ -26,5 +26,3 @@ By simply not talking about something that had such a profound impact on my life
 After my father died, I moved to London. I live with my two best mates in a flat I’m extremely lucky to call home. My mother moved to a new house in Southampton, so ‘going home’ is now ‘visiting mum’. We had to make the difficult decision to give Tilly, our dog, away to a friend. To anyone that ever met Tilly, they’ll know she could be a fucking nightmare. But what they didn’t see was that when it was just me and her, she was calm, loving. She used to lick the tears from my face. I cry about Tilly a lot. I cry about the house too.
 
 I’m writing this because there are people, boys especially, that cry and no one can hear them. There are people that hide themselves away. I’d hope that anyone that’s taken the time to read this would feel empowered to cry, to talk, to help, to laugh, to hug the people they care about, because love, is love, is love, is love, is love, is love, and there is nothing more fucking manly than crying.
-
-Writing this, I feel better. I don’t want to cry right now. I’m going to it, I’m going to talk. You should too.
