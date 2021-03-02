@@ -1,0 +1,115 @@
+video {
+    width:100%;
+    display:block;
+}
+
+.video-overlay {
+    position: fixed;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: $black-80;
+    opacity: 0;
+    transition: all ease 500ms;
+  
+    &.open {
+      position: fixed;
+      z-index: 100000;
+      opacity: 1;
+    }
+  
+    #video-holder {
+      background: black;
+      position: relative;
+      width: 95%;
+      max-width:800px;
+      top: 50%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-50%);
+      box-shadow: 0 0 15px $black-72;
+    }
+  }
+  
+  .video-overlay-close {
+    position: absolute;
+    z-index: 1000;
+    top: $space-24;
+    right: $space-32;
+    color: $white;
+    text-decoration: none;
+    font-size: 32px;
+    line-height: 1;
+    cursor: pointer;
+    transition: all 200ms;
+  
+    &:hover {
+        color:$white;
+        transform: scale(1.2);
+    }
+}
+
+.play-video, .video_play {
+    position: relative;
+    display:block;
+    -webkit-transition: all 0.5s ease-in-out !important;
+    -o-transition: all 0.5s ease-in-out !important;
+    transition: all 0.5s ease-in-out !important;
+    border-color: $white;
+    background-color: rgba(0,0,0,0.64);
+    border-radius: $img-border-radius;
+
+    img {
+        display:block;
+        width: 100%;
+        box-shadow:$surface-raised;
+        border-radius: $img-border-radius;
+    }
+
+    &:hover {
+        box-shadow:$surface-depth;
+    }
+    
+}
+
+.latest-videos {
+    margin: -6px;
+    margin-top: 10px;
+    display:flex;
+    max-width: 216px;
+    flex-wrap: wrap;
+
+    .latest-video {
+        display:block;
+        margin: 6px;
+        width: 96px;
+        height: 64px;
+        background-size: cover;
+        background-position: center;
+        border-radius: 4px;
+
+        span {
+            opacity: 0;
+        }
+    }
+}
+
+.showcase {
+    img {
+        border-radius: $border-radius;
+    }
+    .hide-tablet {
+        @include media-query(tablet, max) {
+            display:none;
+        }
+        @include media-query(phone, max) {
+            display:block;
+        }
+    }
+    .hide-midbreak {
+        @include media-query(midbreak, max) {
+            display:none;
+        }
+    }
+}

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<section> 
+    <div class="circle circle-size-640 circle-colour-light-blue" style="right: -320px; top: -240px;"></div>
+    <div class="circle circle-size-400 circle-colour-dark-yellow" style="left: -200px; top: 720px;"></div>
+    <div class="circle circle-size-320 circle-colour-light-purple" style="right: -160px; top: 1200px;"></div>
+    <div class="wrapper">
+        <div class="row">
+            <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 larger-images larger-videos">
+                <h1 class="headline">{{page.title}}</h1>
+                <div class="blog ">
+                    <p class="txt-grey">Last updated: {{page.date | date: "%-d %B, %Y"}}</p>
+                    {{content}}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

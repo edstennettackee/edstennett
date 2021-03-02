@@ -1,0 +1,95 @@
+.button {
+	border-radius:$border-radius;
+	width: fit-content;
+	width: max-content;
+	padding: 13px $space-24 15px;
+	letter-spacing: 0.4px;
+    line-height: normal;
+	font-weight: 700;
+	font-size: 1rem; 
+	text-decoration: none!important;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	transition: $standard-transition;
+	text-shadow:none;
+	border: 0;
+	margin: 0;
+	max-width:100%;
+	cursor: pointer;
+	-webkit-appearance: none;
+
+	&.small {
+		padding: 7px $space-12 9px;
+	}
+    
+    &.txt-center, .txt-center & {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    &.full-width {
+        width: 100%;
+    }
+}
+
+// Generate classes - background border text hover-background hover-border hover-text hover-shadow
+$button-styles:
+  'brand' $brand $brand $off-white $brand $brand $white,
+  'ghost-brand' transparent $brand $brand $brand $brand $off-white, 
+  'white' $white $white $brand $white $white $brand,
+  'ghost-white' transparent $white $white $white $white $brand, 
+;
+
+@each $button in $button-styles {
+	$name: nth($button, 1);
+	$background: nth($button, 2);
+	$border-color: nth($button, 3);
+	$color: nth($button, 4);
+	$hover-background: nth($button, 5);
+	$hover-border-color: nth($button, 6);
+	$hover-color: nth($button, 7);
+
+	.button.#{$name}, .button.#{$name}-button, .#{$name}-button a {
+		background: $background;
+		color: $color;
+		border: 2px solid $border-color;
+		
+		&:hover {
+			transform: translateY(-0.5px);
+			background: $hover-background;
+			color: $hover-color;
+			border-color: $hover-border-color;
+			box-shadow: 0px 8px 8px rgba($background,0.16), 0px 16px 16px -16px rgba($background,0.24);
+		}
+	}
+} 
+
+.button.ghost-brand:hover, .button.ghost-brand-button:hover, .ghost-brand-button a:hover {
+	box-shadow: none;
+	transform: none;
+}
+
+.button-group {
+    margin: -8px;
+    margin-top: $space-16;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    .button {
+        margin: $space-8;
+        flex: 0 0 auto;
+    }
+
+    &.txt-center, .txt-center & {
+        width: max-content;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+p + .button {
+    margin-top: $space-32;
+}

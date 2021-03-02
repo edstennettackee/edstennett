@@ -1,12 +1,11 @@
 ---
-layout: blog-post
 title: Three problems product teams face with users that are only getting harder.
+description: 
 tags:
 - Product
-author: Ed Stennett
 date:   2018-02-22 12:30:00 +0000
-thumbnail: assets/img/blog/22-02-18-hero.jpg
-permalink: /blog/:year/:month/:day/:title/
+image: /assets/images/blog/22-02-18-hero.jpg
+duration: 3 min read
 ---
 
 #### "Users are difficult to please, resist change and with competition greater than ever, it's only getting worse."
@@ -26,7 +25,7 @@ At the time Facebook had 175 million active users. To date, Facebook has just su
 Several years before this, eBay had a similar problem as they looked to follow in the footsteps of Google and clean up their image, going from a sunset yellow background to white.
 
 <div align="center">
-    <img src="{{site.baseurl}}/assets/img/blog/22-02-18-ebay.jpg" class="img-fluid" alt="ebay yellow" />
+    <img src="{{site.baseurl}}/assets/images/blog/22-02-18-ebay.jpg" class="img-fluid" alt="ebay yellow" />
 </div>
 
 Overnight, the yellow was gone and was replaced by a white background. The result; eBay received thousands upon thousands of complaints, hate letters, support tickets, emails and phone calls against the change. For what was perceived by eBay as a very simple, low risk change, turned out to be nightmare. The yellow background returned and peace was restored.

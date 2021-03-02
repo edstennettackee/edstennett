@@ -1,51 +1,76 @@
-// Typography
-$font-family-main: 'Fira Sans', Helvetica, Arial, sans-serif;
-$font-family-headings: 'Playfair Display', serif;
-$font-family-mono: 'Roboto Mono', monospace;
-$font-size: 1.25em;
+// Site Width:
+$site-width: 1200px;
 
-// Padding
-$padding-large: 10%;
-$padding-small: 5%;
-$padding-x-small: 3%;
-$padding-x-x-small: 1%;
+//Media queries
+$breakpoints: (
+	"phone":	    480px,
+	"midbreak":     800px,
+	"tablet":	    1024px,
+	"desktop":	    $site-width
+);
 
-// Brand colours
-$white: #fff;
+// Fonts
+$playfair: 'Playfair', Times, serif;
+$neuzeit: 'Neuzeit', Helvetica, Arial, sans-serif;
 
-// Teal - uses Google material colour terminology (500,700,900)
+// Colours
+$brand:			#4b83a3;
+$white: 		#ffffff;
+$off-white:     #fcfcfc;
+$grey-1:		#243F4F;
+$grey-2:		#879095;
+$grey-3:		#C9CFD3;
+$grey-4:		#E5E8EA;
+$grey-5:		#F2F3F4;
+$grey-6:		#FAFAFB;
+$dark-blue:		#385eb9;
+$light-blue:	#bfd2f6;
+$dark-pink: 	#d81a43;
+$light-pink:	#f2aba5;
+$light-purple:	#b7a9fc;
+$dark-purple:	#3a2991;
+$dark-yellow:	#fcdf6a;
+$light-yellow:  #fcf4e8;
+$dark-orange:	#ed6529;
+$light-orange:	#f99d77;
+$dark-green: 	#006b61;
+$light-green:   #96e3b8;
+$dark-navy:     #1a293d;
+$light-navy:    #a7b8cd;
+$black-80:  	rgba(0, 0, 0, .8);
+$black-72:  	rgba(0, 0, 0, .72);
+$black-64:  	rgba(0, 0, 0, .64);
+$black-56:  	rgba(0, 0, 0, .56);
+$black-48:  	rgba(0, 0, 0, .48);
+$black-40:  	rgba(0, 0, 0, .40);
+$black-32:  	rgba(0, 0, 0, .32);
+$black-24:  	rgba(0, 0, 0, .24);
+$black-16:  	rgba(0, 0, 0, .16);
+$black-08:  	rgba(0, 0, 0, .08);
+$black-04:  	rgba(0, 0, 0, .04);
 
-$fivehundred: #639BAB;
-$sevenhundred: #19272B;
+// Surface shadows
+$surface-flat: 0 0 0 1px rgba(0, 0, 0, 0.08);
+$surface-normal: 0 4px 8px 0 rgba(0, 0, 0, 0.04), 0 8px 16px 0 rgba(0, 0, 0, 0.02), 0 0 0 1px rgba(0, 0, 0, 0.04);
+$surface-normal-reversed:  0 -4px 8px 0 rgba(0, 0, 0, 0.04), 0 -8px 16px 0 rgba(0, 0, 0, 0.02), 0 0 0 1px rgba(0, 0, 0, 0.04);
+$surface-raised: 0 12px 32px 0 rgba(0, 0, 0, 0.08), 0 4px 12px 0 rgba(0, 0, 0, 0.04), 0 12px 24px 0 rgba(0, 0, 0, 0.04), 0 0 0 1px rgba(0, 0, 0, 0.04);
+$surface-raised-reversed: 0 -12px 32px 0 rgba(0, 0, 0, 0.08), 0 -4px 12px 0 rgba(0, 0, 0, 0.04), 0 -12px 24px 0 rgba(0, 0, 0, 0.04), 0 0 0 1px rgba(0, 0, 0, 0.04);
+$surface-depth: 0 16px 32px 0 rgba(0, 0, 0, 0.08), 0 4px 12px 0 rgba(0, 0, 0, 0.08), 0 16px 24px 0 rgba(0, 0, 0, 0.09), 0 0 0 1px rgba(0, 0, 0, 0.04);
+$surface-depth-reversed: 0 -16px 32px 0 rgba(0, 0, 0, 0.08), 0 -4px 12px 0 rgba(0, 0, 0, 0.08), 0 -16px 24px 0 rgba(0, 0, 0, 0.09), 0 0 0 1px rgba(0, 0, 0, 0.04);
 
+//Spacing
+$space-4: 4px;
+$space-8: 8px;
+$space-12: 12px;
+$space-16: 16px;
+$space-24: 24px;
+$space-32: 32px;
+$space-40: 40px;
+$space-64: 64px;
+$space-80: 80px;
+$border-radius: 8px;
+$img-border-radius: 24px;
 
-$background-color: #fff;
-$border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
+// Transitions
 
-
-// Greys
-$body-primary: #454B54;
-$body-secondary: #676C74;
-$neutral: #C9CACB;
-$background: #EEEFF0;
-$background-secondary: #F5F6F7;
-
-
-// Typography colours
-$text-color: #999999;
-$selection-color: #E49273; // visible when highlighting text
-$blockquote-color: #EEF7FA; // $background-color;
-
-// Tags color
-$tags-color: #b0b0b0;
-
-//Search color
-$text-shadow: #3f3f3f;
-$search-color: #999;
-
-// Header colours
-$header-link-color: #383838;
-
-// Mobile display
-$break: 768px;
-$sm-break: 450px;
+$standard-transition: all 0.4s ease;

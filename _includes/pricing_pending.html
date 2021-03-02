@@ -1,0 +1,83 @@
+
+<div data-toggle='pricing-switch' class="toggle-switch pricing-switch">
+    <span class="unchecked">Up-front</span> 
+    <span class="checked">Monthly</span>
+    <span class="pricing-slider toggle-slider" data-checked="Monthly" data-unchecked="Annual" data-uncheckedVal="Up-front"></span>
+    <div class="save patrick">3 months free</div>
+    <div class="save-arrow"></div>
+</div>
+{% if page.banner.included %}
+    <div class="pricing-banner margin-bottom-24">
+        {{page.banner.content_html}}
+    </div>
+{% endif %}
+<div class="pricing-tiers row scroll">
+    {% for price in site.data.pricing %}
+        <div class="col-xs-11 col-sm-8 col-md-4">
+            <div class="card pricing-card">
+                <p class="body-2 margin-bottom-4">
+                    {{price.name}}
+                </p>
+                <div class="pricing-amount">
+                    <p class="title txt-{{price.seenit_colour}}">
+                        <span data-toggle-unchecked='pricing-switch'>{{price.price.annual}}</span><span data-toggle-checked='pricing-switch' style="display:none;">{{price.price.monthly}}</span>
+                        {% if price.offer %}
+                            <p data-toggle-unchecked='pricing-switch' class="txt-linethrough txt-grey">{{price.price.annual_before}}</p>
+                            <p data-toggle-checked='pricing-switch' class="txt-linethrough txt-grey" style="display:none;">{{price.price.monthly_before}}</p>
+                        {% endif %}
+                    </p>
+                </div>
+                <p><strong><span data-toggle-unchecked='pricing-switch'>{{price.payment_term.annual}}</span><span data-toggle-checked='pricing-switch' style="display:none;">{{price.payment_term.monthly}}</span></strong></p>
+                <div data-toggle-unchecked='pricing-switch'>
+                    <p class="pricing-details">
+                         {% if price.annual_only %}Custom billing {% else %}Billed at {% if price.offer %}
+                        <span data-toggle-unchecked='pricing-switch' class="txt-linethrough txt-grey">{{price.price.annual_total_before}}</span>
+                    {% endif %}<span>{{price.price.annual_total}}/year</span>{% endif %}
+                    </p>
+                </div>
+                <div data-toggle-checked='pricing-switch' style="display:none;">
+                    <p class="pricing-details">
+                        {% if price.annual_only %} Custom billing {% else %} Billed monthly {% endif %}
+                    </p>
+                </div>
+                <p class="txt-{{price.seenit_colour}} pricing-details">
+                    {% if price.uploads_per_year == 'Unlimited' %}
+                        <strong>Unlimited uploads</strong>
+                    {% elsif price.monthly_option %}
+                        Start at 
+                        <span>
+                            <strong data-toggle-unchecked='pricing-switch'>
+                                {{price.uploads_per_year}} uploads/year
+                            </strong>
+                            <strong data-toggle-checked='pricing-switch' style="display:none;">
+                                {{price.uploads_per_month}} uploads/month
+                            </strong>
+                        </span>
+                        {% else %}
+                        Start at <span><strong>{{price.uploads_per_year}} uploads/year</strong></span>
+                    {% endif %}
+                </p>
+                <a href="{{price.button.link}}" class="button {{price.seenit_colour}} margin-top-24">{{price.button.label}}</a>
+                <p class="subtext txt-center txt-grey margin-top-8">{{price.button.subtext}}</p>
+                <p class="margin-top-16"><strong>{{price.features.header}}</strong></p>
+                <ul class="pricing-features">
+                    {% for feature in price.features.list %}
+                    <li>
+                        <svg class="fill-{{price.seenit_colour}}" style="width:24px;height:24px" viewBox="0 0 24 24">
+                            <path d="M12 2C6.5 2 2 6.5 2 12S6.5 22 12 22 22 17.5 22 12 17.5 2 12 2M10 17L5 12L6.41 10.59L10 14.17L17.59 6.58L19 8L10 17Z" />
+                        </svg>
+                        {%- if feature.feature_help_text -%}
+                        <div class="pricing-feature-help">
+                        {%- endif -%}
+                            {{feature.feature_text}}
+                        {%- if feature.feature_help_text -%}
+                            <span class="help-text">{{feature.feature_help_text}}</span>
+                        </div>
+                        {%- endif -%}
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    {% endfor %}
+</div>

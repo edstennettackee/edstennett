@@ -1,12 +1,11 @@
 ---
-layout: blog-post
 title: So, what actually makes a good password?
+description: 
 tags:
 - Design
-author: Ed Stennett
 date:   2018-05-25 08:20:00 +0000
-thumbnail: assets/img/blog/26-05-18-password-hero.jpg
-permalink: /blog/:year/:month/:day/:title/
+image: /assets/images/blog/26-05-18-password-hero.jpg
+duration: 3 min read
 ---
 
 The 25th of May 2018, a day that will affectionately be known as ‘GDPR Day’ for years to come, a day where personal privacy and data collected online was at the top of the agenda for companies across the world. That 4 letter acronym that I needn't repeat has been ubiquititous, making us question how many data the tech giants of this world _really_ store about us. With data privacy at the forefront of the world's media, I thought I'd write about a topic that is actually a lot easier to do well than people make out: passwords.
@@ -17,7 +16,7 @@ There are myriad considerations when picking a _good_ password: should you reuse
 <div class="row">
 <div class="col-12"> 
 <div align="center">
-	<img src="{{ site.baseurl }}/assets/img/blog/26-05-18-password_strength.png" alt="new seenit website">
+	<img src="{{ site.baseurl }}/assets/images/blog/26-05-18-password_strength.png" alt="new seenit website">
     <h6>Source: xkcd</h6>
 </div>
 </div>

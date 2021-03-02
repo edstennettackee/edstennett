@@ -1,12 +1,11 @@
 ---
-layout: blog-post
 title: To define is to limit
+description: 
 tags:
 - Design
-author: Ed Stennett
 date:   2018-04-28 12:30:00 +0000
-thumbnail: assets/img/blog/28-04-18-design.jpg
-permalink: /blog/:year/:month/:day/:title/
+image: /assets/images/blog/28-04-18-design.jpg
+duration: 3 min read
 ---
 
 #### To define is to limit. From Oscar Wilde’s ‘The Picture of Dorian Gray’, the quote explores how when something is given a definition, it is confined to the parameters of the definition itself and limited as a result.
@@ -17,7 +16,7 @@ For me, when we chose to define, we compromise the final output and limit the po
 <div class="row">
 <div class="col-12"> 
 <div align="center">
-	<img src="{{ site.baseurl }}/assets/img/blog/28-04-18-design-building.jpg" alt="building design">
+	<img src="{{ site.baseurl }}/assets/images/blog/28-04-18-design-building.jpg" alt="building design">
 	<h6>Remarkable design is achieved when we allow complete freedom.</h6>
 </div>
 </div>
@@ -34,7 +33,7 @@ By setting strict parameters in the agency process, we limit design. For me, it�
 <div class="row">
 <div class="col-12"> 
 <div align="center">
-	<img src="{{ site.baseurl }}/assets/img/blog/28-04-18-martin-sorrell.jpg" alt="Martin Sorrell">
+	<img src="{{ site.baseurl }}/assets/images/blog/28-04-18-martin-sorrell.jpg" alt="Martin Sorrell">
 	<h6>Former WPP CEO Martin Sorrell.</h6>
 </div>
 </div>

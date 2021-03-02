@@ -1,12 +1,11 @@
 ---
-layout: blog-post
 title: Boys don't cry
+description: I went to the gym on a Wednesday after work. I did shoulders. I’d been going to the gym a fair bit and felt better for it. I left the gym to get into my car, still in my kit, and drive home.
 tags:
 - Personal
-author: Ed Stennett
 date:   2019-01-25 08:20:00 +0000
-thumbnail: assets/img/blog/25-01-19-boys-dont-cry.jpg
-permalink: /blog/:year/:month/:day/:title/
+image: /assets/images/blog/25-01-19-boys-dont-cry.jpg
+duration: 3 min read
 ---
 
 I went to the gym on a Wednesday after work. I did shoulders. I’d been going to the gym a fair bit and felt better for it. I left the gym to get into my car, still in my kit, and drive home. I was working in Winchester and lived with my mum, dad, two brothers, and Tilly, our Labrador puppy. On the way home, an ambulance overtook me at speed. I remember getting this strange gut feeling as it sped past on the country road. As I arrived home, the same ambulance was sat on the driveway. I pulled in, nearly crashing into the wall. I didn’t care. The front door was open and I ran inside. My mum stood, shaking in the living room. She held me and said ‘I’m afraid it’s your father’. She looked up at me. ‘Whatever happens, we must be strong’. I went through to the next door where my father was laying on his back. Motionless. Still. A paramedic asked me to help as it was just him and Will, my younger brother. Will had an air bag and I had to perform chest compressions. The paramedic continued to inject dad with adrenaline over the course of 20 minutes. I continued to give chest compressions. I remember how much my shoulders hurt, I remember screaming ‘come on dad’, with my mum watching two of her sons doing all they could. There came a point when more paramedics arrived and we were advised to go next door. We sat on the sofas in silence. A man came through and said that they had done all they could. On March the 25th, 2015, at around 1930, my father died. He was 56, I was 19.

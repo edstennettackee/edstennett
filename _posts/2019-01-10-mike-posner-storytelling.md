@@ -1,12 +1,11 @@
 ---
-layout: blog-post
 title: Mike Posner and the power of storytelling
+description: 
 tags:
 - Design
-author: Ed Stennett
 date:   2019-01-10 08:20:00 +0000
-thumbnail: assets/img/blog/2019-01-10-storytelling.jpg
-permalink: /blog/:year/:month/:day/:title/
+image: /assets/images/blog/2019-01-10-storytelling.jpg
+duration: 3 min read
 ---
 
 <div align="center">

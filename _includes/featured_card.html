@@ -1,0 +1,21 @@
+{% if include.resource.path contains 'portfolio' %}
+    {%- assign button_text = 'Read now' -%}
+    {%- assign description = include.resource.description -%}
+    {%- assign overline = include.resource.company -%}
+{% endif %}
+
+<div class="featured-card image_{{include.image_position}}">
+    <div class="card-content">
+        <div class="text-content">
+            {% if overline %}
+                <p class="overline txt-grey">{{overline}}</p>
+            {% endif %}
+            <h2 class="header"><strong>{{include.resource.title}}</strong></h2>
+            {% if description %}
+                <p class="body-2">{{description}}</p>
+            {% endif %}
+        </div>
+        <a class="button ghost-brand" href="{{include.resource.url}}">{{button_text}}</a>
+    </div>
+    <div class="feature-image" style="background-image:url({{include.resource.image}})"></div>
+</div>

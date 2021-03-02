@@ -1,0 +1,72 @@
+<div class="panels">
+    {% for panel in include.panels %}
+        {% if include.reverse %}
+            {% assign reverse_panel = forloop.index0 | modulo:2 %}
+        {% else %}
+            {% assign reverse_panel = forloop.index | modulo:2 %}
+        {% endif %}
+        <div class="panel {{include.extra_classes}}">
+            {%- if panel.arrow_classes -%}
+                <div class="arrow {{panel.arrow_classes | join: ' '}}"></div>
+            {%- endif -%}
+            <div class="row middle-xs">
+               {%- assign overline = panel.panel_text_section | map: "overline" | join '' | strip -%}
+               {%- assign header = panel.panel_text_section | map: "header" | join '' | strip -%}
+               {%- assign text = panel.panel_text_section | map: "panel_text_html" | join '' | strip -%}
+               {%- assign button_label = panel.panel_text_section | map: "label" | join '' | strip -%}
+               {%- assign button_link = panel.panel_text_section | map: "link" | join '' | strip -%}
+               {%- assign new_tab = panel.panel_text_section | map: "new_tab" | join '' | strip -%}
+                <div class="col-xs-12 col-md-6 {% if reverse_panel == 0 %} last-md {% endif %}">
+                    <div class="inset-content">
+                        {%- if overline.size > 0 -%}
+                            <p class="overline txt-grey">{{overline}}</p>
+                        {%- endif -%}
+                        {%- if header.size > 0 -%}
+                            <h3 class="header">{{header}}</h3>
+                        {%- endif -%}
+                        {%- if text.size > 0 -%}
+                            <div class="body-2">{{text}}</div>
+                        {%- endif -%}
+                        {%- if button_label.size > 0 and button_link.size > 0 -%}
+                            <a class="margin-top-24 button ghost-brand" href="{{button_link}}" {% if new_tab == 'true' %}target="_blank"{% endif %}>{{button_label}}</a>
+                        {%- endif -%}
+                    </div>
+                </div>
+                <div class="col-md-6 col-xs-12">
+                    <div>
+                        {%- assign image = panel.panel_content_section | map: "image" | join '' | strip -%}
+                        {%- assign image_subtext = panel.panel_content_section | map: "image_subtext" | join '' | strip -%}
+                        {%- assign alt = panel.panel_content_section | map: "alt" | join '' | strip -%}
+                        {%- assign video_url = panel.panel_content_section | map: "video_url" | join '' | strip -%}
+                        {%- assign video_image = panel.panel_content_section | map: "video_image" | join '' | strip -%}
+                        {%- assign video_image_alt = panel.panel_content_section | map: "video_image_alt" | join '' | strip -%}
+                        {%- assign video_image_subtext = panel.panel_content_section | map: "video_image_subtext" | join '' | strip -%}
+                        {%- assign panel_html = panel.panel_content_section | map: "panel_content_html" | join '' | strip -%}
+                        {%- assign customer_video = panel.panel_content_section | map: "customer_video" | join '' | strip -%}
+                        {% if image.size > 0 %}
+                            <img data-src="{{image}}" class="lazyload" alt="{{alt}}"/>
+                            {% if image_subtext.size > 0 %}
+                                <p class="margin-top-8">{{image_subtext}}</p>
+                            {% endif %}
+                        {% endif %}
+                        {%- if video_url.size > 0 and video_image.size > 0 -%}
+                            <a class="play-video rounded" href="{{video_url}}"><img data-src="{{video_image}}" class="lazyload" alt="{{video_image_alt}}"/></a>
+                            {% if video_image_subtext.size > 0 %}
+                                <p class="margin-top-8">{{video_image_subtext}}</p>
+                            {% endif %}
+                        {%- endif -%}
+                        {%- if panel_html.size > 0 -%}
+                            {{panel_html}}
+                        {%- endif -%}
+                        {%- if customer_video.size > 0 -%}
+                            {%- assign video = site.customer_videos | where_exp:"item", "item.path contains customer_video" | first -%}
+                            {%- assign customer = site.customers | where_exp:"item", "item.path contains video.customer" | first -%}
+                            <a class="play-video rounded" href="{{video.video_url}}"><img data-src="{{video.image}}" class="lazyload" alt="{{video.title}}"/></a>
+                            <p class="margin-top-8">Example from <strong>{{customer.name}}</strong></p>
+                        {%- endif -%}
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>

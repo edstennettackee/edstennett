@@ -1,7 +1,0 @@
-<div class="customer-logos">
-    {% for image in site.static_files %}
-    {% if image.path contains 'img/clients' %}
-    <div class="slide"><img data-src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name | remove: ".png" }} logo" class="img-fluid client-img lazy"/></div>
-    {% endif %}
-{% endfor %}
-</div>

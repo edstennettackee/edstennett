@@ -1,0 +1,198 @@
+// Tabs
+
+.tabs {
+    margin-top: $space-40;
+
+    img {
+        border-radius: $img-border-radius;
+    }
+}
+
+.tabLink {
+    position: relative;
+    border-radius: 4px;
+    opacity: 0.48;
+    cursor: pointer;
+    transition: $standard-transition;
+    display: flex;
+    flex-direction: column;
+    padding-left: 28px;
+
+    &:before {
+        content: "";
+        position: absolute;
+        max-height:0;
+        top: 50%;
+        bottom:0;
+        left: 0;
+        width: 4px;
+        border-radius: 8px;
+        background-color: $brand;
+        transition: all 0.15s ease-in-out;
+    }
+
+    p + p {
+        display:none;
+    }
+    
+    .tab-title {
+        font-weight: 600;
+        font-size: rem(28px);
+        line-height: rem(32px);
+    }
+    
+    &.active {
+        opacity:1;
+        
+        p + p {
+            margin-top: $space-8;
+            display:block;
+        }
+
+        &:before {
+            max-height: 100%;
+            top: 0;
+        }
+    }
+
+    & + .tabLink {
+        margin-top: $space-32;
+    }
+}
+
+.tabContent {
+    display:none;
+
+    &.showing {
+        display:block;
+    }
+}
+
+// Switches
+.toggle-switch {
+    position: relative;
+    display: block;
+    margin: $space-40 auto;
+    height: 48px;
+    border-radius: 24px;
+    background-color: $grey-5;
+    font-weight: 700;
+
+    &.toggle-checked {
+        .toggle-slider {
+            &:before {
+                content: attr(data-checked);
+            }
+        }
+    }
+
+    .unchecked, .checked {
+        position: absolute;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        bottom: 4px;
+    }
+
+    .unchecked {
+        left: 4px;
+    }
+
+    .checked {
+        right: 4px;
+    }
+}
+
+.toggle-slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transition: .4s;
+
+    &:before {
+        content: attr(data-uncheckedVal);
+        position: absolute;
+        z-index: 2;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 40px;
+        border-radius: 24px;
+        left: 4px;
+        bottom: 4px;
+        background-color: $white;
+        box-shadow:$surface-normal;
+        color:$brand;
+        transition: .4s;
+    }
+}
+
+// Switch sizes
+
+.pricing-switch {
+    width: 286px;
+
+    &.toggle-checked {
+        .pricing-slider {
+            &:before {
+                transform: translateX(139px);
+            }
+        }
+    }
+
+    .unchecked, .checked {
+        width: 139px;
+    }
+}
+
+.pricing-slider {
+    &:before {
+        width: 139px;
+    }
+}
+
+.story-ideas-switch {
+    width: 368px;
+
+    &.toggle-checked {
+        .story-ideas-slider {
+            &:before {
+                transform: translateX(180px);
+            }
+        }
+    }
+
+    .unchecked, .checked {
+        width: 180px;
+    }
+}
+
+.story-ideas-slider {
+    &:before {
+        width: 180px;
+    }
+}
+
+@include media-query(midbreak, 'max') {
+    .story-ideas-switch {
+        text-align:center;
+        line-height: 1;
+        width: 244px;
+
+        .unchecked, .checked {
+            width: 120px;
+        }
+
+        &.toggle-checked .story-ideas-slider:before {
+           transform: translateX(115px);
+        }
+    }
+
+    .story-ideas-slider:before {
+        width: 120px;
+    }
+}

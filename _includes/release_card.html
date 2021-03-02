@@ -1,0 +1,19 @@
+<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 {% if include.released %}released{% endif %}">
+    <div class="release-card">
+        <p class="overline" style="margin-bottom:8px;">
+            {% if include.released %}
+                Version {{release.version}}
+            {% elsif include.release.release_date %}
+                Upcoming...
+            {% elsif include.release.version %}
+                Upcoming...
+            {% endif %}
+        </p>
+        <h3 class="header">{{include.release.title}}</h3>
+        {% if include.released %}<p class="subtext">{{include.release.release_date | date: " %-d %B %Y"}}</p>{% endif %}
+        <p class="body-2">{{include.release.changes_text}}</p>
+        {% if include.release.read_more_page %}
+        <a href="{{include.release.url}}" class="button ghost-brand">Read more</a>
+        {% endif %}
+    </div>
+</div>

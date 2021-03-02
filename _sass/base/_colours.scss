@@ -1,0 +1,75 @@
+
+$colours:
+    'brand' $brand $white,
+    'white' $white $grey-1,
+    'grey' $grey-2 $grey-1,
+    'wash' $grey-6 $grey-1,
+    'dark-blue' $dark-blue $white,
+    'light-blue' $light-blue $grey-1,
+    'dark-pink' $dark-pink $white,
+    'light-pink' $light-pink $grey-1,
+    'light-purple' $light-purple $grey-1,
+    'dark-purple' $dark-purple $white,
+    'dark-yellow' $dark-yellow $grey-1,
+    'light-yellow' $light-yellow $grey-1,
+    'dark-orange' $dark-orange $white,
+    'light-orange' $light-orange $grey-1,
+    'dark-green' $dark-green $white,
+    'light-green' $light-green $grey-1,
+    'dark-navy' $dark-navy $white,
+    'light-navy' $light-navy $grey-1
+;
+
+@each $colour in $colours {
+	$name: nth($colour, 1);
+	$main: nth($colour, 2);
+    $text: nth($colour, 3);
+    
+    .bkg-#{$name} {
+        background: $main;
+        color: $text;
+        a {
+            color: $text;
+            &:hover {
+                color: $text;
+            }
+        }
+    }
+
+    .fill-#{$name} {
+        fill: $main;
+    }
+
+    .txt-#{$name}, a.txt-#{$name} {
+        color: $main;
+        &:hover {
+            color:$main;
+        }
+    }
+}
+
+.darker::before {
+    background-color: rgba(18, 18, 18, 0.04);
+    content: "";
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.lighter::before {
+    background-color: rgba(255, 255, 255, 0.04);
+    content: "";
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.bkg-blue-wash {
+    background: rgba($light-blue, 0.24);
+}

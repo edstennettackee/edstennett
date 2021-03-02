@@ -1,0 +1,50 @@
+<div data-tabbed id={{include.id}} class="row tabs middle-md {{include.additional_classes}} min-560">
+    <div class="tab-links col-xs-12 col-md-5">
+        {% for tab in include.tabs.tabs %}
+            <div class="tabLink {% if forloop.index == 1 %}active{% endif %}">
+                {% if tab.title %}
+                    <p class="tab-title">{{tab.title}}</p>
+                {% endif %}
+                {% if tab.subtitle %}
+                    <p class="body-2">{{tab.subtitle}}</p>
+                {% endif %}
+            </div>
+        {% endfor %}
+    </div>
+    <div class="col-xs-12 col-md-6 col-md-offset-1">
+        {% for tab in include.tabs.tabs %}
+            <div class="tabContent {% if forloop.index == 1 %}showing{% endif %}">
+                {%- assign image = tab.tab_content_section | map: "image" | join '' | strip -%}
+                {%- assign image_subtext = tab.tab_content_section | map: "image_subtext" | join '' | strip -%}
+                {%- assign alt = tab.tab_content_section | map: "alt" | join '' | strip -%}
+                {%- assign video_url = tab.tab_content_section | map: "video_url" | join '' | strip -%}
+                {%- assign video_image = tab.tab_content_section | map: "video_image" | join '' | strip -%}
+                {%- assign video_image_alt = tab.tab_content_section | map: "video_image_alt" | join '' | strip -%}
+                {%- assign video_image_subtext = tab.tab_content_section | map: "video_image_subtext" | join '' | strip -%}
+                {%- assign tab_html = tab.tab_content_section | map: "tab_content_html" | join '' | strip -%}
+                {%- assign customer_video = tab.tab_content_section | map: "customer_video" | join '' | strip -%}
+                {% if image.size > 0 %}
+                    <img data-src="{{image}}" class="lazyload" alt="{{alt}}"/>
+                    {% if image_subtext.size > 0 %}
+                        <p class="margin-top-8">{{image_subtext}}</p>
+                    {% endif %}
+                {% endif %}
+                {%- if video_url.size > 0 and video_image.size > 0 -%}
+                    <a class="play-video rounded" href="{{video_url}}"><img data-src="{{video_image}}" class="lazyload" alt="{{video_image_alt}}"/></a>
+                    {% if video_image_subtext.size > 0 %}
+                        <p class="margin-top-8">{{video_image_subtext}}</p>
+                    {% endif %}
+                {%- endif -%}
+                {%- if tab_html.size > 0 -%}
+                    {{tab_html}}
+                {%- endif -%}
+                {%- if customer_video.size > 0 -%}
+                    {%- assign video = site.customer_videos | where_exp:"item", "item.path contains customer_video" | first -%}
+                    {%- assign customer = site.customers | where_exp:"item", "item.path contains video.customer" | first -%}
+                    <a class="play-video rounded" href="{{video.video_url}}"><img data-src="{{video.image}}" class="lazyload" alt="{{video.title}}"/></a>
+                    <p class="margin-top-8">Example from <strong>{{customer.name}}</strong></p>
+                {%- endif -%}
+            </div>
+        {% endfor %}
+    </div>
+</div>

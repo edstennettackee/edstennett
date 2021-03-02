@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<section class="pad-80">
+    <div class="wrapper">
+        <div class="row">
+            <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+                <div class="margin-bottom-24"><a href="/portfolio/">Portfolio</a> /</div>
+                <h1 class="headline">{{page.title}}</h1>
+                <p class="body-2">{{page.description}}</p>
+                <a class="button brand editable" href="#read-more">Read more</a>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="pad-40 margin-bottom-80" id="read-more">
+    <div class="wrapper blog">
+        <div class="row">
+            <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 larger-images larger-videos rounded-images">
+                <img class="larger-image margin-top-0 lazyload" data-src="{{page.image}}" alt="{{page.title}}"/>
+                {{content}}
+            </div>
+        </div>
+    </div>
+</section>

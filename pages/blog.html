@@ -1,21 +1,44 @@
 ---
-layout: default
 title: Blog
-permalink: "/blog/"
-tags:
-- blog
-group: navigation
-order: 3
+description: >-
+  Subscribe for updates from Seenit — User-Generated Video storytelling insights
+  delivered to your inbox once a month.
+image: /assets/images/open_graph/og_blog.png
+permalink: /blog/
 ---
 
-<section>
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <h1>Some of my thoughts.</h1>
+<section class="pad-120"> 
+    <div class="wrapper">
+        <div class="row middle-xs">
+            <div class="col-xs-12 col-md-6">
+                <h1 class="headline editable">
+                	Some of my thoughts
+                </h1>
+                <p class="body-2 editable">
+                	Subscribe to my mailing list for a newsletter every so often delivered straight to your inbox.
+                </p>
+                {% include hubspot-form.html
+                    formId = 'd7fdd97c-b01c-48de-80d1-25eeaeb30d32'
+                    submitButtonClass = 'button brand small'
+                    cssClass='cta-form hide-labels margin-top-32'
+                %}
+            </div>
+            <div class="col-xs-12 col-md-6">
+                <div class="header-img">
+                    <img src="/assets/images/graphics/work-graphic.svg" alt="Graphic of stationary" />
+                </div>
             </div>
         </div>
     </div>
 </section>
-{% include blog.html %}
-
+<section>
+    <div class="wrapper">
+        <div class="row">
+            {% assign posts = site.posts %}
+            {%- assign sorted-posts = posts | sort: 'date' | reverse -%}
+            {% for post in sorted-posts %}
+                <div class='col-xs-12 col-md-6'>{% include resource_card.html resource=post %}</div>
+            {% endfor %}
+        </div>
+    </div>
+</section>

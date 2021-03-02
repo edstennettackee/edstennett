@@ -1,0 +1,10 @@
+{%- assign customer = site.customers | where_exp:"item", "item.path contains include.video.customer" | first -%}
+<a href="{{include.video.url}}" class="{{include.additionalClasses}} borderless-card">
+    <div class="responsive-content video">
+        <img class="responsive-inner lazyload" data-src="{{include.video.image}}"/>
+    </div>
+    <div class="card-content">
+        <p><strong>{{include.video.title}}</strong></p>
+        <p class="subtext">A video by <strong>{{customer.name}}</strong></p>
+    </div>
+</a>

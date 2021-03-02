@@ -1,0 +1,265 @@
+body {
+    font-family: $neuzeit;
+	color: $grey-2;
+	font-size: rem(16px);
+	line-height: 1.4;
+    letter-spacing: 0.2px;
+}
+
+.body-2 {
+    font-size: rem(20px);
+    font-weight: 400;
+    line-height: 1.4;
+    letter-spacing: 0.2px;
+}
+
+.medium {
+    font-weight: 500;
+}
+
+.strong, .bold {
+    font-weight: 600;
+}
+
+.hint {
+    color: $grey-2;
+}
+
+p + p {
+    margin-top: $space-24;
+}
+
+p + .hint {
+    margin-top: $space-4;
+}
+
+p:not(.overline), ol, ul {
+    + h1, + h2, + h3, + h4, + h5, + h6 {
+        margin-top: $space-40;
+    }
+}
+
+.overline {
+    font-size: rem(12px);
+    color: $brand;
+    font-weight: 500;
+    line-height: 1.33;
+    letter-spacing: 0.4px;
+    margin-bottom: $space-4;
+    text-transform: uppercase;
+
+    + p {
+        margin-top: $space-4;
+    }
+}
+
+.subtext {
+    font-size: rem(14px);
+    line-height: 1.71;
+    letter-spacing: 0.2px;
+    color: $grey-2;
+}
+
+a {
+    color: $brand;
+    line-height: 1.5;
+    letter-spacing: 0.2px;
+    text-decoration: underline;
+
+    transition: $standard-transition;
+
+    &:hover {
+        color: rgba($brand, 0.8);
+    }
+}
+
+// Headings
+  
+.headline {
+	font-size: rem(56px);
+    color: $grey-1;
+    font-family: $playfair;
+	font-weight: 700;
+	line-height: 1.14;
+    letter-spacing: 0.28px;
+    margin-bottom: $space-24;
+    
+	@include media-query(midbreak, max) {
+        font-weight: 700;
+        font-size: rem(40px);
+		line-height: 1.2;
+        letter-spacing: 0.2px;
+    }
+}
+
+h1, .title {
+	font-size: rem(32px);
+    color: $grey-1;
+    font-family: $playfair;
+	font-weight: 700;
+	line-height: 1.25;
+	letter-spacing: 0.16px;
+
+	@include media-query(midbreak, max) {
+		font-size: rem(28px);
+		line-height: 1.29;
+		letter-spacing: 0.18px;
+    }
+    
+    + * {
+        margin-top: $space-8;
+    }
+
+    + .header, + .subheader {
+        margin-top: $space-16;
+    }
+}
+
+h2, .header {
+    font-size: rem(32px);
+    color: $grey-1;
+    font-family: $playfair;
+    font-weight: 700;
+    line-height: 1.25;
+    letter-spacing: 0.16px;
+    margin-bottom: $space-8;
+
+	@include media-query(midbreak, max) {
+		font-size: rem(28px);
+		line-height: 1.33;
+    }
+        
+    + * {
+        margin-top: $space-8;
+    }
+
+    + .subheader {
+        margin-top: $space-16;
+    }
+}
+
+
+h3, .subheader {
+	font-size: rem(24px);
+    color: $grey-1;
+    font-family: $playfair;
+	font-weight: 700;
+	line-height: 1.33;
+    letter-spacing: 0.2px;
+    margin-bottom: $space-8;
+}
+
+// Alignment
+
+.width-400 {
+    width: 400px;
+}
+
+.width-600 {
+    width: 600px;
+}
+
+.width-800 {
+    width: 800px;
+}
+
+.width-400, .width-600, .width-800 {
+    max-width: 100%;
+    &.txt-center, .txt-center &, &.centered {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.txt-center {
+    text-align: center;
+}
+
+.txt-left {
+    text-align: left;
+}
+
+.txt-right {
+    text-align:right;
+}
+
+.txt-justify {
+    text-align: justify;
+}
+
+.txt-linethrough {
+    text-decoration: line-through;
+}
+
+.txt-brand {
+    color:$brand!important;
+}
+
+.txt-no-wrap {
+    white-space: nowrap;
+}
+
+@include media-query(midbreak, max) {
+    .mobile-txt-center {
+        text-align:center;
+
+        .button {
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
+}
+
+.break {
+    display: block;
+}
+
+.body-content, .blog, .body-2 {
+
+    ol, ul {
+        padding-left: $space-32;
+
+        li {
+            padding-top: $space-12;
+        }
+    }
+
+    p, ol, ul {
+        @extend .body-2;
+        line-height: 1.6;
+    }
+    
+    p + p, iframe + p, p + iframe, ol + p, ul + p, iframe + h3, iframe + h2 {
+        margin-top: $space-24;
+    }
+}
+
+.text-pill {
+    font-size: rem(14px);
+    background: $dark-yellow;
+    height: 24px;
+    line-height: 24px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 2px;
+    padding: 0 $space-8;
+    border-radius: 40px;
+}
+
+
+.check-box-list {
+    padding-left: 0;
+    
+    li {
+        list-style: none;
+        padding: 0 0 0 40px;
+        background: url('../images/icon/icon-check-cirlce.svg') no-repeat;
+        background-position: 0px 0px;
+        background-size: 32px 32px;
+        margin: 8px 0 12px;
+    }
+}
+
+.panel ul {
+    @extend .check-box-list;
+}

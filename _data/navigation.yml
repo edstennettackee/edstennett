@@ -1,0 +1,92 @@
+---
+header_nav:
+  - label: About
+    url: /#about
+    new_tab: false
+    sub_menu:
+      show_sub_menu: false
+      primary_column:
+        heading:
+        text:
+        button_label:
+        button_url:
+      sub_columns:
+        - heading:
+          links:
+            - label:
+              url:
+              new_tab: false
+          social_icons: false
+  - label: Portfolio
+    url: /portfolio/
+    new_tab: false
+    sub_menu:
+      show_sub_menu: false
+      primary_column:
+        heading:
+        text:
+        button_label:
+        button_url:
+      sub_columns:
+        - heading:
+          links:
+            - label:
+              url:
+              new_tab: false
+          social_icons: false                
+  - label: Blog
+    url: /blog/
+    new_tab: false
+    sub_menu:
+      show_sub_menu: false
+      primary_column:
+        heading:
+        text:
+        button_label:
+        button_url:
+      sub_columns:
+        - heading:
+          links:
+            - label:
+              url:
+              new_tab: false
+          social_icons: false
+header_cta:
+  label: Contact
+  url: /contact/
+  new_tab: false
+footer_nav:
+  - heading: Home
+    links:
+      - label: About us
+        url: /about-us
+        new_tab: false
+      - label: Careers
+        url: /jobs
+        new_tab: false
+      - label: Press
+        url: /press
+        new_tab: false
+  - heading: Portfolio
+    links:
+      - label: Overview
+        url: /product-overview
+        new_tab: false
+      - label: How it works
+        url: /how-it-works
+        new_tab: false
+      - label: Use Cases
+        url: /use-cases
+        new_tab: false
+      - label: Professional Services
+        url: /services/professional-services
+        new_tab: false
+  - heading: Blog
+    links:
+      - label: Home
+        url: /resources/
+        new_tab: false
+      - label: Blog
+        url: /blog
+        new_tab: false
+---

@@ -1,12 +1,11 @@
 ---
-layout: blog-post
 title: A study in colour - finding the perfect palette for user interfaces.
+description: 
 tags:
 - Design
-author: Ed Stennett
 date:   2018-03-11 09:00:00 +0000
-thumbnail: assets/img/blog/09-03-2018-hero.jpg
-permalink: /blog/:year/:month/:day/:title/
+image: /assets/images/blog/09-03-2018-hero.jpg
+duration: 3 min read
 ---
 
 #### Colour. It's truly fascinating.
@@ -14,7 +13,7 @@ permalink: /blog/:year/:month/:day/:title/
 The physics behind it is simple. Colours are the way our brain interprets electromagnetic radiation of a wavelength within the visible spectrum. Visible light lies between 400 and 700 nanometers, and different wavelengths with the spectrum are seen as different colours. And yet, it's colour that designers have obsessed over for years, perpetually asking how do you chose what colour to use in your design? There is a strong emotional connection we have with different colours, and that connection changes from person to person, and culture to culture. Before deliberating between red or blue, it's important to take a closer look at the way we perceive colour and how the colour's we select can eventually be applied to a user interface.
 
 <div align="center">
-    <img src="{{site.baseurl}}/assets/img/blog/09-03-2018-visible-light.png" class="post-img" alt="visible light spectrum" />
+    <img src="{{site.baseurl}}/assets/images/blog/09-03-2018-visible-light.png" class="post-img" alt="visible light spectrum" />
 </div>
 
 I won't go into advanced colour theory or the differences between YCbCr and RGB, but instead, take a brief look into what to consider when chosing a palette and how to apply it to your designs. So sit back, relax, and enjoy.
@@ -34,7 +33,7 @@ Berlin and Kay theorised that if a language had only three words, they would alw
 An interesting colour case study revolves around the Tobacco industry. Australian market research company GfK asked 1000 smokers which colour they found the least visually appealing. The winning colour would be used for the packaging alongside new health warnings covering 60% of the pack. The winning colour was Pantone 448 C, otherwise known as opaque couché. When asked what the respondents associated the colour with, the response was 'death’, ‘dirty’ or ‘tar’ without any positive adjectives. Though Pantone are adamant that "we consider all colours equally" it is nonetheless fascinating the strong emotional connection we have with colour, and the power getting the right tone can have in design. The objective in this case study was to reduce the sales of Tobacco, and so they looked to find a colour that was perceived as 'ugly'. When next choosing a colour or palette, take a step back and consider what they objective of the design is, remembering that beauty is very much in the eye of the beholder.
 
 <div align="center">
-    <img src="{{site.baseurl}}/assets/img/blog/09-03-2018-pantone.png" class="post-img" alt="pantone 448 C" />
+    <img src="{{site.baseurl}}/assets/images/blog/09-03-2018-pantone.png" class="post-img" alt="pantone 448 C" />
 </div>
 
 ## Colour in user interfaces.
@@ -42,7 +41,7 @@ An interesting colour case study revolves around the Tobacco industry. Australia
 As a UI/UX designer, getting colour correct is imperative. I often refer to the colour theory in Google's Material Design. The palette starts with a base primary colour and fills in the spectrum to create a complete and usable palette. Google call the base colour the '500'. You can then use HSB colour space to make a series of shades with the same hue. To create a lighter colour variation, lower the saturation and increase the brightness. The inverse gives a darker variation.
 
 <div align="center">
-    <img src="{{site.baseurl}}/assets/img/blog/09-03-2018-shades.png" class="post-img" alt="shades" />
+    <img src="{{site.baseurl}}/assets/images/blog/09-03-2018-shades.png" class="post-img" alt="shades" />
 </div>
 
 You can then apply this palette throughout your user interface. The major advantage of this is colour can be very subjective, and using shades of one colour can help take a lot of the user guess work out. As an example, consider a palette that contains blue, green and red. You want to assign one colour for primary and one for secondary buttons, which do you chose? The issue you have is you are making a user guess what the primary action colour is. Making users guess is bad UX. Why not use one theme colour, and the secondary button is simply a lighter shade?
@@ -54,7 +53,7 @@ So often in design, the simplest solution is best. As Antoine de Saint-Exupery f
 You can see how Google have applied this technique to their Maps app for iOS. Note the different shades of blue used throughout.
 
 <div align="center">
-    <img src="{{site.baseurl}}/assets/img/blog/09-03-2018-ui.png" class="post-img" alt="shades" />
+    <img src="{{site.baseurl}}/assets/images/blog/09-03-2018-ui.png" class="post-img" alt="shades" />
 </div>
 
 ## Picking the right colour.

@@ -1,0 +1,15 @@
+
+{% if include.resource.path contains '_posts' %}
+    {%- assign type = 'Blog' -%}
+{% endif %}
+<div class="borderless-card">
+    <div class="responsive-content {{include.image_aspect | default: 'wide'}}">
+        <img class="responsive-inner lazyload" data-src="{{include.resource.image}}" alt="{{include.resource.title}}"/>
+    </div>
+    <div class="card-content">
+        <h3 class="subheader">{{include.resource.title}}</h3>
+        <p class="overline txt-grey">{{type}} • {{include.resource.date | date: "%-d %b %y"}}{% if include.resource.duration %} • {{include.resource.duration}}{% endif %}</p>
+        <p class="body-2">{{include.resource.description}}</p>
+        <a class="button ghost-brand editable" href="{{include.resource.url}}">Read more</a>
+    </div>
+</div>

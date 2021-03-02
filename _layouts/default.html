@@ -1,11 +1,93 @@
-<!DOCTYPE html>
-<html lang="en-GB">
-  {% include head.html %}
-  <body>
-    {% include navbar.html %}
-    <div class="content">
-      {{ content }}
-    </div>
-    {% include footer.html %}
-  </body>
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
+        {% seo %}
+        {%- if page.sitemap == false -%}
+            <meta name="robots" content="noindex" />
+        {%- endif -%}
+		<link media="all" rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+        <link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon.ico">
+	</head>
+	<body>
+        <header id="navbar" class="navigation">
+            <div class="wrapper">
+                <div class="nav-inner">
+                    <a class="logo" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/images/logo.svg" alt="Seenit Logo"/></a>
+                    {%- unless page.hideLinks -%}
+                        <nav id="nav-menu">
+                            <ul class="header-navigation">
+                                {% for link in site.data.navigation.header_nav %}
+                                    <li class="{% unless link.url %}header-hover {% endunless %}{{link.seenit_colour}}-navmod">
+                                        {% if link.url %}
+                                            <a class="header-link" href="{{link.url}}" {% if link.new_tab %}target="_blank"{% endif %}>{{link.label}}</a>
+                                        {% else %}
+                                            <p class="header-link">{{link.label}}</p>
+                                        {% endif %}
+                                    </li>
+                                {% endfor %}
+                            </ul>
+                            <div class="mobile-nav-cta button-group">
+                                <a class="button ghost-brand" class="modal-link" data-modal-trigger='login-modal'>Log in</a>
+                                <a class="button brand" href="{{site.data.navigation.header_cta.url}}" {% if site.data.navigation.header_cta.new_tab %}target="_blank"{% endif %}>{{site.data.navigation.header_cta.label}}</a>
+                            </div>
+                        </nav>
+                        <div class="nav-cta">
+                            <a class="button brand small" href="{{site.data.navigation.header_cta.url}}" {% if site.data.navigation.header_cta.new_tab %}target="_blank"{% endif %}>{{site.data.navigation.header_cta.label}}</a>
+                        </div>
+                        <div class="mobile-nav-cta">
+                            <a class="button pill" href="{{site.data.navigation.header_cta.url}}">{{site.data.navigation.header_cta.label}}</a>
+                            <div class="mobile-menu"></div>
+                        </div>
+                    {%- endunless -%}
+                </div>
+            </div>
+        </header>
+        {{content}}
+        <footer>
+            <div class="wrapper">
+                {% unless page.hideLinks %}
+                    <div class="row">
+                        <div class="col-xs-12 col-md-4"><img class="logo" src="{{ site.baseurl }}/assets/images/logo.svg" alt="Seenit Logo"/></div>
+                        {% for col in site.data.navigation.footer_nav limit: 4 %}
+                            <div class="col-xs-12 col-sm-6 col-md-2">
+                                <p class="col-heading">{{col.heading}}</p>
+                                <ul>
+                                    {% for link in col.links %}
+                                        <li><a href="{{link.url}}" {% if link.new_tab %}target="_blank"{% endif %}>{{link.label}}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        {% endfor %}
+                    </div>
+                {% endunless %}
+                <div class="sub-footer">
+                    <p>Copyright &copy; Seenit Digital Limited {{ site.time | date: '%Y' }}.</p>
+                    <div>
+                        <a href="/legal/privacy-notice/">Privacy Policy</a> • <a href="/legal/cookie-policy/">Cookie Policy</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <script src="{{ site.baseurl }}/assets/js/app.js"></script>
+        {%- if content contains 'play-video' -%}
+            <!-- Start of Video Overlay -->
+            <div id="video-overlay" class="video-overlay">
+                <div class="video-overlay-close">✕</div>
+            </div>
+            <script src="/assets/js/video.js"></script>
+            <!-- End of Video Overlay -->
+        {%- endif -%}
+        <!-- Start of Modal Overlay -->
+        <div id="modal-overlay" class="modal-overlay">
+        </div>
+        <script src="/assets/js/modal.js"></script>
+        <!-- End of Modal Overlay -->
+        <script src="/assets/js/lazysizes.min.js" async=""></script>
+        <!-- Start of HubSpot Embed Code -->
+        <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9484392.js"></script>
+        <!-- End of HubSpot Embed Code -->
+	</body>
 </html>

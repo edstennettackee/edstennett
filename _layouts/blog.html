@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<section> 
+    <div class="wrapper">
+        <div class="row">
+            <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 larger-images larger-videos">
+                <div class="margin-bottom-24"><a href="/blog">Blog</a> /</div>
+                <h1 class="headline">{{page.title}}</h1>
+                <div class="blog-info">
+                    <img src="/assets/images/es.jpg" alt="Ed Stennett photo"/>
+                    <p>Ed Stennett</p>
+                    <p class="txt-grey">{{page.date | date: "%-d %B, %Y"}} • {{page.duration}}</p>
+                </div>
+                {% if page.feature_video_url %}
+                    <iframe class="responsive-inner larger-video rounded" width="100%" height="480" src="{{page.feature_video_url}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                {% else %}
+                <img src="{{page.image}}" class="larger-image rounded" alt=""/>
+                {% endif %}
+                <div class="blog">
+                    {{content}}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section>
+    <div class="wrapper">
+        <h2>Other posts you might like</h2>
+        <div class="row margin-top-24">
+            {%- assign other_posts = site.posts | where_exp:"item", "item.path != page.path" | sample: 3 -%}
+            {% for post in other_posts %}
+                <div class="col-xs-12 col-md-4">
+                    {% include resource_card.html resource=post %}
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>

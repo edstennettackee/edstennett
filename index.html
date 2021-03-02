@@ -1,4 +1,115 @@
 ---
-layout: home
 title: Home
+description: I’m a product marketing manager at Seenit with 7 years experience working across brand, product and marketing. For the last 3 and a half years I’ve been working at Seenit, a small SaaS startup based in London.
+image: /assets/images/open_graph/og_main.png
+first_panels:
+  - panel_text_section:
+      - overline: Product marketing
+      - header: Bringing remarkable products to market
+      - panel_text_html: >-
+          <p>I’m a product marketing manager at Seenit with 7 years experience working across product and marketing. For the last 3 and a half years I’ve been working at Seenit, a small SaaS startup based in London.</p>
+    panel_content_section:
+      - image: /assets/images/graphics/launch-graphic.svg
+        alt: >-
+          Graphic of a rocket launching
+        image_subtext:
+  - panel_text_section:
+      - overline: Marketing
+      - header: Delivering marketing that doesn’t feel like marketing
+      - panel_text_html: |-
+          <p>I’m a product marketing manager at Seenit with 7 years experience working across product and marketing. For the last 3 and a half years I’ve been working at Seenit, a small SaaS startup based in London.</p>
+    panel_content_section:
+      - image: /assets/images/graphics/marketing-graphic.svg
+        alt: >-
+          Graphic of a emails being sent
+        image_subtext:
+  - panel_text_section:
+      - overline: Brand
+      - header: Building brands worth talking about
+      - panel_text_html: >-
+          <p>I’m a product marketing manager at Seenit with 7 years experience working across product and marketing. For the last 3 and a half years I’ve been working at Seenit, a small SaaS startup based in London.</p>
+      - label: See portfolio
+        link: /portfolio/
+        new_tab: false
+    panel_content_section:
+      - image: /assets/images/graphics/build-graphic.svg
+        alt: >-
+          Graphic of a ladder
+        image_subtext:
+  - panel_text_section:
+      - overline: Design
+      - header: Pushing pixels to pack punches
+      - panel_text_html: >-
+          <p>I’m a product marketing manager at Seenit with 7 years experience working across product and marketing. For the last 3 and a half years I’ve been working at Seenit, a small SaaS startup based in London.</p>
+      - label: See how it works
+        link: /how-it-works/
+        new_tab: false
+    panel_content_section:
+      - image: /assets/images/graphics/design-graphic.svg
+        alt: >-
+          Graphic of an easel
+        image_subtext:
+showreel:
+  image: /assets/images/video-thumbnail.png
+  video_url: 'https://www.youtube.com/embed/NVWAGdHa250'        
 ---
+
+<section class="min-640 pad-40">
+    <div class="wrapper">
+        <div class="row middle-md">
+            <div class="col-xs-12 col-md-6">
+                <div id="title-height-container">
+                    <h1 class="headline">Hello, I’m Ed Stennett 👋</h1> 
+                </div>
+                <p class="body-2 editable">I’m a product marketing manager at Seenit with 7 years experience working across brand, product and marketing. For the last 3 and a half years I’ve been working at Seenit, a small SaaS startup based in London.</p>
+                <div class="button-group">
+                    <a class="button brand editable" href="/portfolio/">Explore portfolio</a>
+                    <a class="button ghost-brand editable" href="/contact/">Request CV</a>
+                </div>
+            </div>
+            <div class="col-md-6 col-xs-12 desktop-only">
+                <div class="header-img">
+                    <img src="/assets/images/graphics/hello-graphic.svg" alt="Graphic of a hand waving" />
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="pad-120" id="about">
+    <div class="wrapper">
+        <div class="row middle-md">
+            <div class="card">
+                <div class="card-contents">
+                    <div class="col-md-9">
+                        <p class="overline editable">About</p>
+                        <h2 class="title editable">I help companies build and market remarkable products</h2>
+                        <p class="body-2 editable">I started out in Winchester at a pharmaceutical training agency where I worked for four years. I left in mid 2017 as a technical director. I gained enormous experience in design and technology on global scale, working with some of the largest pharmaceutical companies in the world. In the summer of 2017 I moved to London to join a wired top 100 start up called Seenit. There, I work as a User Interface Designer across web, iOS and Android. alongside large product, engineering, and research and development teams’. </p>
+                        <p class="body-2 editable">In my spare time, I’ve learnt to code mostly with HTML, CSS, Javascript, and Ruby, working on a number of professional web projects. I’ve worked with the static site generator Jekyll, a tool I’ve used for all the websites I’ve build for clients professionally. Check some of them out.</p>
+                        <a class="button ghost-brand editable" href="/contact/">Request CV</a>
+                    </div>
+                </div>
+            </div>
+        </div>      
+    </div>
+</section>
+<section class="pad-120">
+    <div class="wrapper">      
+        {% include panels.html panels=page.first_panels %}        
+    </div>
+</section>
+<section>
+    <div class="wrapper">
+        <div class="row middle-xs">
+            <div class="col-xs-12 col-md-8 col-md-offset-2 txt-center margin-top-16">
+                <p class="overline editable">All in all</p>
+                <h2 class="editable title">Watch my showreel</h2>
+                <p class="editable body-2 margin-bottom-32">I’m a product marketing manager at Seenit with 7 years experience working across product and marketing. For the last 3 and a half years I’ve been working at Seenit, a small SaaS startup based in London.</p>
+            </div>
+            <div class="col-xs-12 col-md-offset-1 col-md-10">
+                <a class="play-video" href="{{page.showreel.video_url}}">
+                    <img data-src="{{page.showreel.image}}" class="lazyload" alt="What is Stellar?"/>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>

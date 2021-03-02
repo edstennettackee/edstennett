@@ -1,0 +1,31 @@
+<!--[if lte IE 8]>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+<![endif]-->
+<script charset="utf-8" type="text/javascript" src="https://js.hsforms.net/forms/v2.js"></script>
+<script>
+    hbspt.forms.create({
+        portalId: "9484392",
+        formId: "{{ include.formId }}",
+        cssClass: "{{ include.cssClass }} hs-form",
+        submitButtonClass: "hs-button {{include.submitButtonClass | default: 'btn raised'}}",
+        translations: {
+            en: {
+                required: "{{include.required_text | default: 'Oops, please answer this one 🙈'}}",
+                invalidEmailFormat: "{{include.invalidEmailFormat_text | default: 'Make sure you format you email correctly 📧'}}",
+                invalidEmail: "{{include.invalidEmail_text | default: 'Oops, that doesn’t appear to be a valid email 😬'}}",
+                blockedEmail: "{{include.blockedEmail_text | default: 'Please use a different email to continue 📨'}}",
+                submitText: "{{include.submitText}}"
+            }
+        },
+        {% if include.pre_post_elements %}
+            onBeforeFormInit: function() {
+                document.querySelector('#post-form').style.display = 'none';
+            },
+            onFormSubmitted: function() {
+                document.querySelector('.hbspt-form').style.display = 'none';
+                document.querySelector('#pre-form').style.display = 'none';
+                document.querySelector('#post-form').style.display = 'block';
+            }
+        {% endif %}
+    });
+</script>

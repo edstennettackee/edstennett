@@ -1,0 +1,37 @@
+---
+---
+
+// This is for the CloudCannon editor, to allow selection of classes
+@import "base/_variables";
+
+p.quote-image {
+    border-radius: 12px;
+}
+
+p.quote-text {
+    font-size: 32px;
+}
+
+p.quote-author {
+    font-size:20px;
+}
+
+img.larger-image {
+    margin-left: -40px;
+    margin-right: -40px;
+    width: calc(100% + 80px);
+    max-width: calc(100% + 80px);
+}
+
+p.caption-text {
+    color: $grey-2;
+    font-size: 0.8em;
+    a {
+        color:$grey-2;
+    }
+}
+
+div[align=center] {
+    margin-top:$space-24;
+    margin-bottom:$space-24;
+}

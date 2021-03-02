@@ -1,0 +1,64 @@
+---
+title: Portfolio
+description: >-
+  Seenit allows you to crowdsource and edit User-Generated Video content from
+  anyone, anywhere in the world, and turn it into collaborative stories. A 100%
+  remote way to produce video with an entirely human first approach.
+image: /assets/images/open_graph/og_main.png
+showreel:
+  image: /assets/images/video-thumbnail.png
+  video_url: 'https://www.youtube.com/embed/NVWAGdHa250'   
+permalink: /portfolio/       
+---
+
+<section class="min-640 pad-40">
+    <div class="wrapper">
+        <div class="row middle-md">
+            <div class="col-xs-12 col-md-6">
+                <div id="title-height-container">
+                    <h1 class="headline">Some of my latest work</h1> 
+                </div>
+                <p class="body-2 editable">I’m a product marketing manager at Seenit with 7 years experience working across brand, product and marketing. For the last 3 and a half years I’ve been working at Seenit, a small SaaS startup based in London.</p>
+                <div class="button-group">
+                    <a class="button brand editable" href="#portfolio">Explore portfolio</a>
+                    <a class="button ghost-brand editable" href="/contact/">Request CV</a>
+                </div>
+            </div>
+            <div class="col-md-6 col-xs-12 desktop-only">
+                <div class="header-img">
+                    <img src="/assets/images/graphics/work-graphic.svg" alt="Graphic of stationary" />
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="pad-64" id="portfolio">
+    <div class="wrapper">
+        <div class="row">
+            {% for portfolio_item in site.portfolio %}
+            <div class="col-xs-12 col-md-10 col-md-offset-1">
+                {% include featured_card.html 
+                    image_position='side'
+                    resource=portfolio_item
+                %}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<section>
+    <div class="wrapper">
+        <div class="row middle-xs">
+            <div class="col-xs-12 col-md-8 col-md-offset-2 txt-center margin-top-16">
+                <p class="overline editable">All in all</p>
+                <h2 class="editable title">Watch my showreel</h2>
+                <p class="editable body-2 margin-bottom-32">I’m a product marketing manager at Seenit with 7 years experience working across product and marketing. For the last 3 and a half years I’ve been working at Seenit, a small SaaS startup based in London.</p>
+            </div>
+            <div class="col-xs-12 col-md-offset-1 col-md-10">
+                <a class="play-video" href="{{page.showreel.video_url}}">
+                    <img data-src="{{page.showreel.image}}" class="lazyload" alt="What is Stellar?"/>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>

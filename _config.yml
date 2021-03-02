@@ -1,55 +1,176 @@
-# SITE CONFIGURATION
-baseurl: "/"
-url: "https://edstennett.com"
-permalink: pretty
+# Site settings
+
 title: Ed Stennett
+future: true
+description: I’m a product marketing manager at Seenit with 7 years experience working across brand, product and marketing. For the last 3 and a half years I’ve been working at Seenit, a small SaaS startup based in London.
+baseurl: "" 
+url: "https://edstennett.com"
 
-# THEME-SPECIFIC CONFIGURATION
-theme_settings:
-  # Meta
-  avatar: assets/img/logo.svg
-  favicon: assets/favicon.ico
-  description: "London based designer, Ed Stennett, specialising in UI, UX and web design." # used by search engines
+# Build settings
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
-  # Footer text
-  footer_text: >
-   Made in London. Copyright &copy; Ed Stennett
+# Exclude from processing.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - "*.gem"
+  - LICENSE
+  - README.md
+  - vendor
 
-  # Icons
-  linkedin: "https://www.linkedin.com/in/edward-stennett-99807789/"
-  twitter: "edstennett" 
+permalink: /blog/:categories/:title/
 
-  # Scripts / Features 
-  portfolio: true
-  search: false
-  tags: false
-  
-  
-  # Localization strings
-  str_follow_on: "Follow on"
-  str_email: "Email"
-  str_next_post: "Next"
-  str_previous_post: "Previous"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
-  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+# Collections
 
-  # Post navigation
-  post_navigation: true
-
-
-# PORTFOLIO
 collections:
-  projects:
+  legal:
     output: true
-    permalink: /:collection/:name
+    permalink: "/legal/:name/"
+  portfolio:
+    output: true
+    permalink: "/portfolio/:name/"
 
-# BUILD SETTINGS
-markdown: kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: :compressed
-plugins: [jekyll-paginate, jekyll-seo-tag, octopress-autoprefixer, jekyll-sitemap]
-exclude: ["Gemfile", "Gemfile.lock", "edstennett.gemspec", "*.gem", "LICENSE", "README.md"]
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      _content_type: "site-page"
+      image:  
+      _options:
+        image: 
+          uploads_dir: "/assets/images/"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "blog"
+      _content_type: "blog-post"
+      footer_banner:
+          footer_banner_content: newsletter_signup_form
+          seenit_colour: light-blue
+      _options:
+        image: 
+          uploads_dir: "/assets/images/blog/"
+        content:
+          uploads_dir: "/assets/images/blog/"
+          styles: /assets/css/editor.css
+          format: p h2 h3 h4 h5 h6 pre div
+          bold: true
+          italic: true
+          underline: true
+          strike: true
+          link: true
+          code: true
+          blockquote: true
+          numberedlist: true
+          bulletedlist: true
+          image: true
+          embed: true
+          left: txt-left
+          center: txt-center
+  -
+    scope:
+      path: ""
+      type: "portfolio"
+    values:
+      _content_type: "blog-post"
+      layout: "portfolio"
+      _options:
+        image: 
+          uploads_dir: "/assets/images/portfolio/"
+        content:
+          uploads_dir: "/assets/images/portfolio/"
+          styles: /assets/css/editor.css
+          format: p h2 h3 h4 h5 h6 pre div
+          bold: true
+          italic: true
+          underline: true
+          strike: true
+          link: true
+          code: true
+          blockquote: true
+          numberedlist: true
+          bulletedlist: true
+          image: true
+          embed: true
+          left: txt-left
+          center: txt-center
+  -
+    scope:
+      path: ""
+      type: "legal"
+    values:
+      layout: "legal_page"
+      _content_type: "site-page"
+      sitemap: false      
+
+
+# ****** Start of CloudCannon Settings ******
+
+cloudcannon:
+  data: true
+
+_array_structures:
+  sub_columns:
+    style: modal
+    values:
+      - label: Submenu
+        icon: list
+        value:
+          heading:
+          links:
+            - label:
+              url:
+              new_tab: false
+          social_icons: false
+      - label: Latest Customer Videos
+        icon: videocam
+        value:
+          latest_customer_videos: true
+        
+# Input options
+
+seenit_colours:
+  'brand': Brand
+  'white': White
+  'wash' : Wash
+  'dark-blue': Dark Blue
+  'light-blue': Light Blue
+  'dark-pink': Dark Pink
+  'light-pink': Light Pink
+  'light-purple': Light Purple
+  'dark-purple': Dark Purple
+  'dark-yellow': Dark Yellow
+  'light-yellow': Light Yellow
+  'dark-orange': Dark Orange
+  'light-orange': Light Orange
+  'dark-green': Dark Green
+  'light-green': Light Green
+  'dark-navy': Dark Navy
+  'light-navy': Light Navy
+
+logo_colours:
+  'colour': Colour
+  'dark': Dark
+  'light': Light
+
+# Comments
+
+_comments:
+  permalink: DON'T CHANGE UNLESS YOU KNOW WHAT YOU'RE DOING!
+  panel_text_section: You must only have one of each type
+  panel_content_section: You must only have one item
+  tab_content_section: You must only have one item
+  feature_video_url: Display a video at the top of the post instead of the image
+  service_cards: Maximum 3 - any over 3 won't be used
+  
+# ****** End of CloudCannon Settings ******
