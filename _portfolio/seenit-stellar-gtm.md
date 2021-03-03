@@ -41,9 +41,9 @@ Stellar would be available as an Alpha product around mid 2020 and available for
 
 Leads that signed up to the waitlist would join a nurture list. We'd send them a regular newsletter with [product updates,](https://www.seenit.io/releases) [case studies,](https://www.seenit.io/case-studies/how-beautystack-gave-their-community-a-voice/) [blogs,](https://www.seenit.io/blog/storytelling/humanise-the-consumer/) and relevant news to keep them excited about Stellar. Leads could 'jump the queue' by sharing Stellar to other users.
 
-<div class="cms-embed" data-cms-embed="PGRpdiBzdHlsZT0icGFkZGluZzo1Ni4yNSUgMCAwIDA7Ij48aWZyYW1lIHNyYz0iaHR0cHM6Ly9wbGF5ZXIudmltZW8uY29tL3ZpZGVvLzQ4NTk0MjQ3Mz9jb2xvcj0xMjEyMTImdGl0bGU9MCZieWxpbmU9MCIgc3R5bGU9IndpZHRoOjEwMCU7IGhlaWdodDoxMDAlOyIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhdXRvcGxheTsgZnVsbHNjcmVlbjsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+PC9kaXY+PHNjcmlwdCBzcmM9Imh0dHBzOi8vcGxheWVyLnZpbWVvLmNvbS9hcGkvcGxheWVyLmpzIj48L3NjcmlwdD4="><div style="padding:56.25% 0 0 0;"><iframe src="https://player.vimeo.com/video/485942473?color=121212&amp;title=0&amp;byline=0" style="width:100%; height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></div>
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vcGxheWVyLnZpbWVvLmNvbS92aWRlby80ODU5NDI0NzM/Y29sb3I9MTIxMjEyJnRpdGxlPTAmYnlsaW5lPTAiIHdpZHRoPSI2NDAiIGhlaWdodD0iMzYwIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImF1dG9wbGF5OyBmdWxsc2NyZWVuOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe src="https://player.vimeo.com/video/485942473?color=121212&amp;title=0&amp;byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe></div>
 
-<div><div><img src="/assets/images/portfolio/stellar-gtm-homepage.png" width="3122" height="1866" /></div></div>
+<div><div><img class="larger-image" src="/assets/images/portfolio/stellar-gtm-homepage.png" width="3122" height="1866" /></div></div>
 
 ### Multi-channel marketing
 
