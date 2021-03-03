@@ -8,6 +8,7 @@ description: >-
 image:
 company: Seenit
 ---
+
 ## TL:DR;
 
 I led the Seenit website project. This involved product messaging, pricing, design, data, a bit of development here and there, and lots of hard work. This was an extension of the rebrand project and a piece of work I'm really proud of. Have a click around and see what you think first hand at [seenit.io](http://seenit.io).
@@ -33,9 +34,9 @@ Unifying our product offering and pricing proved to be two of the largest chunks
 
 Working closely with our CPO, we began sketching out some sitemaps to look at how we could order the website. Our existing site was huge. It was built by me as one of my first projects after joining Seenit. It had grown from being a simple brochure site with a blog, into a relatively complex repository with free downloads, landing pages, webinars, awards, events, and more.
 
-![](/assets/images/portfolio/seenit_website-menu-2.png){: width="1952" height="1244"}
+<div><img alt="" width="1952" height="1244" class="larger-image" src="/assets/images/portfolio/seenit_website-menu-2.png" /></div>
 
-![](/assets/images/portfolio/seenit_website-menu.png){: width="2070" height="1472"}
+<div><img alt="" width="2070" height="1472" class="larger-image" src="/assets/images/portfolio/seenit_website-menu.png" /></div>
 
 After working out a way of structuring the data that seemed to make sense, JIRA design tasks were created and the work was split out between myself and the CPO.
 
@@ -49,7 +50,7 @@ The process encouraged peer review and debate around design decisions. Abstract 
 
 We've since implemented the same process across all design work in Product and Marketing.
 
-![](/uploads/seenit-website-mockups.png){: width="2654" height="1884"}
+<div><img alt="" width="2654" height="1884" class="larger-image" src="/uploads/seenit-website-mockups.png" /></div>
 
 ### Data
 
@@ -71,7 +72,7 @@ The main build was outsourced to a freelancer. They were on our Zeplin, Abstract
 
 Opting for Jekyll and CloudCannon hosting did mean that we could get some pretty impressive lighthouse scores.
 
-![](/uploads/seenit-website-performance.png){: width="1064" height="276"}
+<div><img alt="" width="1064" height="276" class="larger-image" src="/uploads/seenit-website-performance.png" /></div>
 
 ## Delivery
 
