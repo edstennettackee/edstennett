@@ -3,9 +3,10 @@ title: CRM migration
 description: >-
   I led a project to migrate from Salesforce to Hubspot with a view to getting
   all teams in one place and simplify our processes.
-image:
+image: /assets/images/portfolio/crm_migration-complete.png
 company: Seenit
 ---
+
 ## TL:DR;
 
 This isn't a particularly pretty piece of work. You won't see beautiful mockups on East London billboards, but hopefully you can appreciate the sheer amount of work required to move every team in the company to a new CRM. I led a project to migrate from Salesforce to Hubspot with a view to getting all teams in one place and simplify our processes. The migration was completed in January 2021.
@@ -34,13 +35,13 @@ The main goal of the project was simplification. If I wanted to get competitor i
 
 As the company grew, so did the number of tools. This is makes sense. The issue we had was that the tools weren't talking together, so data became siloed. The basics of Product Marketing became harder to achieve.
 
-&nbsp;
+<div><img class="larger-image" src="/assets/images/portfolio/migration-tools.png" width="2305" height="1410" /></div>
 
 ### Data sync
 
 I set up the Hubspot &lt;&gt; Salesforce integration for Contact, Company, and Deal objects. I set up a Hubspot inclusion list that meant that MQLs would sync to Salesforce as a new lead. That lead could be sales accepted, disqualified entirely, or sent back to marketing. All salesforce deals and tasks were synced over to Hubspot. Over time, all contacts and companies could be synced as well using the off-the-shelf integration.
 
-&nbsp;
+<div><img class="larger-image" src="/assets/images/portfolio/crm_migration-complete.png" width="2262" height="1170" /></div>
 
 ### Support
 
@@ -52,7 +53,7 @@ Moving the commercial teams over proved trickier than simply syncing over everyt
 
 There were three major improvements that have enormously helped our commercial teams and company wide reporting.
 
-1. **Split out pipelines**
+**Split out pipelines**
 
 In Salesforce, all opportunities sat in a single pipeline with the same stages. By splitting out the pipelines we could set up specific stages for better visibility and reporting. We could also set up pipeline specific automation and workflows. We went from one pipeline to:
 
@@ -62,13 +63,13 @@ In Salesforce, all opportunities sat in a single pipeline with the same stages. 
 * Professional Services
 * Growth
 
-1. **Products**
+**Products**
 
 I set up a product library with our entire offering and, working with the leadership team, created a process that required all future deals to contain product line items. This helped with consistent pricing, it helped us track discounts that were being added, and it allowed me to set up some pretty powerful reports. Gone were hefty financial spreadsheets, if we wanted to see our revenue for the financial year broken down by products sold, it was there. If we wanted to track ARR dynamically, the data was there.
 
 A lot of this might seem basic for any SaaS basis, but going from a scrappy start-up to a scale up, it’s easy to focus on bringing in revenue and lose sight of capturing data and reporting.
 
-1. **Quotes and automation**
+**Quotes and automation**
 
 Doing some win / loss analysis, it was cleat that our deal cycles were long. It was also interesting to see that the scoping stage for new deals was key. The majority of our deals were lost at this stage, but if you could just make it through to the final stage, deals were more than likely to win. I wanted to find a way of improving this process. Reps would spend hours in google docs writing custom quotes, sending over legal docs, and scoping spreadsheets. Our scoping phase was long, partly because of the admin our sales reps were required to go through. I was able to set up the following:
 
