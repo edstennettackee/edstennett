@@ -8,6 +8,27 @@ image:
 company: Seenit
 ---
 
+## TL:DR;
+
+I led on the GTM for our new product codenamed Seenit Stellar. The project involved all things Product Marketing, from competitive analysis and research, through to landing page design and messaging frameworks. You can still access the waitlist page I designed and built through a [staging site we keep operational.](https://haloed-table.cloudvent.net/stellar/)
+
+## Background
+
+In preparation for the launch of our next generation platform, codenamed Seenit Stellar, I led on the initial Go To Market. The project posed a number of challenges, not least positioning Stellar alongside our platform. Sales and Customer Success enablement was also key to the success, ensuring that the commercial side of the business had the toolkit required.
+
+## Execution
+
+We put together a GTM squad to help with some of the projects that would be required for launch.
+
+### Research
+
+Working closely with a the Product team, two research projects were kicked off. The first to uncover the biggest pain that stellar can solve for our customers, and the second to identify the best target market to launch Stellar marketing efforts towards.
+
+Some of the areas explored included:
+
+* Description of target market
+* Size of addressable market
+* Growth trends
 * Pain points
 * Where are the gaps in the market
 * Description of competitors
@@ -21,6 +42,8 @@ Stellar would be available as an Alpha product around mid 2020 and available for
 Leads that signed up to the waitlist would join a nurture list. We'd send them a regular newsletter with [product updates,](https://www.seenit.io/releases) [case studies,](https://www.seenit.io/case-studies/how-beautystack-gave-their-community-a-voice/) [blogs,](https://www.seenit.io/blog/storytelling/humanise-the-consumer/) and relevant news to keep them excited about Stellar. Leads could 'jump the queue' by sharing Stellar to other users.
 
 <div class="cms-embed" data-cms-embed="PGRpdiBzdHlsZT0icGFkZGluZzo1Ni4yNSUgMCAwIDA7Ij48aWZyYW1lIHNyYz0iaHR0cHM6Ly9wbGF5ZXIudmltZW8uY29tL3ZpZGVvLzQ4NTk0MjQ3Mz9jb2xvcj0xMjEyMTImdGl0bGU9MCZieWxpbmU9MCIgc3R5bGU9IndpZHRoOjEwMCU7IGhlaWdodDoxMDAlOyIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhdXRvcGxheTsgZnVsbHNjcmVlbjsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+PC9kaXY+PHNjcmlwdCBzcmM9Imh0dHBzOi8vcGxheWVyLnZpbWVvLmNvbS9hcGkvcGxheWVyLmpzIj48L3NjcmlwdD4="><div style="padding:56.25% 0 0 0;"><iframe src="https://player.vimeo.com/video/485942473?color=121212&amp;title=0&amp;byline=0" style="width:100%; height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></div>
+
+<div><div><img src="/assets/images/portfolio/stellar-gtm-homepage.png" width="3122" height="1866" /></div></div>
 
 ### Multi-channel marketing
 
@@ -44,9 +67,9 @@ We worked with CS to set up 'North Star' sessions with all of our subscription c
 
 The [waitlist](https://haloed-table.cloudvent.net/stellar/) went live in May 2020, alongside the Seenit rebrand. I created a couple of videos alongside the landing page to post across social.
 
-[https://www.youtube.com/watch?v=IXnHf-uGSqc](https://www.youtube.com/watch?v=IXnHf-uGSqc)
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9JWG5IZi11R1NxYyIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/IXnHf-uGSqc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-[https://www.youtube.com/watch?v=67Fesj6gzz4](https://www.youtube.com/watch?v=67Fesj6gzz4)
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC82N0Zlc2o2Z3p6NCIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/67Fesj6gzz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 ## Results
 
