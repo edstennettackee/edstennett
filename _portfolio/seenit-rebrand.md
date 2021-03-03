@@ -22,7 +22,9 @@ When I joined in August 2017, we had a logo but no clear visual identity or bran
 
 ![](/assets/images/portfolio/seenit-rebrand-colour.png){: .larger-image width="2848" height="2120"}
 
-&nbsp;
+![](/assets/images/portfolio/seenit_rebrand-old-logo.png){: .larger-image width="1128" height="488"}
+
+![](/assets/images/portfolio/seenit_rebrand-mokcup.png){: width="1466" height="778"}
 
 In early in 2020, after months of hard work and graft, the new Seenit identity was unveiled.
 
@@ -56,53 +58,49 @@ Using the new framework, I got to work doodling. From a range of logo mockups to
 
 I've included a select few mockups below to give an idea of some of the designs I tried.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b13dd765-15d5-4cc7-ac56-0d0d6fb8cbc3/Screenshot_2021-02-15_at_20.15.19.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b13dd765-15d5-4cc7-ac56-0d0d6fb8cbc3/Screenshot_2021-02-15_at_20.15.19.png)
+![](/assets/images/portfolio/seenit_rebrand-concept-1.png){: .larger-image width="2452" height="1226"}
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d1609a0d-2b84-4085-a4de-eb9b883b96ad/Screenshot_2021-02-15_at_20.15.07.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d1609a0d-2b84-4085-a4de-eb9b883b96ad/Screenshot_2021-02-15_at_20.15.07.png)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-concept-2.png" width="2458" height="1106" /></div>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51c027c1-9afc-4b1d-a96a-0cc3c8159586/Screenshot_2021-02-15_at_20.14.58.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51c027c1-9afc-4b1d-a96a-0cc3c8159586/Screenshot_2021-02-15_at_20.14.58.png)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-concept-4.png" width="2484" height="1164" /></div>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64313aaa-01a5-4c3d-b000-7f8a93647465/Screenshot_2021-02-15_at_20.14.30.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64313aaa-01a5-4c3d-b000-7f8a93647465/Screenshot_2021-02-15_at_20.14.30.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/acc0374c-72bc-4fa1-91ed-9a4ba367adfd/Screenshot_2021-02-15_at_20.14.11.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/acc0374c-72bc-4fa1-91ed-9a4ba367adfd/Screenshot_2021-02-15_at_20.14.11.png)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-concept-3.png" width="2486" height="934" /></div>
 
 ### Set backs
 
 After settling on a logomark, I found during my research a company with a similar mark. I was also made aware of another company that were rebranding with a similar mark. After consulting with our COO, we agreed to go back to drawing board and not run the risk.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4c9a9f2-ebc7-464d-a8dd-a87d05eee608/Screenshot_2021-02-15_at_20.14.45.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4c9a9f2-ebc7-464d-a8dd-a87d05eee608/Screenshot_2021-02-15_at_20.14.45.png)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-mid-logo.png" width="1520" height="666" /></div>
 
 I briefed Floating Elements, an agency I'd used before, to look at developing a new logo and animations. They produced a new logo that felt fresh, simple, and inherently ‘Seenit.’ It was then a case of developing a new design system and a strong, scalable brand identity.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3834914-efbd-4130-be64-52dc51e1695c/Screenshot_2021-02-15_at_20.16.07.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3834914-efbd-4130-be64-52dc51e1695c/Screenshot_2021-02-15_at_20.16.07.png)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-logo-designs.png" width="2256" height="1074" /></div>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/acb89c20-5a1a-45be-b1ba-81bbe8d9de3e/Master_SeenIt_anim_ballbounce.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/acb89c20-5a1a-45be-b1ba-81bbe8d9de3e/Master_SeenIt_anim_ballbounce.gif)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-_SeenIt_anim_ballbounce.gif" width="500" height="281" /></div>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d3e3238a-706d-46ee-ae4e-39feb8a1a780/Master_Seenit_Exposion_Text.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d3e3238a-706d-46ee-ae4e-39feb8a1a780/Master_Seenit_Exposion_Text.gif)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-_SeenIt_anim_constellations.gif" width="500" height="281" /></div>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8805a7bf-22c8-488e-aba8-158bb04e0b91/Master_SeenIt_anim_constellations.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8805a7bf-22c8-488e-aba8-158bb04e0b91/Master_SeenIt_anim_constellations.gif)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-_Seenit_Exposion_Text.gif" width="500" height="281" /></div>
 
 With messaging, a brand framework, and a logo, I developed the visual identity. There were a fair number of revisions, but in the end we had a comprehensive set of brand guidelines and an internal brand centre on Notion. The brand continues to evolve to this day and having everything in Notion allows anyone in Marketing to easily update a page.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74ceb3b9-9793-497c-a756-717e0342730e/Screenshot_2021-02-15_at_16.08.13.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74ceb3b9-9793-497c-a756-717e0342730e/Screenshot_2021-02-15_at_16.08.13.png)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-brand-centre.png" width="3118" height="2066" /></div>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a18b69c-d2a8-4d65-bd6e-1e5dde531864/mockup-1.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a18b69c-d2a8-4d65-bd6e-1e5dde531864/mockup-1.jpg)
+<div><img class="larger-image" src="/assets/images/portfolio/mockup-1.jpg" width="2500" height="1669" /></div>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0edf970-eaf5-45f0-bb4b-f1b66b7f9041/mockup-2.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0edf970-eaf5-45f0-bb4b-f1b66b7f9041/mockup-2.jpg)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-mockup-3.jpg" width="2500" height="1669" /></div>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/72fc46f9-2075-477a-a2d5-b1f4fd5eeb15/mockup-3.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/72fc46f9-2075-477a-a2d5-b1f4fd5eeb15/mockup-3.jpg)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-mockup-4.jpg" width="2187" height="1139" /></div>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e6df5f0-612d-457f-b25b-a7fd24aa2806/mockup-4.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e6df5f0-612d-457f-b25b-a7fd24aa2806/mockup-4.jpg)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-mockup-6.jpg" width="2187" height="1137" /></div>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9fbd622-88b0-4f52-b4e8-4b7d529074b7/mockup-5.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9fbd622-88b0-4f52-b4e8-4b7d529074b7/mockup-5.jpg)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-mockup-5.jpg" width="2185" height="1134" /></div>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb6e5d95-1757-431f-a4be-201018d03e5d/mockup-6.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb6e5d95-1757-431f-a4be-201018d03e5d/mockup-6.jpg)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-mockup-7.jpg" width="2400" height="1350" /></div>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7fada113-2fef-4e3a-9672-f82a611f2585/mockup-7.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7fada113-2fef-4e3a-9672-f82a611f2585/mockup-7.jpg)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-mockup-11.jpg" width="1000" height="860" /></div>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64a8c706-a260-47e7-94c4-830f47e487f9/mockup-11.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64a8c706-a260-47e7-94c4-830f47e487f9/mockup-11.jpg)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4cc5d6b0-ac70-46af-a656-c7640feb3455/mockup-9.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4cc5d6b0-ac70-46af-a656-c7640feb3455/mockup-9.jpg)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-mockup-9.jpg" width="1200" height="1048" /></div>
 
 ## Delivery
 
@@ -129,9 +127,9 @@ Though the rebrand cannot be directly responsible for all of these results, it's
 
 As someone that tries to post once or month or so on LinkedIn, announcing the rebrand was my most liked post to date.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b4887d1-4277-4507-a5fe-34c85ec6755e/image_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b4887d1-4277-4507-a5fe-34c85ec6755e/image_&#40;1&#41;.png)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-image.png" width="1098" height="232" /></div>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09db21f9-3dd5-43f3-a490-90133fbf10df/Screenshot_2021-02-15_at_19.13.51.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09db21f9-3dd5-43f3-a490-90133fbf10df/Screenshot_2021-02-15_at_19.13.51.png)
+<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-post.png" width="1138" height="1704" /></div>
 
 ## Learning
 
