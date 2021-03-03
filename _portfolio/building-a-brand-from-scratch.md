@@ -9,6 +9,7 @@ description: >-
 image: /assets/images/portfolio/uwork-banner-4.jpg
 company: uWork
 ---
+
 ## TL:DR;
 
 uWork (latterly Tusk) was the biggest personal project I have taken on. As a start up with big aspirations, it gave me invaluable experience working with other designers and developers. Working in my spare evenings and weekends, I was responsible for creating and maintaining the brand, UI and UX design, and print design for the company.
@@ -17,7 +18,7 @@ uWork (latterly Tusk) was the biggest personal project I have taken on. As a sta
 
 uWork was born in Oxford by a group of students short of money and looking for a way to use some of their skills to earn money. I knew one of the people involved when the initial team was being assembled and was invited to join the first team kick off meeting of 5 people. The idea to be discussed was building some kind of student task site.
 
-&nbsp;
+<div><img class="larger-image" src="/assets/images/portfolio/uwork-banner.jpg" width="1772" height="746" /></div>
 
 ## Execution
 
@@ -27,7 +28,15 @@ I started with a logo, a simple set of brand guidelines, and a landing page wher
 
 Below are some of the pieces of work I designed and put together as part of the initial brand and marketing work.
 
-&nbsp;
+<div><img class="larger-image" src="/assets/images/portfolio/uwork-banner-3.jpg" width="2560" height="1056" /></div>
+
+<div><img class="larger-image" src="/assets/images/portfolio/uwork-logos.png" width="2426" height="1312" /></div>
+
+<div><img class="larger-image" src="/assets/images/portfolio/uwork-poster-1.png" width="845" height="1200" /></div>
+
+<div><img class="larger-image" src="/assets/images/portfolio/uwork-poster.jpeg" width="1456" height="2084" /></div>
+
+<div><img class="larger-image" src="/assets/images/portfolio/uwork-banner-2.jpg" width="2560" height="1056" /></div>
 
 ### Product design
 
