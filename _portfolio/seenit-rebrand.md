@@ -1,7 +1,10 @@
 ---
 title: Seenit rebrand
-description: I led the Seenit rebrand project that went live in May 2020. The launch saw an immediate increase in traffic, MQLs, SQLs, and pipeline. 2020 proved to be our best year ever.
-image: /assets/images/portfolio/storytelling.png
+description: >-
+  I led the Seenit rebrand project that went live in May 2020. The launch saw an
+  immediate increase in traffic, MQLs, SQLs, and pipeline. 2020 proved to be our
+  best year ever.
+image: /assets/images/portfolio/mockup-1.jpg
 company: Seenit
 ---
 
@@ -11,7 +14,7 @@ I led the Seenit rebrand project that went live in May 2020. I worked with an ag
 
 ## Background
 
-Ever since joining Seenit, I wanted to develop a brand identity for the company. For a project as big as this, it was always bottom of the priority list. 
+Ever since joining Seenit, I wanted to develop a brand identity for the company. For a project as big as this, it was always bottom of the priority list.
 
 When I joined in August 2017, we had a logo but no clear visual identity or brand framework. One of my first mini projects was to create a [basic identity](https://brand.seenit.studio/) that all teams could refer to. Working in the Product team at the time, we used this heavily for user interface design.
 
@@ -27,7 +30,7 @@ When I joined in August 2017, we had a logo but no clear visual identity or bran
 
 In early in 2020, after months of hard work and graft, the new Seenit identity was unveiled.
 
-We started to talk about the visual identity in 2019. Working with the CEO we began by attempting to nail our company mission, values, and vision. 
+We started to talk about the visual identity in 2019. Working with the CEO we began by attempting to nail our company mission, values, and vision.
 
 I've learned from experience that when it comes to brand, rather than jumping straight into logos, colours, and layouts, starting with research will make the entire process smoother and yield a better final result.
 
@@ -41,16 +44,15 @@ The first phase involved company wide focus groups, calls with leadership, curre
 
 We worked closely with Symphony Talent on building a messaging framework.
 
-We worked closely with Symphony Talent to take the discovery report and create a central position and core brand essence that we could use.
-There was a fair amount of debate during this phase, but eventually we had a brand architecture framework that included:
+We worked closely with Symphony Talent to take the discovery report and create a central position and core brand essence that we could use. There was a fair amount of debate during this phase, but eventually we had a brand architecture framework that included:
 
-- Brand Vision / Mission
-- Brand Position
-- Brand Platform
-- Brand Personality
-- Tone of Voice
-- Values
-- Behaviours
+* Brand Vision / Mission
+* Brand Position
+* Brand Platform
+* Brand Personality
+* Tone of Voice
+* Values
+* Behaviours
 
 ## Execution
 
@@ -118,20 +120,20 @@ We worked with a PR agency to put together a [press release](https://www.seenit.
 
 A rebrand can add a certain intangible value to your company. It can be hard to gauge whether the project has been a success, beyond just looking at comments, impressions, and web analytics. Here's a few initial highlights of a project I'm personally very proud of.
 
-- 283% increase in LinkedIn followers on the Seenit company page in the 30 days after launch
-- 584% increase in MQLs 30 days after launch
-- 133.3% increase in SQLs 30 days after launch
-- 198% increase in 'Marketing Touched' pipeline value 30 days after launch
-- 95% increase in web traffic 30 days after launch
-- FY 2020 had we achieved our record number of 'Marketing Touched' closed/won deals
-- FY 2020 we achieved our highest ever ARR
-- FY 2020 we exceeded our New Business sales target. Please note, these were **not** adjusted post Covid.
+* 283% increase in LinkedIn followers on the Seenit company page in the 30 days after launch
+* 584% increase in MQLs 30 days after launch
+* 133\.3% increase in SQLs 30 days after launch
+* 198% increase in 'Marketing Touched' pipeline value 30 days after launch
+* 95% increase in web traffic 30 days after launch
+* FY 2020 had we achieved our record number of 'Marketing Touched' closed/won deals
+* FY 2020 we achieved our highest ever ARR
+* FY 2020 we exceeded our New Business sales target. Please note, these were **not** adjusted post Covid.
 
 Though the rebrand cannot be directly responsible for all of these results, it's nice to look back on the project and see some impressive numbers immediately after the launch. We received huge numbers of positive comments and messages from our community, investors, and the wider team.
 
 As someone that tries to post once or month or so on LinkedIn, announcing the rebrand was my most liked post to date.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b4887d1-4277-4507-a5fe-34c85ec6755e/image_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b4887d1-4277-4507-a5fe-34c85ec6755e/image_(1).png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b4887d1-4277-4507-a5fe-34c85ec6755e/image_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b4887d1-4277-4507-a5fe-34c85ec6755e/image_&#40;1&#41;.png)
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09db21f9-3dd5-43f3-a490-90133fbf10df/Screenshot_2021-02-15_at_19.13.51.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09db21f9-3dd5-43f3-a490-90133fbf10df/Screenshot_2021-02-15_at_19.13.51.png)
 
@@ -139,9 +141,9 @@ As someone that tries to post once or month or so on LinkedIn, announcing the re
 
 As a product marketing person, I'm a big fan of 'retro-ing' projects. For the next rebrand project I do, here's some of my learnings:
 
-- I'd work closely with a shit-hot copywriter instead of an agency. Agencies can be great, but they are expensive and at times overly prescriptive. In a smaller company, I don't think this always works well. I think putting together a messaging squad with an external copywriter, a UX or research guru, and some marketing people would yield better results, faster.
-- Run it as an agile project, releasing parts of the brand and testing earlier. A big launch is great, but running this as a waterfall project meant the whole thing morphed into something enormous. You can still do a launch video and campaign with an agile project.
-- Set up a squad and JIRA board. It's a huge project and having a dedicated squad with regular-ish standup meetings and a board to keep people accountable would have helped enormously. Basics like peer review and scoping can be missed without.
-- Use Abstract and Zeplin to manage design and review assets.
-- Ditch the brand guidelines and stick to a Notion page that we can share externally. A 100 page InDesign document looks great. It's a pain to manage, hard to update, and offers no real benefit beyond looking kind of cool. This was my mistake. Working with brands in the past, I'd been exposed to 10s of brand guideline documents, often in the 100s of pages long. These presumably work well for large cooperates, but for Seenit this was overkill. It wasn't particularly easy to use - a Notion page could be spun up in a couple of hours and maintained by anyone.
-- Spend a little more time on the final animation. I love After Effects. I've done a 5 day course on it and everything. I think I even have a certificate. The final output video is cool and something I'm proud of, but it's a little unrefined. Peer review and more time would have helped.
+* I'd work closely with a shit-hot copywriter instead of an agency. Agencies can be great, but they are expensive and at times overly prescriptive. In a smaller company, I don't think this always works well. I think putting together a messaging squad with an external copywriter, a UX or research guru, and some marketing people would yield better results, faster.
+* Run it as an agile project, releasing parts of the brand and testing earlier. A big launch is great, but running this as a waterfall project meant the whole thing morphed into something enormous. You can still do a launch video and campaign with an agile project.
+* Set up a squad and JIRA board. It's a huge project and having a dedicated squad with regular-ish standup meetings and a board to keep people accountable would have helped enormously. Basics like peer review and scoping can be missed without.
+* Use Abstract and Zeplin to manage design and review assets.
+* Ditch the brand guidelines and stick to a Notion page that we can share externally. A 100 page InDesign document looks great. It's a pain to manage, hard to update, and offers no real benefit beyond looking kind of cool. This was my mistake. Working with brands in the past, I'd been exposed to 10s of brand guideline documents, often in the 100s of pages long. These presumably work well for large cooperates, but for Seenit this was overkill. It wasn't particularly easy to use - a Notion page could be spun up in a couple of hours and maintained by anyone.
+* Spend a little more time on the final animation. I love After Effects. I've done a 5 day course on it and everything. I think I even have a certificate. The final output video is cool and something I'm proud of, but it's a little unrefined. Peer review and more time would have helped.
