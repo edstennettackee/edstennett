@@ -18,15 +18,11 @@ Ever since joining Seenit, I wanted to develop a brand identity for the company.
 
 When I joined in August 2017, we had a logo but no clear visual identity or brand framework. One of my first mini projects was to create a [basic identity](https://brand.seenit.studio/) that all teams could refer to. Working in the Product team at the time, we used this heavily for user interface design.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d6928a14-7658-41cd-aa23-5f70735dc542/Screenshot_2021-02-15_at_20.12.45.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d6928a14-7658-41cd-aa23-5f70735dc542/Screenshot_2021-02-15_at_20.12.45.png)
+![](/assets/images/portfolio/seenit-rebrand-old-palette.png){: .larger-image width="2854" height="2138"}
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/290fc944-15b1-4ca9-bd87-278cf228b148/Screenshot_2021-02-15_at_20.12.54.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/290fc944-15b1-4ca9-bd87-278cf228b148/Screenshot_2021-02-15_at_20.12.54.png)
+![](/assets/images/portfolio/seenit-rebrand-colour.png){: .larger-image width="2848" height="2120"}
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b0a42876-609d-4e96-8b89-7e4ace58bf71/Screenshot_2021-02-15_at_20.13.02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b0a42876-609d-4e96-8b89-7e4ace58bf71/Screenshot_2021-02-15_at_20.13.02.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91168a33-9230-4e81-8a0f-78ad17ba1dda/Screenshot_2021-02-15_at_20.13.17.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91168a33-9230-4e81-8a0f-78ad17ba1dda/Screenshot_2021-02-15_at_20.13.17.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9975e0c1-dbf1-4cf2-958a-ed2092f98bc9/Screenshot_2021-02-15_at_20.13.12.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9975e0c1-dbf1-4cf2-958a-ed2092f98bc9/Screenshot_2021-02-15_at_20.13.12.png)
+&nbsp;
 
 In early in 2020, after months of hard work and graft, the new Seenit identity was unveiled.
 
