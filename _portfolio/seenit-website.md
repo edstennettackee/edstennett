@@ -2,9 +2,7 @@
 title: Seenit website
 description: >-
   I led the Seenit website project. This involved product messaging, pricing,
-  design, data, a bit of development here and there, and lots of hard work. This
-  was an extension of the rebrand project and a piece of work I'm really proud
-  of. Have a click around and see what you think first hand at seenit.io.
+  design, data, a bit of development here and there, and lots of hard work.
 image: /assets/images/portfolio/seenit-website-homepage.png
 company: Seenit
 ---
