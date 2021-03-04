@@ -4,9 +4,10 @@ description: >-
   I worked on the update of Seenit's iOS and Android capture apps. Working in a
   small product team, we used the Double Diamond design process. I was involved
   predominately in the user-interface design and product marketing.
-image: /assets/images/portfolio/seenit-video.jpg
+image: /assets/images/portfolio/seenit-app-mockup.jpg
 company: Seenit
 ---
+
 ## TL:DR;
 
 I worked on the update of Seenit's iOS and Android capture apps. Working in a small product team, we used the Double Diamond design process. I was involved predominately in the user-interface design and product marketing.
@@ -15,11 +16,11 @@ I worked on the update of Seenit's iOS and Android capture apps. Working in a sm
 
 As a product team we began by gathering insights and identifying key pain points for users. Our ultimate objective was to ensure we had more users joining more at least 2 projects and contributing to all available shots. The existing app was designed around users joining a single project; we wanted to shift users away from this.
 
-&nbsp;
+<div><img class="larger-image" src="/assets/images/portfolio/four-d-design-process.png" width="2000" height="1200" /></div>
 
 With pain points identified and the initial research carried out, we began to produce some initial low fidelity designs around how we could shift towards a multiple project view. The basic premise was that every part of the app would be global and users could filter by projects they had joined. We conducted several user tests with the low-fi prototype and iterated the design based on feedback and our findings.
 
-&nbsp;
+<div><img class="larger-image" src="/assets/images/portfolio/seenit-define.jpg" width="2000" height="1154" /></div>
 
 After several rounds of iterations we were at a point where we felt we like we had enough to move onto the next stage.
 
@@ -35,7 +36,7 @@ In the build up to the launch of the new Seenit capture app, I worked on two ani
 
 We wanted to produce two videos. The first would be for social that we could use to highlight the changes and create a buzz around the new app. The second would be used for training purposes when it came to on-boarding new customers and showing them more detail around how to use the app.
 
-&nbsp;
+<div><img src="/assets/images/portfolio/seenit-video.jpg" width="2000" height="1212" /></div>
 
 I started with a basic storyboard and the general direction I wanted the video to take. I fired up Illustrator, Sketch, and Xcode and began creating the various assets required. Once I had them ready, it was a simple case of animating everything in After Effects and stitching it all together in Premiere Pro.
 
@@ -47,13 +48,15 @@ With the success launch of Seenit Capture 2.0, we wanted to explore how we could
 
 Post launch, I carried out a number of user tests to identify potential pain points for users. A common theme for users was not being certain if their upload had completed and where they could see said content. With a trusty whiteboard and pen, I put together the high level information architecture and from there some basic sketches of the user flow. It became apparent that once content has begun to upload, users should see its progress immediately, as well as being given control over its state (pause, stop, start).
 
-&nbsp;
+<div><img class="larger-image" src="/assets/images/portfolio/discover-uploads.jpg" width="1200" height="1600" /></div>
 
 With the IA complete, I worked on a low fidelity prototype for the improved uploads flow. With this, I began some further user tests and iterated the design based on my findings and feedback.
 
+<div><img class="larger-image" src="/assets/images/portfolio/define-uploads.jpg" width="2000" height="1587" /></div>
+
 I used the extensive Seenit iOS and Android Sketch symbol libraries to put together polished designs. I made sure to follow best practice, ensuring the familiar iOS and Android components were used to provide the best possible user experience.
 
-&nbsp;
+<div><img class="larger-image" src="/assets/images/portfolio/develop-uploads.jpg" width="2000" height="1397" /></div>
 
 ## Results
 
