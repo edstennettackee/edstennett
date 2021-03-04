@@ -1,9 +1,13 @@
 ---
 title: Tusk go-to-market
-description:
-image:
+description: >-
+  Working in my spare evenings and weekends, I was responsible for creating and
+  maintaining the brand, product design, marketing, and go to market for the
+  company
+image: /assets/images/portfolio/18-07-18-tusk-cooking.jpg
 company: Tusk Tasks
 ---
+
 ## TL:DR;
 
 Tusk (formerly uWork) was the biggest personal project I have ever taken on. It gave me invaluable experience working with other designers and developers to build a product from just an idea. Working in my spare evenings and weekends, I was responsible for creating and maintaining the brand, product design, marketing, and go to market for the company. Though the company failed to achieve product-market fit and ceased to exist in 2019, I'm very proud to have worked on Tusk and sad to this day it didn't work out.
@@ -12,7 +16,7 @@ Tusk (formerly uWork) was the biggest personal project I have ever taken on. It 
 
 After launching uWork, we were forced into a rebrand due to pressure from a company with a similar name, working in a similar market. We had to very quickly get the rebrand up and running so we put our heads together and got to work.
 
-**uTask, Flock, Acorn...**
+**uTask, Flock, Acorn…**
 
 Over the first few weeks, we took a step back in order to choose a new name that would form the basis of the brand. 100s of names were suggested, some good, some awful, but we finally agreed on Tusk. We liked it as it was similar to Task, but we replaced the 'a' with a 'u' to reference the University students that will be doing the Tasks, plus Narwhales are cool.
 
