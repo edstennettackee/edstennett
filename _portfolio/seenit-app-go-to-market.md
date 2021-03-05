@@ -40,7 +40,9 @@ We wanted to produce two videos. The first would be for social that we could use
 
 I started with a basic storyboard and the general direction I wanted the video to take. I fired up Illustrator, Sketch, and Xcode and began creating the various assets required. Once I had them ready, it was a simple case of animating everything in After Effects and stitching it all together in Premiere Pro.
 
-I followed a similar process for the 'Using the App Video' as before. The big difference was the inclusion of the voice over which meant getting a script nailed early on in the process so that I could animate to the voice. Once we had the voice over done, I tidied it up in Audition and then brought it into After Effects so that I could animate to the voice. I finally brought everything together in Premiere Pro. The video has been a success and is used in Sales and Training decks.
+<div><div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vcGxheWVyLnZpbWVvLmNvbS92aWRlby81MTk4NzI4NjgiIHdpZHRoPSI2NDAiIGhlaWdodD0iNDgwIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImF1dG9wbGF5OyBmdWxsc2NyZWVuOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe src="https://player.vimeo.com/video/519872868" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe></div><p>I followed a similar process for the 'Using the App Video' as before. The big difference was the inclusion of the voice over which meant getting a script nailed early on in the process so that I could animate to the voice. Once we had the voice over done, I tidied it up in Audition and then brought it into After Effects so that I could animate to the voice. I finally brought everything together in Premiere Pro. The video has been a success and is used in Sales and Training decks.</p></div>
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vcGxheWVyLnZpbWVvLmNvbS92aWRlby8yOTU3NjI1MzkiIHdpZHRoPSI2NDAiIGhlaWdodD0iMzYwIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImF1dG9wbGF5OyBmdWxsc2NyZWVuOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe src="https://player.vimeo.com/video/295762539" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe></div>
 
 ### Follow-up projects
 
@@ -57,6 +59,8 @@ With the IA complete, I worked on a low fidelity prototype for the improved uplo
 I used the extensive Seenit iOS and Android Sketch symbol libraries to put together polished designs. I made sure to follow best practice, ensuring the familiar iOS and Android components were used to provide the best possible user experience.
 
 <div><img class="larger-image" src="/assets/images/portfolio/develop-uploads.jpg" width="2000" height="1397" /></div>
+
+<div>&nbsp;</div>
 
 ## Results
 
