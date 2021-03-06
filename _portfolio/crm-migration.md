@@ -1,5 +1,5 @@
 ---
-title: CRM migration
+title: Migrating a company from Salesforce to Hubspot
 description: >-
   I led a project to migrate from Salesforce to Hubspot with a view to getting
   all teams in one place and simplify our processes.
