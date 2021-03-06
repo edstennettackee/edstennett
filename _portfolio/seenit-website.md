@@ -1,5 +1,5 @@
 ---
-title: Seenit website
+title: 'Design, built, and CRO for the new Seenit marketing site'
 description: >-
   I led the Seenit website project. This involved product messaging, pricing,
   design, data, a bit of development here and there, and lots of hard work.
@@ -91,5 +91,5 @@ The immediate feedback from the team, investors, and wider community was extreme
 As a product marketing person, I'm a big fan of 'retro-ing' projects. For the next rebrand project I do, here's some of my learnings:
 
 * I'd work closely with a shit-hot copywriter to build out the website copy inline with our messaging framework and tone of voice. We had a huge amount of help across the marketing and product team, but working with a copywriter would have helped streamline this process.
-* Run it as an agile project, releasing parts of the website. The blog, for example, was a huge piece of work to migrate. We could have set up a [blog.seenit.io](http://blog.seenit.io) domain and hosted it externally to push the release out earlier
+* Run it as an agile project, releasing parts of the website. The blog, for example, was a huge piece of work to migrate. We could have set up a blog.seenit.io domain and hosted it externally to push the release out earlier
 * Briefed our in-house video editors at the beginning of the project so they could work on updating some of our product videos. I had originally committed to do this, but in the end opted to launch without because of time.
