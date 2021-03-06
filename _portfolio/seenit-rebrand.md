@@ -106,11 +106,7 @@ With messaging, a brand framework, and a logo, I developed the visual identity. 
 
 We set a launch date of early May 2020. I wanted to put together a launch video for us to run with. I used some of the messaging put together by Hodes and the logo animations to put together a simple After Effects animation that we could post out across our marketing channels to announce the new identity.
 
-&nbsp;
-
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSBjbGFzcz0ibGFyZ2VyLXZpZGVvIiB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9QYVpVYXkzNUQ1byIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe class="larger-video" width="560" height="315" src="https://www.youtube.com/embed/PaZUay35D5o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-&nbsp;
 
 We worked with a PR agency to put together a [press release](https://www.seenit.io/blog/news/introducing-the-new-seenit/) and a [press site](https://www.seenit.io/press) that we could send out to pick up some press interest.
 
