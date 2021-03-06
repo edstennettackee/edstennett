@@ -8,7 +8,7 @@ tags:
   - Product
 date: 2018-02-22 12:30:00
 image: /assets/images/blog/22-02-18-hero.jpg
-duration: 3 min read
+duration: 10 min read
 ---
 #### "Users are difficult to please, resist change, and with competition greater than ever, it's only getting worse."
 
