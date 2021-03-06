@@ -1,5 +1,5 @@
 ---
-title: Building a brand from scratch
+title: Launching the uWork brand and product from scratch
 description: >-
   uWork (latterly Tusk) was the biggest personal project I have taken on. As a
   start up with big aspirations, it gave me invaluable experience working with
@@ -42,15 +42,13 @@ Below are some of the pieces of work I designed and put together as part of the 
 
 Design for this was huge. There were edge cases popping up left right and centre and it was clear we needed to keep the MVP we ship as simple as possible. An MVP prototype was pieced together. You can actually watch an early prototype video:
 
-<div><div class="cms-embed" data-cms-embed="PGlmcmFtZSBjbGFzcz0ibGFyZ2VyLXZpZGVvIiB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9SdW1uT0RkUXNDMCIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe class="larger-video" width="560" height="315" src="https://www.youtube.com/embed/RumnODdQsC0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p>&nbsp;</p></div>
-
-## Delivery
+<div><div class="cms-embed" data-cms-embed="PGlmcmFtZSBjbGFzcz0ibGFyZ2VyLXZpZGVvIiB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9SdW1uT0RkUXNDMCIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe class="larger-video" width="560" height="315" src="https://www.youtube.com/embed/RumnODdQsC0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><h2>Delivery</h2></div>
 
 Delivery was halted because of a letter from the lawyers at upWork who asked us to change the name of our company before we continue to do any more work. We rebranded as Tusk Tasks in early 2019.
 
 ## Learning
 
-Take a look at Tusk Tasks for more detail.
+Take a look at [Tusk Tasks](/portfolio/tusk-go-to-market/) for more detail.
 
 * Check, check, and check again for companies with similar names. It seems obvious now that calling a company uWork would be problematic when there's already a company called upWork operating in a similar space. This was back in 2016, and upWork had been around for a year (they didn't IPO until late 2018) and weren't very well known. Looking back at this, it was clearly a huge mistake not to speak up, one I know I will not make again
 * This was a project that was done entirely in my spare time and so communication and setting an expectation was key
