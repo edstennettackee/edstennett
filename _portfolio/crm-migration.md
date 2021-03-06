@@ -35,13 +35,13 @@ The main goal of the project was simplification. If I wanted to get competitor i
 
 As the company grew, so did the number of tools. This is makes sense. The issue we had was that the tools weren't talking together, so data became siloed. The basics of Product Marketing became harder to achieve.
 
-<div><img class="larger-image" src="/assets/images/portfolio/migration-tools.png" width="2305" height="1410" /></div>
+<div><img class="larger-image" width="2305" height="1410" src="/assets/images/portfolio/migration-tools.png" /></div>
 
 ### Data sync
 
 I set up the Hubspot &lt;&gt; Salesforce integration for Contact, Company, and Deal objects. I set up a Hubspot inclusion list that meant that MQLs would sync to Salesforce as a new lead. That lead could be sales accepted, disqualified entirely, or sent back to marketing. All salesforce deals and tasks were synced over to Hubspot. Over time, all contacts and companies could be synced as well using the off-the-shelf integration.
 
-<div><img class="larger-image" src="/assets/images/portfolio/crm_migration-complete.png" width="2262" height="1170" /></div>
+<div><img class="larger-image" width="2262" height="1170" src="/assets/images/portfolio/crm_migration-complete.png" /></div>
 
 ### Support
 
@@ -65,7 +65,7 @@ In Salesforce, all opportunities sat in a single pipeline with the same stages. 
 
 **Products**
 
-I set up a product library with our entire offering and, working with the leadership team, created a process that required all future deals to contain product line items. This helped with consistent pricing, it helped us track discounts that were being added, and it allowed me to set up some pretty powerful reports. Gone were hefty financial spreadsheets, if we wanted to see our revenue for the financial year broken down by products sold, it was there. If we wanted to track ARR dynamically, the data was there.
+I set up a product library with our entire offering and, working with the leadership team, created a process that required all future deals to contain product line items. This helped with consistent pricing, track discounts that were being added, and it allowed me to set up some pretty powerful reports. Gone were hefty financial spreadsheets, if we wanted to see our revenue for the financial year broken down by products sold, it was there. If we wanted to track ARR dynamically, the data was there.
 
 A lot of this might seem basic for any SaaS basis, but going from a scrappy start-up to a scale up, it’s easy to focus on bringing in revenue and lose sight of capturing data and reporting.
 
