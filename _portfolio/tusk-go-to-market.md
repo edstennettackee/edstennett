@@ -1,5 +1,5 @@
 ---
-title: Tusk go-to-market
+title: Tusk Tasks go-to-market
 description: >-
   Working in my spare evenings and weekends, I was responsible for creating and
   maintaining the brand, product design, marketing, and go to market for the
@@ -22,7 +22,7 @@ Over the first few weeks, we took a step back in order to choose a new name that
 
 The logomark was designed using a Fibonacci sequence of circles, arranged to create a Narwhal we call 'Nelly'. We used this same principle across our whole brand, using Fibonacci circles laid in a 12 column grid to create a bold, colourful, geometric brand.
 
-<div><img class="larger-image" src="/assets/images/portfolio/tusk-logo-design.png" width="1992" height="1050" /></div>
+<div><img class="larger-image" width="1992" height="1050" src="/assets/images/portfolio/tusk-logo-design.png" /></div>
 
 ## Execution
 
@@ -30,19 +30,19 @@ I put together designs for a ‘north star’ concept to act as a general direct
 
 Here's a selection of some of the bits I put together.
 
-<div><img class="larger-image" src="/assets/images/portfolio/tusk-ironing.jpg" width="2000" height="1054" /></div>
+<div><img class="larger-image" width="2000" height="1054" src="/assets/images/portfolio/tusk-ironing.jpg" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/18-07-18-tusk-poster.jpg" width="2000" height="1500" /></div>
+<div><img class="larger-image" width="2000" height="1500" src="/assets/images/portfolio/18-07-18-tusk-poster.jpg" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/18-07-18-tusk-posters.jpg" width="2000" height="1500" /></div>
+<div><img class="larger-image" width="2000" height="1500" src="/assets/images/portfolio/18-07-18-tusk-posters.jpg" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/18-07-18-tusk-bus-shelter.jpg" width="1200" height="1600" /></div>
+<div><img class="larger-image" width="1200" height="1600" src="/assets/images/portfolio/18-07-18-tusk-bus-shelter.jpg" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/tusk-kitchen.jpg" width="2000" height="1336" /></div>
+<div><img class="larger-image" width="2000" height="1336" src="/assets/images/portfolio/tusk-kitchen.jpg" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/tusk-logos.png" width="1152" height="648" /></div>
+<div><img class="larger-image" width="1152" height="648" src="/assets/images/portfolio/tusk-logos.png" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/tusk-brand.png" width="1152" height="485" /></div>
+<div><img class="larger-image" width="1152" height="485" src="/assets/images/portfolio/tusk-brand.png" /></div>
 
 ## Delivery
 
@@ -50,11 +50,11 @@ We decided to launch our MVP product in beta. Students could sign up to complete
 
 With launch bugs ironed out, Tusk was launched in Winchester and Oxford a few months later.
 
-<div><img class="larger-image" src="/assets/images/portfolio/tusk-homepage.jpg" width="3228" height="1950" /></div>
+<div><img class="larger-image" width="3228" height="1950" src="/assets/images/portfolio/tusk-homepage.jpg" /></div>
 
 We managed to raise a small investment that we used to run ads across Google and Facebook, as well as working with influencers. A large chunk of the investment was needed for our tech stack. We verified people using their ID to keep the platform secure, we handled payments, and we needed to pay for a few tools that ate up the budget. There was a modest marketing budget left for launch but we saw a pretty impressive number of tasks listed. Word of mouth across students was excellent and we had impressive numbers signing up. We struggled to find people to list tasks from the off. As soon as a task was listed, a student would snap it up straight away.
 
-<div><img class="larger-image" src="/assets/images/portfolio/tusk-tasks.png" width="3222" height="928" /></div>
+<div><img class="larger-image" width="3222" height="928" src="/assets/images/portfolio/tusk-tasks.png" /></div>
 
 There was huge disagreement and fallout about the strategy post-launch. One view was to open the product to the whole of the UK and do a national launch. The opposing view was to keep things restricted to Oxford for the time being while we try to improve product-market fit. My view was the latter and it was not shared.
 
