@@ -8,7 +8,7 @@ tags:
 author: Ed Stennett
 date: 2018-08-03 08:20:00
 image: /assets/images/blog/18-08-03-olives.jpg
-duration: 3 min read
+duration: 1 min read
 ---
 #### By no means would I consider myself a good photographer, but since getting an iPhone X I found myself taking loads of photos using the portrait mode.
 
