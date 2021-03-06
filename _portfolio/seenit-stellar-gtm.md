@@ -33,7 +33,7 @@ Some of the areas explored included:
 * Where are the gaps in the market
 * Description of competitors
 
-Beginning with a large research project was key to identifying our minimum viable audience and ideal customer profile. The initial view was to sell to anyone that would ~~be~~ buy, but after some debate, it was agreed we would focus on identifying and marketing to an MVA.
+Beginning with a large research project was key to identifying our minimum viable audience and ideal customer profile. The initial view was to sell to anyone that would buy, but after some debate, it was agreed we would focus on identifying and marketing to an MVA.
 
 ### Lead generation and nurture
 
@@ -43,7 +43,7 @@ Leads that signed up to the waitlist would join a nurture list. We'd send them a
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSBzcmM9Imh0dHBzOi8vcGxheWVyLnZpbWVvLmNvbS92aWRlby80ODU5NDI0NzM/Y29sb3I9MTIxMjEyJnRpdGxlPTAmYnlsaW5lPTAiIHdpZHRoPSI2NDAiIGhlaWdodD0iMzYwIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImF1dG9wbGF5OyBmdWxsc2NyZWVuOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4="><iframe src="https://player.vimeo.com/video/485942473?color=121212&amp;title=0&amp;byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe></div>
 
-<div><div><img class="larger-image" src="/assets/images/portfolio/stellar-gtm-homepage.png" width="3122" height="1866" /></div></div>
+<div><div><img class="larger-image" width="3122" height="1866" src="/assets/images/portfolio/stellar-gtm-homepage.png" /></div></div>
 
 ### Multi-channel marketing
 
@@ -67,9 +67,9 @@ We worked with CS to set up 'North Star' sessions with all of our subscription c
 
 The [waitlist](https://haloed-table.cloudvent.net/stellar/) went live in May 2020, alongside the Seenit rebrand. I created a couple of videos alongside the landing page to post across social.
 
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9JWG5IZi11R1NxYyIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/IXnHf-uGSqc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSBjbGFzcz0ibGFyZ2VyLXZpZGVvIiB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9JWG5IZi11R1NxYyIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe class="larger-video" width="560" height="315" src="https://www.youtube.com/embed/IXnHf-uGSqc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC82N0Zlc2o2Z3p6NCIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/67Fesj6gzz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSBjbGFzcz0ibGFyZ2VyLXZpZGVvIiB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC82N0Zlc2o2Z3p6NCIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe class="larger-video" width="560" height="315" src="https://www.youtube.com/embed/67Fesj6gzz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 ## Results
 
@@ -81,7 +81,7 @@ The [waitlist](https://haloed-table.cloudvent.net/stellar/) went live in May 202
 
 ## Learning
 
-* I wouldn't have a waiting list again. It doesn't lend itself too well ~~for~~ in the B2B SAAS world. We had huge numbers of irrelevant leads come through.
+* I wouldn't have a waiting list again. It doesn't lend itself too well in the B2B SAAS world. We had huge numbers of irrelevant leads come through.
 * Gather more information. Leads could sign up to the waiting list with just an email address. As a result we had large numbers of leads we simply knew nothing about. This was pretty useless when analysing trends and looking to refine messaging.
 * Review ad performance earlier. As an example, PPC was an extremely successful channel for us on the face of it - the agency we worked with were delighted. Drilling into the data, the conversation rate from waitlist sign up to getting onto the product was extremely poor.
 * Set up a dashboard with OKRs and email it to key stakeholders weekly from the start. I didn't do this until a few weeks after launch.
