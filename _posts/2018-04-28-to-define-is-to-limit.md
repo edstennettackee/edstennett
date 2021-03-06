@@ -1,46 +1,30 @@
 ---
 title: To define is to limit
-description: 
+description: >-
+  To define is to limit. From Oscar Wilde’s ‘The Picture of Dorian Gray’, the
+  quote explores how when something is given a definition, it is confined to the
+  parameters of the definition itself and limited as a result.
 tags:
-- Design
-date:   2018-04-28 12:30:00 +0000
+  - Design
+date: 2018-04-28 12:30:00
 image: /assets/images/blog/28-04-18-design.jpg
 duration: 3 min read
 ---
-
 #### To define is to limit. From Oscar Wilde’s ‘The Picture of Dorian Gray’, the quote explores how when something is given a definition, it is confined to the parameters of the definition itself and limited as a result.
 
 For me, when we chose to define, we compromise the final output and limit the potential of the design. Design exists in the same way art does; to erase limitations and craft new ideas. Over the next 5 minutes, I will explore two very different examples of how defining design too early can have a truly pernicious effect.
 
-<div class="container">
-<div class="row">
-<div class="col-12"> 
-<div align="center">
-	<img src="{{ site.baseurl }}/assets/images/blog/28-04-18-design-building.jpg" alt="building design">
-	<h6>Remarkable design is achieved when we allow complete freedom.</h6>
-</div>
-</div>
-</div>
-</div>
+<div class="container"><div class="row"><div class="col-12"><div align="center"><img alt="building design" src="{{ site.baseurl }}/assets/images/blog/28-04-18-design-building.jpg" /><h6>Remarkable design is achieved when we allow complete freedom.</h6></div></div></div></div>
 
 ### A fall from grace for traditional agencies
 
-Within traditional media agencies, it is often the case that design becomes part of a process rather than _the_ process. When working with a client on a project, a comprehensive brief will be put together that must be stuck to, where a designer or design team will be given a set amount of time to work on something and once the the time is up, it’s sent off, billed, and then onto the next project. Commercially, it makes complete sense - time is money. That time must be charged for and by defining a set time limit for a specific project, a client can be sure how much they will pay and are given a relatively clear sense of what the final output will be. However, by defining this, we restrict the design. What if after the time limit is up the designer isn’t entirely happy? What if they weren’t involved in the original meetings and were never happy and/or clear with the signed off brief?
+Within traditional media agencies, it is often the case that design becomes part of a process rather than *the* process. When working with a client on a project, a comprehensive brief will be put together that must be stuck to, where a designer or design team will be given a set amount of time to work on something and once the the time is up, it’s sent off, billed, and then onto the next project. Commercially, it makes complete sense - time is money. That time must be charged for and by defining a set time limit for a specific project, a client can be sure how much they will pay and are given a relatively clear sense of what the final output will be. However, by defining this, we restrict the design. What if after the time limit is up the designer isn’t entirely happy? What if they weren’t involved in the original meetings and were never happy and/or clear with the signed off brief?
 
 By setting strict parameters in the agency process, we limit design. For me, it’s this process driven design that has changed companies perceptions of agencies and why they are starting to look for alternatives. This effect can be seen in WPP’s share price, which was up at 1840 at the start of 2017, and today (April 2018), has fallen to 1148. Even with Martin Sorrell’s departure this month, this fall from grace has been nothing short of profound.
 
-<div class="container">
-<div class="row">
-<div class="col-12"> 
-<div align="center">
-	<img src="{{ site.baseurl }}/assets/images/blog/28-04-18-martin-sorrell.jpg" alt="Martin Sorrell">
-	<h6>Former WPP CEO Martin Sorrell.</h6>
-</div>
-</div>
-</div>
-</div>
+<div class="container"><div class="row"><div class="col-12"><div align="center"><img alt="Martin Sorrell" src="{{ site.baseurl }}/assets/images/blog/28-04-18-martin-sorrell.jpg" /><h6>Former WPP CEO Martin Sorrell.</h6></div></div></div></div>
 
-Whether it’s the quality of design being produced, companies setting up internal design teams, startups disrupting the agency scene or a combination of all three, I can’t help but think if agencies chose to treat design as _the_ process and offer the highest level of craft then maybe things could be different.
+Whether it’s the quality of design being produced, companies setting up internal design teams, startups disrupting the agency scene or a combination of all three, I can’t help but think if agencies chose to treat design as *the* process and offer the highest level of craft then maybe things could be different.
 
 ### Agile working vs. waterfall
 
