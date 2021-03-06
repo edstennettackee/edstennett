@@ -18,7 +18,7 @@ uWork (latterly Tusk) was the biggest personal project I have taken on. As a sta
 
 uWork was born in Oxford by a group of students short of money and looking for a way to use some of their skills to earn money. I knew one of the people involved when the initial team was being assembled and was invited to join the first team kick off meeting of 5 people. The idea to be discussed was building some kind of student task site.
 
-<div><img class="larger-image" src="/assets/images/portfolio/uwork-banner.jpg" width="1772" height="746" /></div>
+<div><img class="larger-image" width="1772" height="746" src="/assets/images/portfolio/uwork-banner.jpg" /></div>
 
 ## Execution
 
@@ -28,21 +28,21 @@ I started with a logo, a simple set of brand guidelines, and a landing page wher
 
 Below are some of the pieces of work I designed and put together as part of the initial brand and marketing work.
 
-<div><img class="larger-image" src="/assets/images/portfolio/uwork-banner-3.jpg" width="2560" height="1056" /></div>
+<div><img class="larger-image" width="2560" height="1056" src="/assets/images/portfolio/uwork-banner-3.jpg" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/uwork-logos.png" width="2426" height="1312" /></div>
+<div><img class="larger-image" width="2426" height="1312" src="/assets/images/portfolio/uwork-logos.png" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/uwork-poster-1.png" width="845" height="1200" /></div>
+<div><img class="larger-image" width="845" height="1200" src="/assets/images/portfolio/uwork-poster-1.png" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/uwork-poster.jpeg" width="1456" height="2084" /></div>
+<div><img class="larger-image" width="1456" height="2084" src="/assets/images/portfolio/uwork-poster.jpeg" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/uwork-banner-2.jpg" width="2560" height="1056" /></div>
+<div><img class="larger-image" width="2560" height="1056" src="/assets/images/portfolio/uwork-banner-2.jpg" /></div>
 
 ### Product design
 
 Design for this was huge. There were edge cases popping up left right and centre and it was clear we needed to keep the MVP we ship as simple as possible. An MVP prototype was pieced together. You can actually watch an early prototype video:
 
-[https://drive.google.com/open?id=0B3qZaXUcJICOSElVT0pBUklBZDg&authuser=hello%40edstennett.com&usp=drive\_fs](https://drive.google.com/open?id=0B3qZaXUcJICOSElVT0pBUklBZDg&amp;authuser=hello%40edstennett.com&amp;usp=drive_fs)
+<div><div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9SdW1uT0RkUXNDMCIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/RumnODdQsC0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p>&nbsp;</p></div>
 
 ## Delivery
 
