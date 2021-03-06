@@ -1,5 +1,5 @@
 ---
-title: Seenit app go-to-market
+title: Taking the Seenit capture app to market
 description: >-
   I worked on the update of Seenit's iOS and Android capture apps. Working in a
   small product team, we used the Double Diamond design process. I was involved
