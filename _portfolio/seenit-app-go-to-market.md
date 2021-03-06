@@ -16,17 +16,19 @@ I worked on the update of Seenit's iOS and Android capture apps. Working in a sm
 
 As a product team we began by gathering insights and identifying key pain points for users. Our ultimate objective was to ensure we had more users joining more at least 2 projects and contributing to all available shots. The existing app was designed around users joining a single project; we wanted to shift users away from this.
 
-<div><img class="larger-image" src="/assets/images/portfolio/four-d-design-process.png" width="2000" height="1200" /></div>
+<div><img class="larger-image" width="2000" height="1200" src="/assets/images/portfolio/four-d-design-process.png" /></div>
 
 With pain points identified and the initial research carried out, we began to produce some initial low fidelity designs around how we could shift towards a multiple project view. The basic premise was that every part of the app would be global and users could filter by projects they had joined. We conducted several user tests with the low-fi prototype and iterated the design based on feedback and our findings.
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit-define.jpg" width="2000" height="1154" /></div>
+<div><img class="larger-image" width="2000" height="1154" src="/assets/images/portfolio/seenit-define.jpg" /></div>
 
 After several rounds of iterations we were at a point where we felt we like we had enough to move onto the next stage.
 
 ## Execution
 
 As part of the new app we also wanted to update the user interface with a whole new library of components and a lighter look and feel. Apple's HIG recommended using one single key colour throughout to indicate interactivity throughout the app. A big focus of mine was to think of Seenit Capture as two different products split between iOS and Android. Throughout the design process, we closely followed HIG and Google's Material documentation, using common components throughout to offer a familiar user experience. I build an iOS and Android symbols library in Sketch to ensure consistency across design. This was added to Zeplin so that the Engineering team would always have a point of reference. When building these components, I also needed to consider how we themed the products for when we needed a white label version of the app. We used a simple, scalable colour theme that allowed us to very quickly and effectively white label Seenit Capture.
+
+<div><div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9QTHA5TS14WC1OQSIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/PLp9M-xX-NA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p>&nbsp;</p></div>
 
 ## Delivery
 
@@ -36,7 +38,7 @@ In the build up to the launch of the new Seenit capture app, I worked on two ani
 
 We wanted to produce two videos. The first would be for social that we could use to highlight the changes and create a buzz around the new app. The second would be used for training purposes when it came to on-boarding new customers and showing them more detail around how to use the app.
 
-<div><img src="/assets/images/portfolio/seenit-video.jpg" width="2000" height="1212" /></div>
+<div><img width="2000" height="1212" src="/assets/images/portfolio/seenit-video.jpg" /></div>
 
 I started with a basic storyboard and the general direction I wanted the video to take. I fired up Illustrator, Sketch, and Xcode and began creating the various assets required. Once I had them ready, it was a simple case of animating everything in After Effects and stitching it all together in Premiere Pro.
 
@@ -50,15 +52,15 @@ With the success launch of Seenit Capture 2.0, we wanted to explore how we could
 
 Post launch, I carried out a number of user tests to identify potential pain points for users. A common theme for users was not being certain if their upload had completed and where they could see said content. With a trusty whiteboard and pen, I put together the high level information architecture and from there some basic sketches of the user flow. It became apparent that once content has begun to upload, users should see its progress immediately, as well as being given control over its state (pause, stop, start).
 
-<div><img class="larger-image" src="/assets/images/portfolio/discover-uploads.jpg" width="1200" height="1600" /></div>
+<div><img class="larger-image" width="1200" height="1600" src="/assets/images/portfolio/discover-uploads.jpg" /></div>
 
 With the IA complete, I worked on a low fidelity prototype for the improved uploads flow. With this, I began some further user tests and iterated the design based on my findings and feedback.
 
-<div><img class="larger-image" src="/assets/images/portfolio/define-uploads.jpg" width="2000" height="1587" /></div>
+<div><img class="larger-image" width="2000" height="1587" src="/assets/images/portfolio/define-uploads.jpg" /></div>
 
 I used the extensive Seenit iOS and Android Sketch symbol libraries to put together polished designs. I made sure to follow best practice, ensuring the familiar iOS and Android components were used to provide the best possible user experience.
 
-<div><img class="larger-image" src="/assets/images/portfolio/develop-uploads.jpg" width="2000" height="1397" /></div>
+<div><img class="larger-image" width="2000" height="1397" src="/assets/images/portfolio/develop-uploads.jpg" /></div>
 
 <div>&nbsp;</div>
 
