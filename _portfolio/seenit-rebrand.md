@@ -1,5 +1,5 @@
 ---
-title: Seenit rebrand
+title: Creating an all-new brand
 description: >-
   I led the Seenit rebrand project that went live in May 2020. The launch saw an
   immediate increase in traffic, MQLs, SQLs, and pipeline. 2020 proved to be our
