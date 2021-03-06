@@ -14,13 +14,13 @@ duration: 3 min read
 
 Have a browse through some of the photos I've taken over the course of the Summer of 2018, shot on iPhone X.
 
-<section><h3>Photography</h3><div class="full-width portfolio-banner">&nbsp;</div></section>
+<section><h3>Photography</h3><div class="full-width portfolio-banner"><img data-src="{{ site.baseurl}}/assets/images/blog/18-08-03-bridge.jpg" class="lazy no-padding portfolio-banner-image" alt="bridge" /></div><h6>The London Eye, London Bridge.</h6></section>
 
 <div class="container"><div class="row"><div class="col-12"><div class="post-img-alt-container"><img data-src="{{ site.baseurl }}/assets/images/blog/18-08-03-sunset.jpg" class="lazy post-img-alt" alt="sunset" /><h6>Sunset, Liverpool Street.</h6></div></div></div></div>
 
 <section><h3>Photography</h3><div class="full-width portfolio-banner"><img data-src="{{ site.baseurl}}/assets/images/blog/18-08-03-building.jpg" class="lazy no-padding portfolio-banner-image" alt="building" /></div><h6>Appold Street, London.</h6></section>
 
-<div class="container"><div class="row"><div class="col-12"><div class="post-img-alt-container"><img data-src="{{ site.baseurl }}/assets/images/blog/18-08-03-bookcase.jpg" class="lazy post-img-alt" alt="bookcase" /><h6>A bookcase, Liverpool Street.</h6></div></div></div></div>
+<img data-src="/assets/images/blog/18-08-03-bookcase.jpg" class="lazy post-img-alt" alt="bookcase" /><h6>A bookcase, Liverpool Street.</h6>
 
 <section><div class="full-width portfolio-banner"><img data-src="{{ site.baseurl}}/assets/images/blog/18-08-03-burger.jpg" class="lazy no-padding portfolio-banner-image" alt="burger" /></div><h6>Blackbear burger, Boxpark, Shoreditch.</h6></section>
 
