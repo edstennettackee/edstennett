@@ -60,53 +60,57 @@ I've included a select few mockups below to give an idea of some of the designs 
 
 ![](/assets/images/portfolio/seenit_rebrand-concept-1.png){: .larger-image width="2452" height="1226"}
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-concept-2.png" width="2458" height="1106" /></div>
+<div><img class="larger-image" width="2458" height="1106" src="/assets/images/portfolio/seenit_rebrand-concept-2.png" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-concept-4.png" width="2484" height="1164" /></div>
+<div><img class="larger-image" width="2484" height="1164" src="/assets/images/portfolio/seenit_rebrand-concept-4.png" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-concept-3.png" width="2486" height="934" /></div>
+<div><img class="larger-image" width="2486" height="934" src="/assets/images/portfolio/seenit_rebrand-concept-3.png" /></div>
 
 ### Set backs
 
 After settling on a logomark, I found during my research a company with a similar mark. I was also made aware of another company that were rebranding with a similar mark. After consulting with our COO, we agreed to go back to drawing board and not run the risk.
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-mid-logo.png" width="1520" height="666" /></div>
+<div><img class="larger-image" width="1520" height="666" src="/assets/images/portfolio/seenit_rebrand-mid-logo.png" /></div>
 
 I briefed Floating Elements, an agency I'd used before, to look at developing a new logo and animations. They produced a new logo that felt fresh, simple, and inherently ‘Seenit.’ It was then a case of developing a new design system and a strong, scalable brand identity.
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-logo-designs.png" width="2256" height="1074" /></div>
+<div><img class="larger-image" width="2256" height="1074" src="/assets/images/portfolio/seenit_rebrand-logo-designs.png" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-_SeenIt_anim_ballbounce.gif" width="500" height="281" /></div>
+<div><img class="larger-image" width="500" height="281" src="/assets/images/portfolio/seenit_rebrand-_SeenIt_anim_ballbounce.gif" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-_SeenIt_anim_constellations.gif" width="500" height="281" /></div>
+<div><img class="larger-image" width="500" height="281" src="/assets/images/portfolio/seenit_rebrand-_SeenIt_anim_constellations.gif" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-_Seenit_Exposion_Text.gif" width="500" height="281" /></div>
+<div><img class="larger-image" width="500" height="281" src="/assets/images/portfolio/seenit_rebrand-_Seenit_Exposion_Text.gif" /></div>
 
 With messaging, a brand framework, and a logo, I developed the visual identity. There were a fair number of revisions, but in the end we had a comprehensive set of brand guidelines and an internal brand centre on Notion. The brand continues to evolve to this day and having everything in Notion allows anyone in Marketing to easily update a page.
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-brand-centre.png" width="3118" height="2066" /></div>
+<div><img class="larger-image" width="3118" height="2066" src="/assets/images/portfolio/seenit_rebrand-brand-centre.png" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/mockup-1.jpg" width="2500" height="1669" /></div>
+<div><img class="larger-image" width="2500" height="1669" src="/assets/images/portfolio/mockup-1.jpg" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-mockup-3.jpg" width="2500" height="1669" /></div>
+<div><img class="larger-image" width="2500" height="1669" src="/assets/images/portfolio/seenit_rebrand-mockup-3.jpg" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-mockup-4.jpg" width="2187" height="1139" /></div>
+<div><img class="larger-image" width="2187" height="1139" src="/assets/images/portfolio/seenit_rebrand-mockup-4.jpg" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-mockup-6.jpg" width="2187" height="1137" /></div>
+<div><img class="larger-image" width="2187" height="1137" src="/assets/images/portfolio/seenit_rebrand-mockup-6.jpg" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-mockup-5.jpg" width="2185" height="1134" /></div>
+<div><img class="larger-image" width="2185" height="1134" src="/assets/images/portfolio/seenit_rebrand-mockup-5.jpg" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-mockup-7.jpg" width="2400" height="1350" /></div>
+<div><img class="larger-image" width="2400" height="1350" src="/assets/images/portfolio/seenit_rebrand-mockup-7.jpg" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-mockup-11.jpg" width="1000" height="860" /></div>
+<div><img class="larger-image" width="1000" height="860" src="/assets/images/portfolio/seenit_rebrand-mockup-11.jpg" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-mockup-9.jpg" width="1200" height="1048" /></div>
+<div><img class="larger-image" width="1200" height="1048" src="/assets/images/portfolio/seenit_rebrand-mockup-9.jpg" /></div>
 
 ## Delivery
 
 We set a launch date of early May 2020. I wanted to put together a launch video for us to run with. I used some of the messaging put together by Hodes and the logo animations to put together a simple After Effects animation that we could post out across our marketing channels to announce the new identity.
 
-[https://youtu.be/PaZUay35D5o](https://youtu.be/PaZUay35D5o)
+&nbsp;
+
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9QYVpVYXkzNUQ1byIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhY2NlbGVyb21ldGVyOyBhdXRvcGxheTsgY2xpcGJvYXJkLXdyaXRlOyBlbmNyeXB0ZWQtbWVkaWE7IGd5cm9zY29wZTsgcGljdHVyZS1pbi1waWN0dXJlIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/PaZUay35D5o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+&nbsp;
 
 We worked with a PR agency to put together a [press release](https://www.seenit.io/blog/news/introducing-the-new-seenit/) and a [press site](https://www.seenit.io/press) that we could send out to pick up some press interest.
 
@@ -127,9 +131,9 @@ Though the rebrand cannot be directly responsible for all of these results, it's
 
 As someone that tries to post once or month or so on LinkedIn, announcing the rebrand was my most liked post to date.
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-image.png" width="1098" height="232" /></div>
+<div><img class="larger-image" width="1098" height="232" src="/assets/images/portfolio/seenit_rebrand-image.png" /></div>
 
-<div><img class="larger-image" src="/assets/images/portfolio/seenit_rebrand-post.png" width="1138" height="1704" /></div>
+<div><img class="larger-image" width="1138" height="1704" src="/assets/images/portfolio/seenit_rebrand-post.png" /></div>
 
 ## Learning
 
