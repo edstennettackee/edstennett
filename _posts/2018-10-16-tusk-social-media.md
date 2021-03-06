@@ -5,7 +5,7 @@ tags:
   - Design
 date: 2018-10-16 08:20:00
 image: /assets/images/blog/tusk-social-6.jpg
-duration: 3 min read
+duration: 1 min read
 ---
 ### A collection of social media posts designed for Tusk.
 
