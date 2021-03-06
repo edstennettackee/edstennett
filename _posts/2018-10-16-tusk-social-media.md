@@ -9,16 +9,18 @@ duration: 3 min read
 ---
 ### A collection of social media posts designed for Tusk.
 
-<div class="container"><div class="row"><div class="col-12"><div class="post-img-alt-container"><img data-src="{{ site.baseurl }}/assets/images/blog/tusk-social-1.jpg" class="lazy post-img-alt" alt="Tusk social media post" /></div></div></div></div>
+<div><img class="larger-image" src="/assets/images/blog/tusk-social-1.jpg" width="640" height="640" /></div>
 
-<div class="container"><div class="row"><div class="col-12"><div class="post-img-alt-container"><img data-src="{{ site.baseurl }}/assets/images/blog/tusk-social-2.jpg" class="lazy post-img-alt" alt="Tusk social media post" /></div></div></div></div>
+<div><img src="/assets/images/blog/tusk-social-2.jpg" width="640" height="640" /></div>
 
-<div class="container"><div class="row"><div class="col-12"><div class="post-img-alt-container"><img data-src="{{ site.baseurl }}/assets/images/blog/tusk-social-3.jpg" class="lazy post-img-alt" alt="Tusk social media post" /></div></div></div></div>
+<div><img class="larger-image" src="/assets/images/blog/tusk-social-3.jpg" width="640" height="640" /></div>
 
-<div class="container"><div class="row"><div class="col-12"><div class="post-img-alt-container"><img data-src="{{ site.baseurl }}/assets/images/blog/tusk-social-4.jpg" class="lazy post-img-alt" alt="Tusk social media post" /></div></div></div></div>
+<div><img src="/assets/images/blog/tusk-social-4.jpg" /></div>
 
-<div class="container"><div class="row"><div class="col-12"><div class="post-img-alt-container"><img data-src="{{ site.baseurl }}/assets/images/blog/tusk-social-5.jpg" class="lazy post-img-alt" alt="Tusk social media post" /></div></div></div></div>
+<div><img class="larger-image" src="/assets/images/blog/tusk-social-5.jpg" /></div>
 
-<div class="container"><div class="row"><div class="col-12"><div class="post-img-alt-container"><img data-src="{{ site.baseurl }}/assets/images/blog/tusk-social-6.jpg" class="lazy post-img-alt" alt="Tusk social media post" /></div></div></div></div>
+<div><img src="/assets/images/blog/tusk-social-6.jpg" /></div>
 
-<div class="container"><div class="row"><div class="col-12"><div class="post-img-alt-container"><img data-src="{{ site.baseurl }}/assets/images/blog/tusk-social-7.jpg" class="lazy post-img-alt" alt="Tusk social media post" /></div></div></div></div>
+<div><img class="larger-image" src="/assets/images/blog/tusk-social-7.jpg" /></div>
+
+<div class="container"><div class="row"><div class="col-12"><div class="post-img-alt-container">&nbsp;</div></div></div></div>
