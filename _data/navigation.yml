@@ -33,7 +33,7 @@ header_nav:
             - label:
               url:
               new_tab: false
-          social_icons: false                
+          social_icons: false
   - label: Blog
     url: /blog/
     new_tab: false
@@ -69,24 +69,30 @@ footer_nav:
         new_tab: false
   - heading: Portfolio
     links:
-      - label: Overview
-        url: /product-overview
+      - label: Seenit rebrand
+        url: /portfolio/seenit-rebrand/
         new_tab: false
-      - label: How it works
-        url: /how-it-works
+      - label: Tusk Tasks GTM
+        url: /portfolio/tusk-go-to-market/
         new_tab: false
-      - label: Use Cases
-        url: /use-cases
+      - label: Website launch
+        url: /portfolio/seenit-website/
         new_tab: false
-      - label: Professional Services
-        url: /services/professional-services
+      - label: CRM migration
+        url: /portfolio/crm-migration/
         new_tab: false
   - heading: Blog
     links:
-      - label: Home
-        url: /resources/
+      - label: Mike Posner and the power of storytelling
+        url: /blog/mike-posner-storytelling/
         new_tab: false
-      - label: Blog
-        url: /blog
+      - label: To define is to limit
+        url: /blog/to-define-is-to-limit/
+        new_tab: false
+      - label: A study in colour
+        url: /blog/a-study-in-colour/
+        new_tab: false
+      - label: Golden rules of logo design
+        url: /blog/tusk-logo-design/
         new_tab: false
 ---
