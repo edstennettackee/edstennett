@@ -9,9 +9,8 @@ tags:
   - Design
 date: 2019-01-10 08:20:00
 image: /assets/images/blog/2019-01-10-storytelling.jpg
-duration: 3 min read
+duration: 4 min read
 ---
-<div align="center"><a id="FLEFPkfuTzV8HqeJpyGffw" class="gie-single" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;" href="http://www.gettyimages.co.uk/detail/1070918866">Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'FLEFPkfuTzV8HqeJpyGffw',sig:'BxkdwVZtHdLhXmKK8Jqv2bejKyAwax_1lEt-3msOUts=',w:'594px',h:'396px',items:'1070918866',caption: true ,tld:'co.uk',is360: false })});</script><script src="//embed-cdn.gettyimages.com/widgets.js" charset="utf-8" async=""></script></div>
 
 As a Product Designer I’m used to shifting pixels, kerning letter forms, and asking users ‘what they expected when they pressed that button’. As a result, words don’t come as naturally to me as others, but I saw a video this week that I felt really captured what we are trying to say at Seenit. It proved that you don’t always need enormous budgets and expensive cameras to tell a story, and that sometimes the stories worth telling can be filmed on a phone.
 
