@@ -7,10 +7,7 @@ description: >-
   (for example by running a script) on a User’s device as they interact with
   this Website.
 image:
-date: 2021-01-03 00:00:00
-emoji: "\U0001F36A"
-active_legal_document: true
-sitemap: true
+date: 2021-03-07 00:00:00
 ---
 
 Cookie Policy of **edstennett.com**
