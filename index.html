@@ -61,7 +61,7 @@ showreel:
                 <div id="title-height-container">
                     <h1 class="headline">Hello, I’m Ed Stennett 👋</h1> 
                 </div>
-                <p class="body-2 editable">I’m a product marketing manager at Seenit with 7 years experience working across brand, product and marketing. For the last 3 and a half years I’ve been working at Seenit, a small SaaS startup based in London.</p>
+                <p class="body-2 editable">I’m a product marketing manager at Seenit with 7 years experience working across brand, product and marketing. For the last 3 and a half years I’ve been working at Seenit, a B2B SaaS startup based in London.</p>
                 <div class="button-group">
                     <a class="button brand editable" href="/portfolio/">Explore portfolio</a>
                     <a class="button ghost-brand editable" href="/contact/">Request CV</a>
@@ -83,8 +83,8 @@ showreel:
                     <div class="col-md-9">
                         <p class="overline editable">About</p>
                         <h2 class="title editable">I help companies build and market remarkable products</h2>
-                        <p class="body-2 editable">I started out in Winchester at a pharmaceutical training agency where I worked for four years. I left in mid 2017 as a technical director. I gained enormous experience in design and technology on global scale, working with some of the largest pharmaceutical companies in the world. In the summer of 2017 I moved to London to join a wired top 100 start up called Seenit. There, I work as a User Interface Designer across web, iOS and Android. alongside large product, engineering, and research and development teams’. </p>
-                        <p class="body-2 editable">In my spare time, I’ve learnt to code mostly with HTML, CSS, Javascript, and Ruby, working on a number of professional web projects. I’ve worked with the static site generator Jekyll, a tool I’ve used for all the websites I’ve build for clients professionally. Check some of them out.</p>
+                        <p class="body-2 editable">I started out at a small Winchester-based agency where I worked for  almost four years. I left in mid 2017 as Creative Director. I gained enormous experience across product, design, and technology, helping some of the largest pharmaceutical companies in the world. In the summer of 2017 I moved to London to join a wired top 100 start up called Seenit. I work as a Product Marketing Manager. From go-to-market and competitor insights, to brand and marketing design no two days are the same.</p>
+                        <p class="body-2 editable">In my spare time, I’ve learnt to code mostly with HTML, CSS, Javascript, and Ruby, working on a number of professional web projects (and this site!). I’ve worked with the static site generator Jekyll, a tool I’ve used for all the websites I’ve build for clients professionally.</p>
                         <a class="button ghost-brand editable" href="/contact/">Request CV</a>
                     </div>
                 </div>
@@ -97,19 +97,4 @@ showreel:
         {% include panels.html panels=page.first_panels %}        
     </div>
 </section>
-<section>
-    <div class="wrapper">
-        <div class="row middle-xs">
-            <div class="col-xs-12 col-md-8 col-md-offset-2 txt-center margin-top-16">
-                <p class="overline editable">All in all</p>
-                <h2 class="editable title">Watch my showreel</h2>
-                <p class="editable body-2 margin-bottom-32">I’m a product marketing manager at Seenit with 7 years experience working across product and marketing. For the last 3 and a half years I’ve been working at Seenit, a small SaaS startup based in London.</p>
-            </div>
-            <div class="col-xs-12 col-md-offset-1 col-md-10">
-                <a class="play-video" href="{{page.showreel.video_url}}">
-                    <img data-src="{{page.showreel.image}}" class="lazyload" alt="What is Stellar?"/>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
+{% include showreel.html %}

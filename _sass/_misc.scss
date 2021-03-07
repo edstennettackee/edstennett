@@ -441,20 +441,21 @@ hr {
 
 // Cookies
 
-div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom div#hs-eu-cookie-confirmation-inner {
-    padding: $space-24 !important;
-    max-width: 480px;
-    border-radius: 24px;
-    border-radius: $border-radius !important;
+@media only screen and (min-width: 960px) {
+    div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom {
+    border-bottom: 0;
+    bottom: 0;
+    top: auto;
+    max-width: 480px !important;
+    }
 }
-
 
 div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom {
   box-shadow: $surface-raised!important;
   font-size: rem(16px);
   border: none!important;
   border-radius: $border-radius !important;
-  margin: $space-24 im !important;
+  margin: $space-24 !important;
 
   div#hs-eu-cookie-confirmation-inner {
     padding: $space-24!important;
@@ -462,15 +463,28 @@ div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom {
   
   #hs-eu-policy-wording p {
     font-family: $neuzeit!important;
-    color: $grey-1!important;
+    color: $grey-2!important;
     font-size: rem(16px)!important;
     line-height: 1.4!important;
     letter-spacing: 0.2px!important;
+    strong {
+        font-family: $playfair!important;
+        font-size: rem(20px)!important;
+        color: $grey-1!important;
+    }
   }
 
   #hs-eu-policy-wording a {
     color: $brand!important;
     text-decoration: underline!important;
+  }
+
+  #hs-en-cookie-confirmation-buttons-area #hs-eu-confirmation-button {
+      @extend .button;
+      @extend .brand;
+      font-family: $neuzeit!important;
+      font-weight: 700 !important;
+      width: 100% !important;
   }
 
   @media screen and (max-width: 480px) {
@@ -487,6 +501,11 @@ div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom {
       font-size: rem(16px)!important;
       line-height: 1.4!important;
       letter-spacing: 0.2px!important;
+      strong {
+        font-family: $playfair!important;
+        font-size: rem(20px)!important;
+        color: $grey-1!important;
+      }
     }
 
     #hs-en-cookie-confirmation-buttons-area #hs-eu-confirmation-button {

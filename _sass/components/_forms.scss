@@ -402,27 +402,9 @@ label {
     color:$dark-green;
 }
 
-// Cookie policy
-
-div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom div#hs-eu-cookie-confirmation-inner {
-    padding: 24px !important;
-    max-width: 400px;
-    border-radius: 24px;
+.hubspot-link__container.sproket {
+    display: none;
 }
-
-@media only screen and (min-width: 960px) {
-    div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom {
-        border-bottom: 0;
-        bottom: 0;
-        top: auto;
-        box-shadow: 0 -1px 3px #eaf0f6;
-        max-width: 400px;
-        margin: 24px;
-        border-radius: 24px;
-    }
-}
-
-
 
 // .popup-form {
 //     width: 480px;
