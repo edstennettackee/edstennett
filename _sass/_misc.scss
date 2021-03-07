@@ -459,6 +459,7 @@ div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom {
 
   div#hs-eu-cookie-confirmation-inner {
     padding: $space-24!important;
+    border-radius: $border-radius !important;
   }
   
   #hs-eu-policy-wording p {
@@ -491,8 +492,13 @@ div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom {
     box-shadow: $surface-raised!important;
     font-size: rem(16px);
     border: none!important;
+    border-bottom: 0;
+    bottom: 0;
+    top: auto;
+    max-width: 480px !important;
     div#hs-eu-cookie-confirmation-inner {
       padding: $space-24!important;
+      border-radius: $border-radius !important;
     }
     
     #hs-eu-policy-wording p {
@@ -515,4 +521,13 @@ div#hs-eu-cookie-confirmation.hs-cookie-notification-position-bottom {
       font-size: rem(16px)!important;
     }
   }
+}
+
+div#hs-eu-cookie-confirmation {
+    height: auto;
+    position: fixed !important;
+    bottom: 0 !important;
+    top: auto !important;
+    max-width: 480px !important;
+    width: auto !important;
 }
