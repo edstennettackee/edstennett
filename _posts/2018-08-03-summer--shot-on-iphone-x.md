@@ -1,20 +1,8 @@
----
-title: Summer • shot on iPhone X
-description: >-
-  By no means would I consider myself a good photographer, but since getting an
-  iPhone X I found myself taking loads of photos using the portrait mode.
-tags:
-  - Design
-author: Ed Stennett
-date: 2018-08-03 08:20:00
-image: /assets/images/blog/18-08-03-olives.jpg
-duration: 1 min read
----
 #### By no means would I consider myself a good photographer, but since getting an iPhone X I found myself taking loads of photos using the portrait mode.
 
 Have a browse through some of the photos I've taken over the course of the Summer of 2018, shot on iPhone X.
 
-<section><h3>Photography</h3><div><img class="larger-image" src="/assets/images/blog/18-08-03-bridge.jpg" width="1500" height="2000" /></div><div class="full-width portfolio-banner">&nbsp;</div><div>The London Eye, London Bridge.</div><div><img class="larger-image" src="/assets/images/blog/18-08-03-sunset.jpg" width="2000" height="1993" /></div><div>Sunset, Liverpool Street.</div><div><img class="larger-image" src="/assets/images/blog/18-08-03-building.jpg" width="2000" height="2667" /></div><div>Sunset, Liverpool Street.</div><div><img class="larger-image" src="/assets/images/blog/18-08-03-bookcase.jpg" width="2000" height="2654" /></div><div>A bookcase, Liverpool Street.</div><div><img class="larger-image" src="/assets/images/blog/18-08-03-burger.jpg" width="2000" height="2057" /></div><div>Blackbear burger, Boxpark, Shoreditch.</div><div>&nbsp;</div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></section>
+<section><h3>Photography</h3><div><img class="larger-image" src="/assets/images/blog/18-08-03-bridge.jpg" width="1500" height="2000" /></div><div class="full-width portfolio-banner">&nbsp;</div><div>The London Eye, London Bridge.</div><div><img class="larger-image" src="/assets/images/blog/18-08-03-sunset.jpg" width="2000" height="1993" /></div><div>Sunset, Liverpool Street.</div><div><img class="larger-image" src="/assets/images/blog/18-08-03-building.jpg" width="2000" height="2667" /></div><div>Sunset, Liverpool Street.</div><div><img class="larger-image" src="/assets/images/blog/18-08-03-bookcase.jpg" width="2000" height="2654" /></div><div>A bookcase, Liverpool Street.</div><div><img class="larger-image" src="/assets/images/blog/18-08-03-burger.jpg" width="2000" height="2057" /></div><div>Blackbear burger, Boxpark, Shoreditch.</div><div>&nbsp;</div><div>&nbsp;</div><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></section>
 
 <div class="container"><div class="row"><div class="col-12"><div class="post-img-alt-container"><img data-src="{{ site.baseurl }}/assets/images/blog/18-08-03-sunset.jpg" class="lazy post-img-alt" alt="sunset" /><h6>Sunset, Liverpool Street.</h6></div></div></div></div>
 
