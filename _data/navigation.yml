@@ -58,14 +58,11 @@ header_cta:
 footer_nav:
   - heading: Home
     links:
-      - label: About us
-        url: /about-us
+      - label: Homepage
+        url: /
         new_tab: false
-      - label: Careers
-        url: /jobs
-        new_tab: false
-      - label: Press
-        url: /press
+      - label: About
+        url: /#about
         new_tab: false
   - heading: Portfolio
     links:
