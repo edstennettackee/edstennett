@@ -5,11 +5,8 @@ description: >-
   through third parties, there are: Tracker; Usage Data; email address; phone
   number; various types of Data; first name; last name; company name;
   profession; number of employees.
-image: /assets/images/open_graph/og_privacy_notice.png
-date: 2020-12-31 00:00:00
-emoji: "\U0001F4CE"
-active_legal_document: true
-sitemap: true
+image:
+date: 2020-03-07 00:00:00
 ---
 
 Privacy Policy of&nbsp;**edstennett.com.**
