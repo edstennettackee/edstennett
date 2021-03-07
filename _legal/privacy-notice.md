@@ -1,9 +1,10 @@
 ---
-title: Privacy notice
+title: Privacy policy
 description: >-
-  Seenit respects the privacy of every person who uses Seenit and we are
-  committed to ensuring high standards of data protection compliance in
-  everything we do.
+  Among the types of Personal Data that this Website collects, by itself or
+  through third parties, there are: Tracker; Usage Data; email address; phone
+  number; various types of Data; first name; last name; company name;
+  profession; number of employees.
 image: /assets/images/open_graph/og_privacy_notice.png
 date: 2020-12-31 00:00:00
 emoji: "\U0001F4CE"
@@ -11,320 +12,264 @@ active_legal_document: true
 sitemap: true
 ---
 
-SEENIT respects the privacy of every person who uses SEENIT and we are committed to ensuring high standards of data protection compliance in everything we do.
+Privacy Policy of&nbsp;**edstennett.com.**
 
-## **1 WHAT IS THE PURPOSE OF THIS NOTICE?**
+This Website collects some Personal Data from its Users.
 
-1\.1 This privacy notice applies to all services we provide across our apps, the web, social media and elsewhere (the “SEENIT Services”). It explains our approach to how we use any personal information that is provided to or collected by us in connection with your use of the SEENIT Services or any other interaction you have with SEENIT, including who we share it with.
+This document can be printed for reference by using the print command in the settings of any browser.
 
-1\.2 Please be aware when you use the SEENIT Service to join or submit content to one of our brand Partner’s Projects, we will need to pass them some of your personal information and the content, as explained below. At that point please note that their privacy notice will also apply and you should check that you are happy with how they will store and use your personal information before you join a Project.
+## Owner and Data Controller
 
-1\.3 This privacy notice also sets out the legal basis on which we are permitted to process your personal information, your rights in respect of our use of your personal information, how you can verify what personal information is held by us, and how you can request that we delete, update or transfer it.
+Ed Stennett, 13 Hetley Road, London, W12 8BA.
 
-1\.4 This privacy notice is intended to assist you in making informed decisions when using the SEENIT Services. Please read it thoroughly and note that it should be read in conjunction with our Terms of Use.
+**Owner contact email:**&nbsp;hello@edstennett.com
 
-## **2 WHO ARE WE AND WHAT DO WE DO?**
+## Types of Data collected
 
-2\.1 The SEENIT Services are operated by SEENIT DIGITAL LIMITED (“SEENIT”, “we” “us” or “our”).
+Among the types of Personal Data that this Website collects, by itself or through third parties, there are: Tracker; Usage Data; email address; phone number; various types of Data; first name; last name; company name; profession; number of employees.
 
-2\.2 SEENIT Limited is an English company with company number: 08838909 and whose registered address is150 Buckingham Palace Road, London, SW1W 9TR, UK.
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Website.Unless specified otherwise, all Data requested by this Website is mandatory and failure to provide this Data may make it impossible for this Website to provide its services. In cases where this Website specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.Any use of Cookies – or of other tracking tools – by this Website or by the owners of third-party services used by this Website serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
 
-2\.3 The SEENIT Service enables brands to create videos with the help of various participants and contributors. To do this, we partner with brands (our brand “Partners”) to allow you to submit content to those brand Partners for their use on a particular project (“Project”). When you join a Partner’s Project via the SEENIT Service we will need to share your contact details with the relevant Partner so they can contact you about the Project as explained below. They will hold and deal with your personal information in accordance with their own privacy notice.
+Users are responsible for any third-party Personal Data obtained, published or shared through this Website and confirm that they have the third party's consent to provide the Data to the Owner.
 
-## **3 HOW TO CONTACT US?**
+## Mode and place of processing the Data
 
-3\.1 If you have any questions about this privacy notice or want to exercise your rights, please contact us by:
+### Methods of processing
 
-* sending an email to dataprotection@seenit.io; or
-* writing to us at Seenit Digital Limited, 150 Buckingham Palace Road, London, SW1W 9TR
+The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Website (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
 
-## **4 WHAT PERSONAL INFORMATION DO WE COLLECT AND HOW DO WE COLLECT IT?**
+### Legal basis of processing
 
-4\.1 Personal information may be collected from you in the following ways (see in the following section for information on how and why we use the information):
+The Owner may process Personal Data relating to Users if one of the following applies:
 
-Information you voluntarily provide to us directly.
+* Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;
+* provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
+* processing is necessary for compliance with a legal obligation to which the Owner is subject;
+* processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;
+* processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
 
-We collect and maintain personal information that you voluntarily submit to us during your use of the SEENIT Services or other contact with us. For example when you sign up to use the SEENIT app, register on the website, submit content contributions, post comments or for example use our chat function.
+In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
-This may include registration information (some of which will be optional):
+### Place
 
-* Name;
-* Email Address;
-* City or Country;
-* Phone number;
-* Company name;
-* Profile picture;
-* Social media username or handle.
+The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
 
-And may include information in the content you submit:
+Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
 
-* Your image or likeness (or that of others who also appear) in the content you upload;
-* Other information about yourself (or that of others who also appear) in the content you upload;
-* Other information about yourself (or that of others who are also mentioned) in the messages you send to us.
+### Retention time
 
-Further information you voluntarily provide to us through social media log in.
+Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
 
-If you sign up or register using our social media (such as Facebook) login functionality, we collect and maintain personal information from your social media profile that you voluntarily agree to be provided to us.
+Therefore:
 
-This may include:
+* Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
+* Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner.
 
-* Name;
-* Email address;
-* Date of Birth (not retained or used);
-* Gender (not retained or used);
-* Profile picture;
-* Facebook profile ID;
-* Social media usernames or handles.
+The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
 
-Information we collect through your use of the SEENIT Service.
+## The purposes of processing
 
-We collect, through our use of cookies, pixels, beacons, log files or other technologies, information about your use of and navigation around the SEENIT Services, including information regarding your mobile device or the computer hardware and software used to access the SEENIT Services.
+The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Traffic optimization and distribution, Analytics, Tag Management, User database management, Advertising, Handling productivity related activity , Content performance and features testing (A/B testing), Heat mapping and session recording, Interaction with data collection platforms and other third parties, Contacting the User and SPAM protection.
 
-This may include the following:
+For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
 
-* IP address of device(s);
-* browser type;
-* operating system and device type;
-* your device’s IMEI number;
-* the MAC address of the device’s wireless network interface;
-* the mobile phone number used by the device;
-* metadata relating to the content you submit including upload times, dates and location;
-* mobile network information;
-* your mobile operating systems;
-* your time zone setting;
-* access times and dates;
-* referring website addresses;
-* navigation around the site;
-* links followed, including in emails;
-* time spent on pages or viewing content;
-* types of content viewed and shared;
+## Detailed information on the processing of Personal Data
 
-Please see the Data Analytics and Insight section below and our [**Cookie Policy**](/legal/cookie-policy/) for further information.
+Personal Data is collected for the following purposes and using the following services:
 
-Information we receive from third party brand Partners.
+### Advertising
 
-In some situations we may receive your email address from your employer or other third party company who validly holds your details and is permitted to share them with us. This will be used solely to invite you to take part in their Project. We will not store or use your email address for any other purposes.
+This type of service allows User Data to be utilized for advertising communication purposes. These communications are displayed in the form of banners and other advertisements on this Website, possibly based on User interests.This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.Some of the services listed below may use Trackers to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Website. For more information, please check the privacy policies of the relevant services.In addition to any opt-out feature offered by any of the services below, Users may opt out by visiting the&nbsp;[Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/?c=1).
 
-## **5 HOW DO WE USE YOUR PERSONAL INFORMATION?**
+**Users may also opt-out of certain advertising features through applicable device settings, such as the device advertising settings for mobile phones or ads settings in general**.
 
-5\.1 We use the personal information we collect from or about you for the following purposes:
+### Analytics
 
-Provision of the SEENIT Service.
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
 
-We use your registration information to register you and create your user account, log you in, verify who you are and otherwise to provide you with our access to the SEENIT Services.
+#### Google Analytics (Google Ireland Limited)
 
-What is our legal basis?
+Google Analytics is a web analysis service provided by Google Ireland Limited (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-It is necessary for the performance and fulfilment of the contract between us to provide you with services for which you have registered.
+Personal Data processed: Tracker; Usage Data.
 
-Sharing your registration data with brand Partners.
+Place of processing: Ireland –&nbsp;[Privacy Policy](https://policies.google.com/privacy){: target="_blank" rel="noopener noreferrer"}&nbsp;–&nbsp;[Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en){: target="_blank"}.
 
-Where you join a particular Project, we will share your name and email address with the relevant brand Partner. This is to enable them to contact you about their use of the content you submit and check on rights clearances etc. The rest of your registration information will be available to the relevant brand Partner to enable them to review and select content for their use.
+#### HubSpot Analytics (HubSpot, Inc.)
 
-What is our legal basis?
+HubSpot Analytics is an analytics service provided by HubSpot, Inc.
 
-It is necessary for the performance and fulfilment of the contract between us to provide you with services for which you have registered. As such, when you submit information for these purposes we will take that as consent to use your personal information in this way.
+Personal Data processed: Tracker; Usage Data.
 
-Use of the content you submit.
+Place of processing: United States –&nbsp;[Privacy Policy](https://legal.hubspot.com/privacy-policy){: target="_blank" rel="noopener noreferrer"}&nbsp;–&nbsp;[Opt Out](mailto:privacy@hubspot.com)&nbsp;.
 
-Where you submit content (e.g. videos or photos) to a Project, this content may contain your personal information, or those of others who also appear or are mentioned, in the form of images or other information that may identify you or them. This information is used inherently when we or the relevant brand Partner use the content in a Project. We may also use this content to promote SEENIT Service and demo the functionality and content contributions we receive.
+### Contacting the User
 
-What is our legal basis for doing this?
+#### Contact form (this Website)
 
-It is necessary for the performance and fulfilment of the contract between us to provide you with services for which you have registered.
+By filling in the contact form with their Data, the User authorizes this Website to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
 
-It is in our legitimate interest to use your content information to demo and promote our services. To the extent this content contains sensitive personal data (for example about your sexuality, religion, health or political views) we will take the fact that you submitted the content to us as consent to use your content and the personal information in this way, and confirmation that you have the consent of any others appearing in the content.
+Personal Data processed: company name; email address; first name; last name; number of employees; phone number; profession; various types of Data.
 
-Sharing your content with brand Partners
+#### Mailing list or newsletter (this Website)
 
-Where you submit content for a particular Project, we will share this content with the relevant brand Partner. This is for their independent use in accordance with the Terms of Use of the SEENIT Service and the Project specific Content Terms which you can access when you sign up for a Project.
+By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Website. Your email address might also be added to this list as a result of signing up to this Website or after making a purchase.
 
-What is our legal basis for doing this?
+Personal Data processed: email address; first name; last name.
 
-It is necessary for the performance and fulfilment of the contract between us to provide you with services for which you have registered. As such, when you submit content for these purposes we will take that as consent to use your content and the personal information in this way, and confirmation that you have the consent of any others appearing in the content.
+### Handling productivity related activity
 
-Derivative content
+This type of service helps the Owner to manage tasks, collaboration and, in general, activities related to productivity. In using this type of service, Data of Users will be processed and may be retained, depending on the purpose of the activity in question.These services may be integrated with a wide range of third-party services disclosed within this privacy policy to enable the Owner to import or export Data needed for the relative activity.
 
-Where you submit content to us, we create transcripts and other derived metadata and tags relating to the content from video and image analysis/recognition, such as:
+#### Google Workspace (Google Ireland Limited)
 
-* transcripts;
-* location / type of scene description (inside/outside/crowds etc);
-* emotions, sentiment, mood depicted;
-* gender and other physical (traits such as facial hair).
+Google Workspace is an integrated suite of cloud-based productivity, collaboration and storage services provided by Google Ireland Limited. Gmail or other G Suite services are not scanned by Google for advertising purposes. In addition, Google does not collect or use data inside these services for advertising purposes in any other way.
 
-This information is logged against the videos or content, not the users, and enables us to analyse, categorise and search content. This derivative information will be available to the relevant brand Partner to enable them to review and select content for their use.
+Personal Data processed: Tracker.
 
-What is our legal basis for doing this?
+Place of processing: Ireland –&nbsp;[Privacy Policy](https://policies.google.com/privacy){: target="_blank" rel="noopener noreferrer"}.
 
-Where your personal information is completely anonymised, we do not require a legal basis to use it as the information will not constitute “personal information” that is regulated under data protection laws.
+### SPAM protection
 
-Where your personal information is not in an anonymous form, it is in our legitimate interest to use your personal information in such a way to ensure that we provide the very best services to you and our other users.
+This type of service analyzes the traffic of this Website, potentially containing Users' Personal Data, with the purpose of filtering it from parts of traffic, messages and content that are recognized as SPAM.
 
-Inviting you to take part in a Project.
+#### Google reCAPTCHA (Google Ireland Limited)
 
-Whether we have received your email address from a brand Partner or from your employer who validly holds your details and is permitted to share them with us, we will use this information solely to invite you to take part in their Project.
+Google reCAPTCHA is a SPAM protection service provided by Google Ireland Limited.The use of reCAPTCHA is subject to the Google&nbsp;[privacy policy](https://www.google.com/policies/privacy/)&nbsp;and&nbsp;[terms of use](https://www.google.com/intl/en/policies/terms/).
 
-What is our legal basis for doing this?
+Personal Data processed: Tracker; Usage Data.
 
-It is in our legitimate interest to use your personal information in such a way to ensure that we provide the very best service we can to you.
+Place of processing: Ireland –&nbsp;[Privacy Policy](https://policies.google.com/privacy){: target="_blank" rel="noopener noreferrer"}.
 
-Recommending further Projects to you.
+### Traffic optimization and distribution
 
-We analyse information about you and your content to create insights about what further projects may be of interest to you. We use these insights to identify and recommend further projects from other brand partners that we think may be of interest to you.
+This type of service allows this Website to distribute their content using servers located across different countries and to optimize their performance.Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function is to filter communications between this Website and the User's browser.Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain Personal Information of the User are transferred.
 
-What is our legal basis for doing this?
+#### Cloudflare (Cloudflare Inc.)
 
-It is in our legitimate interest to use your personal information in such a way to ensure that we provide the very best service we can and to give you the opportunity to take part in other projects that may be of interest to you.
+Cloudflare is a traffic optimization and distribution service provided by Cloudflare Inc.The way Cloudflare is integrated means that it filters all the traffic through this Website, i.e., communication between this Website and the User's browser, while also allowing analytical data from this Website to be collected.
 
-Data Analytics and Insight.
+Personal Data processed: Tracker; various types of Data as specified in the privacy policy of the service.
 
-We analyse usage information including that which we observe about users from their interactions with our SEENIT Service, and/or the content submitted or viewed.
+Place of processing: United States –&nbsp;[Privacy Policy](https://www.cloudflare.com/privacypolicy/){: target="_blank" rel="noopener noreferrer"}.
 
-This information is used to create insights about usage and viewing habits across our services. By using this information, we are able to measure the effectiveness of our service and how users use SEENIT Services and improve the functionality of our services.
+### User database management
 
-What is our legal basis for doing this?
+This type of service allows the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to this Website, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks' profiles) and used to build private profiles that the Owner can display and use for improving this Website.Some of these services may also enable the sending of timed messages to the User, such as emails based on specific actions performed on this Website.
 
-Where your personal information is completely anonymised, we do not require a legal basis to use it as the information will not constitute “personal information” that is regulated under data protection laws.
+#### HubSpot CRM (HubSpot, Inc.)
 
-However, our collection and use of such anonymised personal information may still be subject to other laws where your consent is required. Please see our [**Cookie Policy**](/legal/cookie-policy/) for further details.
+HubSpot CRM is a User database management service provided by HubSpot, Inc.
 
-Where your personal information is not in an anonymous form, it is in our legitimate interest to use your personal information in such a way to ensure that we provide the very best services to you and our other users.
+Personal Data processed: email address; phone number; various types of Data as specified in the privacy policy of the service.
 
-Sending you newsletters or other marketing communications (from SEENIT) for which you have subscribed.
+Place of processing: United States –&nbsp;[Privacy Policy](https://legal.hubspot.com/privacy-policy){: target="_blank" rel="noopener noreferrer"}.
 
-Where you have given your consent we use your personal information to send you marketing materials about SEENIT products and services which we think you might be of interest to you.
+## The rights of Users
 
-What is our legal basis for this?
+Users may exercise certain rights regarding their Data processed by the Owner.
 
-We rely on your consent to be able to do this – given at the time that you request the marketing communications.
+In particular, Users have the right to do the following:
 
-Sharing information with third party processors.
+* **Withdraw their consent at any time.**&nbsp;Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.
+* **Object to processing of their Data.**&nbsp;Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.
+* **Access their Data.**&nbsp;Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
+* **Verify and seek rectification.**&nbsp;Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
+* **Restrict the processing of their Data.**&nbsp;Users have the right, under certain circumstances, to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.
+* **Have their Personal Data deleted or otherwise removed.**&nbsp;Users have the right, under certain circumstances, to obtain the erasure of their Data from the Owner.
+* **Receive their Data and have it transferred to another controller.**&nbsp;Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that the Data is processed by automated means and that the processing is based on the User's consent, on a contract which the User is part of or on pre-contractual obligations thereof.
+* **Lodge a complaint.**&nbsp;Users have the right to bring a claim before their competent data protection authority.
 
-We may share your personal information with third party processors in order to provide the SEENIT Services to you. This includes companies that for example who host our servers or manage our databases for us, or provide other technology solutions. They have no independent rights to use your data and are strictly controlled by us under contract.
+### Details about the right to object to processing
 
-What is our legal basis for doing this?
+Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
 
-It is in our legitimate interests to share your personal information in such a way to ensure that we provide the very best service we can to you.
+Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document.
 
-Service Administration.
+### How to exercise these rights
 
-We may also use your personal information to:
+Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
 
-* help improve the SEENIT Services; and
-* contact you to answer any queries you may have sent to us or to seek feedback from you.
+## Cookie Policy
 
-What is our legal basis for doing this?
+This Website uses Trackers. To learn more, the User may consult the&nbsp;[Cookie Policy](/legal/cookie-policy/).
 
-It is in our legitimate interest to use your personal information in such a way to ensure that we provide the very best service we can to you.
+## Additional information about Data collection and processing
 
-Business administration, record keeping and legal compliance.
+### Legal action
 
-We use your personal information for the following business administration and legal compliance purposes:
+The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Website or the related Services.The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
 
-* to comply with our legal obligations;
-* to enforce our legal rights;
-* protect rights of third parties; and
-* in connection with a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets.
+### Additional information about User's Personal Data
 
-Use in this way may involve us sharing your personal information with professional advisers such as lawyers and accountants and/or governmental or regulatory authorities.
+In addition to the information contained in this privacy policy, this Website may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.
 
-What is our legal basis?
+### System logs and maintenance
 
-It is in our legitimate interest to ensure that we keep our records up-to-date and use them in connection with a business transition, enforce our legal rights, or to protect the rights of third parties. Otherwise, it is our legal obligation to use your personal information to comply with any legal obligations imposed upon us or other laws and regulations that we are subject to.
+For operation and maintenance purposes, this Website and any third-party services may collect files that record interaction with this Website (System logs) use other Personal Data (such as the IP Address) for this purpose.
 
-## **6 HOW DO WE OBTAIN YOUR CONSENT?**
+### Information not contained in this policy
 
-6\.1 Where use of your personal information by us requires your consent, you may provide such consent:
+More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document.
 
-* at the time we collect your personal information by following the options we provide;
-* by submitting information or content with a clear understanding of what it will be used for; or
-* by informing us using the contact details set out in this privacy notice.
+### How “Do Not Track” requests are handled
 
-## **7 USE OF COOKIES**
+This Website does not support “Do Not Track” requests.To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies.
 
-7\.1 The SEENIT Services may use certain cookies and other technologies of which you should be aware. Please see our [**Cookie Policy**](/legal/cookie-policy/) to find out more about the cookies we use and how to manage and delete cookies.
+### Changes to this privacy policy
 
-## **8 THIRD PARTY LINKS AND SERVICES**
+The Owner reserves the right to make changes to this privacy policy at any time by notifying its Users on this page and possibly within this Website and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
 
-8\.1 The SEENIT Services may contain links to third party brands, websites and services. Please remember that when you use a link to go from the SEENIT Services to another website or you request a service from a third party, this privacy notice no longer applies.
+### Definitions and legal references
 
-8\.2 In particular be aware when you use the SEENIT Service to join or submit content to one of our brand Partner’s Projects, we will need to pass them some of your personal information as explained below. At that point please note that their privacy notice will also apply and you should check that you are happy with how they will store and use your personal information before you join a Project.
+#### Personal Data (or Data)
 
-8\.3 Your browsing and interaction on any other website, or your dealings with any other third party brand Partner and/or service provider, is subject to that website’s or third party’s own rules and policies.
+Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.
 
-8\.4 We do not monitor, control, or endorse the privacy practices of any third parties. We encourage you to become familiar with the privacy practices of every website you visit or third party service provider that you deal with and to contact them if you have any questions about their respective privacy policies and practices.
+#### Usage Data
 
-## **9 TRANSFERS OUTSIDE THE EEA**
+Information collected automatically through this Website (or third-party services employed in this Website), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Website, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
 
-9\.1 Although our offices and servers are based within the United Kingdom, in certain circumstances we may transfer your personal data outside the EEA to processors or subcontractors working for us, including in the USA, in connection with our business or for legal reasons. We will ensure that the transfer is lawful and that there are appropriate security arrangements.
+#### User
 
-9\.2 If the European Commission has decided that a country does not provide an adequate level of protection in relation to data that is transferred there, we will enter into an agreement ensuring appropriate and suitable safeguards with our group member, processors or other transferee, or that there is another approved transfer mechanism in place. This may be via binding corporate rules or on standard terms adopted by the Information Commissioner and approved by the European Commission.
+The individual using this Website who, unless otherwise specified, coincides with the Data Subject.
 
-## **10 HOW LONG DO WE KEEP YOUR PERSONAL INFORMATION FOR?**
+#### Data Subject
 
-We do not keep your personal data for any specific period but will not keep it for longer than is necessary for our purposes. In considering how long to keep it, we will take into account its relevance to our business and our legal and regulatory obligations.
+The natural person to whom the Personal Data refers.
 
-## **11 CONFIDENTIALITY AND SECURITY OF YOUR PERSONAL INFORMATION**
+#### Data Processor (or Data Supervisor)
 
-11\.1 We are committed to keeping the personal information you provide us secure and we will take reasonable precautions to protect it from loss, misuse or alteration.
+The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy.
 
-11\.2 We have implemented information security policies, rules and technical measures to protect the personal information that we have under our control from:
+#### Data Controller (or Owner)
 
-* unauthorised access;
-* improper use or disclosure;
-* unauthorised modification; and
-* unlawful destruction or accidental loss.
+The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of this Website. The Data Controller, unless otherwise specified, is the Owner of this Website.
 
-11\.3 All our employees and data processors (i.e. those who process your personal information on our behalf, for the purposes listed above), who have access to, and are associated with the processing of personal information, are obliged to respect the confidentiality of the personal information of all users of the SEENIT Services.
+#### This Website (or this Application)
 
-## **12 HOW TO ACCESS YOUR INFORMATION AND YOUR OTHER RIGHTS?**
+The means by which the Personal Data of the User is collected and processed.
 
-12\.1 You have the following rights in relation to the personal information we hold about you:
+#### Service
 
-Your right of access.
+The service provided by this Website as described in the relative terms (if available) and on this site/application.
 
-If you ask us, we’ll confirm whether we’re processing your personal information and, if so, provide you with a copy of that personal information (along with certain other details). If you require additional copies, we may need to charge a reasonable fee.
+#### European Union (or EU)
 
-Your right to rectification.
+Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area.
 
-If the personal information we hold about you is inaccurate or incomplete, you’re entitled to have it rectified. If we’ve shared your personal information with others, we’ll let them know about the rectification where possible. If you ask us, where possible and lawful to do so, we’ll also tell you who we’ve shared your personal information with so that you can contact them directly.
+#### Cookie
 
-Your right to erasure.
+Cookies are Trackers consisting of small sets of data stored in the User's browser.
 
-You can ask us to delete or remove your personal information in some circumstances such as where we no longer need it or you withdraw your consent (where applicable). If we’ve shared your personal information with others, we’ll let them know about the erasure where possible. If you ask us, where possible and lawful to do so, we’ll also tell you who we’ve shared your personal information with so that you can contact them directly.
+#### Tracker
 
-Your right to restrict processing.
+Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons, embedded scripts, e-tags and fingerprinting - that enables the tracking of Users, for example by accessing or storing information on the User’s device.
 
-You can ask us to ‘block’ or suppress the processing of your personal information in certain circumstances such as where you contest the accuracy of that personal information or object to us processing it. It won’t stop us from storing your personal information though. We’ll tell you before we lift any restriction. If we’ve shared your personal information with others, we’ll let them know about the restriction where possible. If you ask us, where possible and lawful to do so, we’ll also tell you who we’ve shared your personal information with so that you can contact them directly.
+#### Legal information
 
-Your right to data portability.
+This privacy statement has been prepared based on provisions of multiple legislations, including Art. 13/14 of Regulation (EU) 2016/679 (General Data Protection Regulation).
 
-With effect from 25 May 2018, you have the right, in certain circumstances, to obtain personal information you’ve provided us with (in a structured, commonly used and machine readable format) and to reuse it elsewhere or ask us to transfer this to a third party of your choice.
+This privacy policy relates solely to this Website, if not stated otherwise within this document.
 
-Your right to object. You can ask us to stop processing your personal information, and we will do so, if we’re:
-
-* relying on our own or someone else’s legitimate interests to process your personal information except if we can demonstrate compelling legal grounds for the processing;
-* processing your personal information for direct marketing; or
-* processing your personal information for research unless such processing is necessary for the performance of a task carried out in the public interest.
-
-Your rights in relation to automated decision-making and profiling.
-
-You have the right not to be subject to a decision when it’s based on automatic processing, including profiling, and it produces a legal effect or similarly significantly affects you unless such profiling is necessary for entering into, or the performance of, a contract between you and us.
-
-Your right to withdraw consent.
-
-If we rely on your consent (or explicit consent) as our legal basis for processing your personal information for certain uses, you have the right to withdraw that consent at any time for those uses.
-
-Your right to lodge a complaint with the supervisory authority. If you have a concern about any aspect of our privacy practices, including the way we’ve handled your personal information, you can report it to the UK Information Commissioner’s Office (ICO). You can find details about how to do this on the ICO website at https://ico.org.uk/concerns/ or by calling their helpline on 0303 123 1113.
-
-## **13 CHANGE TO THIS PRIVACY NOTICE**
-
-13\.1 We may make changes to this privacy notice from time to time
-
-13\.2 To ensure that you are always aware of how we use your personal information we will update this privacy notice from time to time to reflect any changes to our use of your personal information. We may also make changes as required to comply with changes in applicable law or regulatory requirements. We may notify you by email of any significant changes. However, we encourage you to review this privacy notice periodically to be informed of how we use your personal information.
-
-## **14 CHILDREN**
-
-14\.1 You are required to be at least 13 years old to use the SEENIT Service so we do not intentionally collect personal information from anyone under 13, and no one under 13 should attempt to submit any personal information to SEENIT. Should we discover that any such personal information has been submitted we will not use such information or content containing it without further consent. Where you are aged between 13 and 18 you can download the app and register with SEENIT but we will typically ask for parental consent before accepting any uploads of content via our SEENIT Service and we may need you and your parent or guardian to sign a separate consent document,
-
-Last updated: December 2020
+Latest update: March 7, 2021
