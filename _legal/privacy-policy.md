@@ -5,7 +5,7 @@ description: >-
   through third parties, there are: Tracker; Usage Data; email address; phone
   number; various types of Data; first name; last name; company name;
   profession; number of employees.
-image:
+image: /assets/images/og-main.png
 date: 2020-03-07 00:00:00
 ---
 
