@@ -6,7 +6,7 @@ description: >-
   access and store information (for example by using a Cookie) or use resources
   (for example by running a script) on a User’s device as they interact with
   this Website.
-image:
+image: /assets/images/og-main.png
 date: 2021-03-07 00:00:00
 ---
 
