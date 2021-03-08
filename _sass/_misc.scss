@@ -1,22 +1,3 @@
-.customer_and_seenit {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    margin: -4px;
-    margin-bottom: $space-12;
-
-    > * {
-        margin: $space-4;
-    }
-
-    &.white {
-        fill: $white;
-        img {
-            filter: brightness(0) invert(1);
-        }
-    }
-}
-
 .rounded, .rounded-images img {
     border-radius: $img-border-radius;
 }
